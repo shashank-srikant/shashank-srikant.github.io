@@ -1,8 +1,0 @@
-<div class="notelist">
-    {% for update in site.updates reversed %}
-    <ul class="listnotes list-unstyled">
-      <li><span><b>{{ update.date | date_to_string }}</b> &raquo;</span> {{ update.content }}</li>
-    </ul>
-    {% endfor %}
-</div>
-
