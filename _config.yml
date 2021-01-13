@@ -50,8 +50,7 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 
-contact_note: >
-Email is the best way to contact me.
+contact_note: Email is the best way to contact me.
 
 google_analytics: UA-85984737-1 # out your google-analytics code
 
@@ -68,7 +67,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: shashank # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
