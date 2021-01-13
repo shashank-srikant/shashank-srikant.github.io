@@ -7,10 +7,8 @@ first_name: Shashank
 middle_name: 
 last_name: Srikant
 email: first-name.last-name at gmail.com
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-Shashank Srikant
-footer_text: >
-Shashank Srikant
+description: Shashank Srikant
+footer_text: Shashank Srikant
 
 url:  # the base hostname & protocol for your site
 baseurl: /al-folio # the subpath of your site, e.g. /blog/
