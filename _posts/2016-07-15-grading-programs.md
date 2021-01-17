@@ -3,7 +3,7 @@ layout: distill
 title: Evaluating human skills using machine learning
 description: At <a target="_blank" href="http://research.aspiringminds.com/">Aspiring Minds</a>, we showed how the problem of quantifying human skills can be cast as a problem in machine learning. Our CACM paper provides details on this framework, while our KDD works show how we evaluate computer programs using ML.
 date: 2016-07-15
-tags: [papers, ml-for-plse, program-representation]
+tags: papers ml-for-plse program-representation
 
 ---
 <div class="publications">

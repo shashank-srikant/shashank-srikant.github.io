@@ -91,6 +91,9 @@ then
 fi
 git checkout -b $DEPLOY_BRANCH
 
+# Generate tag pages
+python tag_generator.py
+
 # Build site
 bundle _2.2.0_ exec jekyll build
 
