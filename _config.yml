@@ -7,7 +7,7 @@ first_name: Shashank
 middle_name: 
 last_name: Srikant
 email: first-name.last-name @ gmail
-description: # the ">" symbol means to ignore newlines until "footer_text:"
+description: Home | Shashank # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url:  # the base hostname & protocol for your site
