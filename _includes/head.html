@@ -63,3 +63,9 @@
     panelbear('config', { site: '{{site.panelbear_analytics}}' });
 </script>
 {% endif %}
+
+<!-- Site tags -->
+{% if site.tags != "" %}
+  {% include collecttags.html %}
+{% endif %}
+
