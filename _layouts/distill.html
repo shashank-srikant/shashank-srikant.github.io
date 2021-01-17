@@ -55,7 +55,7 @@
         <b> Tags: </b>
         <span>
   	    	{% for tag in page.tags %}
-	        {% capture tag_name %}{{ tag }}{% endcapture %}i
+	        {% capture tag_name %}{{ tag }}{% endcapture %}
         	<a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>{% if forloop.last == false %},{% endif %}&nbsp;</a>
 			{% endfor %}
     	</span>
