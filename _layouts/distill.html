@@ -53,12 +53,12 @@
         <!-- Tags -->
         <p>
         <b> Tags: </b>
-        <span>[
+        <span>
   	    	{% for tag in page.tags %}
-	        {% capture tag_name %}{{ tag }}{% endcapture %}
-        	<a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-	    	  {% endfor %}
-    	]</span>
+	        {% capture tag_name %}{{ tag }}{% endcapture %}i
+        	<a href="/tag/{{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>{% if forloop.last == false %},{% endif %}&nbsp;</a>
+			{% endfor %}
+    	</span>
         </p>
  
       </d-title>
