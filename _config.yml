@@ -2,17 +2,18 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title:  # the website title (if blank, full name will be used instead)
+title: Shashank # the website title (if blank, full name will be used instead)
 first_name: Shashank
 middle_name: 
 last_name: Srikant
-email: first-name.last-name at gmail.com
-description: 
-footer_text: 
+email: first-name.last-name @ gmail
+description: # the ">" symbol means to ignore newlines until "footer_text:"
+footer_text: Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
 url:  # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
+impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -38,9 +39,9 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 github_username: shashank-srikant # your GitHub user name
-twitter_username: ShashankSrikant #your Twitter handle
+twitter_username: ShashankSrikant # your Twitter handle
 linkedin_username: # your LinkedIn user name
-scholar_userid: # your Google Scholar ID
+scholar_userid: GiVsUSMAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -49,18 +50,20 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
+wikidata_id: # your wikidata id
 
 contact_note: Email is the best way to contact me.
 
-google_analytics: UA-85984737-1 # out your google-analytics code
+google_analytics: UA- # out your google-analytics code
+panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  # your blog must have a name for it to show up in the nav bar
-blog_description: # a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+blog_name: Shashank's Notes # your blog must have a name for it to show up in the nav bar
+blog_description: 
+permalink: /notes/:title/
 
 # Pagination
 pagination:
@@ -147,12 +150,13 @@ scholar:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:  true
-enable_mansory:           true
-enable_math:              true
-enable_tooltips:          false
-enable_darkmode:          true
-show_social_icons:        false
+enable_google_analytics:    false
+enable_panelbear_analytics: false
+enable_mansory:             true
+enable_math:                true
+enable_tooltips:            false
+enable_darkmode:            false
+show_social_icons:          true
 
 # -----------------------------------------------------------------------------
 # Library versions
