@@ -1,3 +1,4 @@
+
 ---
 layout: distill
 title: Aspiring academics
@@ -11,7 +12,7 @@ tags: aspiring-academics
 ## Why research? 
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
-From experience, if you're interested in your coursework, and have a curious mind, and if you end up *disliking* research - then it is most likely the case of poor mentorship. 
+From experience, if you're interested in your coursework, and have a curious mind, and if you end up *disliking* research - then it is most likely the case of poor mentorship. (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
 Your mentor did not show you the ropes well, and did not give you the time you deserved. Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
 
 #### If you're an MIT undergrad 
@@ -21,7 +22,7 @@ They maybe bad teachers in the classroom, and even bad research mentors - but th
 So do give it a shot, and see if it works well for you. 
 It is very likely you'll work with someone in their group (as against directly working with them, and that's fine), and that someone can spur your interest and whet your appetite for research. 
 
-Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [Making the most out of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/)(:target=_blank)
+Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [Making the most out of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target=_blank}
 
 ## What research is not
 Others who've been through it may disagree, but in my opinion
@@ -39,14 +40,25 @@ Others who've been through it may disagree, but in my opinion
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
 And importantly - if you aren't from a "tier-1" school (IITs, etc.) where there exist such opportunities for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
+
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
+
 Here're my slides on how you can go about it. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing)
 
 Feel free to reach out to me if you have comments. 
-When you reach out, make sure you have read slides 3/4 on how to write effective emails.
+When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the slide deck).
 
 ## My background
+I did not have a great undergrad research experience. I wanted to, but I was too inadequately equipped to go about learning how I can be exposed to a quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
+
+Thereafter, I put in a great deal of effort in finding such opportunities. I wrote horrendous emails. I was not skilled enough to show what my value addition would have been to a group that potentially hired me. Despite that, I managed to land a great first job after my undergrad where I "made my bones" in research. I learned to do good research at [Aspiring Minds' Research](http://research.aspiringminds.com/), where I went on to be a senior research engineer, eventually managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this job, I'd likely have gone on to apply for a full time RA with professors I'd marked out as "interesting".
+
+Looking back, I was an absolute fool at most times of my research journey. I would be stuck on silly things, I would ask trivial questions, I would just not understand certain concepts, I would not see the big-picture until a long time had passed, etc. But I kept at it because I enjoyed learning these bits. And importantly, I had a great mentor who was patient enough to show me the ropes and indulge my inadequacies, while being encouraging.
+
+I am where I am because I owe it to a bunch of such people who showed me the way. And I would love to support others like you who want a taste of this experience.
+
+Concretely, I've worked on a variety of problems in machine learning, data science, program analysis, natural language processing, and systems building.
 
 ## Working with me
 Okay. We'll be working together on a project. Great. These are some things I'll be looking out for -
@@ -65,7 +77,9 @@ If things are being constantly delayed, I'll likely notice and discuss with you 
 
 You'll notice, I didn't list out skills like math, doing research (?), etc. Those skills can be learnt. It's unlikely you will have these relevant skills if you are just starting off. That's what a research project will teach you.
 However, if it's a "strong personality"/ego/whatever that comes in your way of communicating and owning up when you're stuck, clarifying a misunderstanding, or wanting to know more, then that's unfortuante. That will make it all the more harder.
-The goal for me is to see you morph into an independent researcher who can frame and tackle interesting problems (if you aren't there already!). Additionally, and importantly, the purpose of writing out these points is not to talk you down, and set "ground rule" - the idea is more to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-)
+The goal for me is to see you morph into an independent researcher who can frame and tackle interesting problems (if you aren't there already!). We will work to get you to ask the right questions, be critical of the work you read, and learn how systematic research is done. Oftentimes, all it requires is thinking carefully about breaking seemingly large problems into manageable chunks.
+
+Additionally, and importantly, the purpose of writing out these points is not to talk you down, and set "ground rule" - the idea is more to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-)
 
 **A a little story on the importance of communication**
 To  to drive home my point on the importance of communication, here's a little story. I had a project partner on a research project we had agreed to work on. They had most likely over-committed themselves to this work, and likely did not have the time and bandwidth to carry through with it.
@@ -80,7 +94,9 @@ And that's unfair to everyone else involved.
 Once the project had ended, I had a conversation with them explaining the situation. 
 I reproduce here the email I wrote to them before having this face to face meeting, to ensure we discussed these points. The purpose of reproducing it here is to share with you how I think about this situation.
 
-```
+---
+Subject: Feedback on our project
+
 hey
  
 i wanted to share some  feedback  from our work over the course of our project.
@@ -118,7 +134,8 @@ please let me know your thoughts. if you're not a fan of typing out replies, i w
 
 my best to you.
 shashank
-```
+
+---
 
 ## End of term/year review
 If we have worked together, it is likely I'll share this little questionnaire with you. This is for you to reflect on how you did, and what more you want of this experience. The point here is to be as painfully detailed as possible. Try to list out every little thing you can remember. This will help take stock of the big picture, and help us appreciate what you learnt, and what more we can do to improve your research experience.
@@ -128,9 +145,12 @@ Also, since you'll be filling this up at the end of a term, make sure you log yo
 ```
 1. Rate your overall experience working on this RA stint. (good, okay, bad).
 2. List in points key tasks you were engaged in this term
-3. Mention concrete skills you learned during this term. These could be "hard" skills like Pytorch, or "soft" skills like replying in-line to emails.
-4. Reflection on your achievements in the work allotted to you, and what you liked about your experience. (e.g. you solved a weird issue you were stuck in for a while).
-5. Reflection on where you thought you missed the mark, and what you did not like about your experience. (This may not be something as strong as "did not like", but anything which you think can be improved -- in yourself, and in the overall experience.)
-6. Feedback for your mentor. Be critical. Try to list both positives and negatives.
-7. What do you want to achieve in the upcoming term. Concrete goals for what more you want out of this experience.
+3. Mention concrete skills you learned during this term. 
+These could be "hard" skills like Pytorch, or "soft" skills like replying in-line to emails.
+4. Reflection on your achievements in the work allotted to you, and what you liked about your experience. 
+e.g. you solved a weird issue you were stuck in for a while.
+6. Reflection on where you thought you missed the mark, and what you did not like about your experience. 
+This may not be something as strong as "did not like", but anything which you think can be improved -- in yourself, and in the overall experience.
+7. Feedback for your mentor. Be critical. Try to list both positives and negatives.
+8. What do you want to achieve in the upcoming term. Concrete goals for what more you want out of this experience.
 ```
