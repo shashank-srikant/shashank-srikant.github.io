@@ -30,28 +30,30 @@ Others who've been through it may disagree, but in my opinion
 - _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
 - _High paying jobs_ -- It's very unlikely going to be a stepping stone to a job that pays you more. Sure - most jobs do pay higher for Ph.D. grads, but if you're in it solely for this, then something's not right.
 - _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be valid for 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
-- _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218223350830358528){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset your purpose on this planet. In the worst case, you could always use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
+- _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset your purpose on this planet. In the worst case, you could always use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
 
 ## Going about doing research
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe some of the recommended steps in your everyday research work. 
 
 ## Aspiring researchers from India
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
+
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
+
 And importantly - if you aren't from a "tier-1" school (IITs, etc.) where there exist such opportunities for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
 
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-Here're my slides on how you can go about it. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing)
+Here're my slides on how you can go about it. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing){:target="_blank"}
 
 Feel free to reach out to me if you have comments. 
-When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the slide deck).
+When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above).
 
 ## My background
 I did not have a great undergrad research experience. I wanted to, but I was too inadequately equipped to go about learning how I can be exposed to a quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
-Thereafter, I put in a great deal of effort in finding such opportunities. I wrote horrendous emails. I was not skilled enough to show what my value addition would have been to a group that potentially hired me. Despite that, I managed to land a great first job after my undergrad where I "made my bones" in research. I learned to do good research at [Aspiring Minds' Research](http://research.aspiringminds.com/), where I went on to be a senior research engineer, eventually managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this job, I'd likely have gone on to apply for a full time RA with professors I'd marked out as "interesting".
+Thereafter, I put in a great deal of effort in finding such opportunities. I wrote horrendous emails. I was not skilled enough to show what my value addition would have been to a group that potentially hired me. Despite that, I managed to land a great first job after my undergrad where I "made my bones" in research. I learned to do good research at [Aspiring Minds' Research](http://research.aspiringminds.com/){:target="_blank"}, where I went on to be a senior research engineer, eventually managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this job, I'd likely have gone on to apply for a full time RA with professors I'd marked out as "interesting".
 
 Looking back, I was an absolute fool at most times of my research journey. I would be stuck on silly things, I would ask trivial questions, I would just not understand certain concepts, I would not see the big-picture until a long time had passed, etc. But I kept at it because I enjoyed learning these bits. And importantly, I had a great mentor who was patient enough to show me the ropes and indulge my inadequacies, while being encouraging.
 
