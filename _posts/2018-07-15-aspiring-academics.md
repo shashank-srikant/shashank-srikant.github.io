@@ -86,11 +86,11 @@ You'll notice, I didn't list out skills like math, doing research (?), etc. Thos
 However, if it's a "strong personality"/ego/whatever that comes in your way of communicating and owning up when you're stuck, clarifying a misunderstanding, or wanting to know more, then that's unfortuante. That will make it all the more harder.
 The goal for me is to see you morph into an independent researcher who can frame and tackle interesting problems (if you aren't there already!). We will work to get you to ask the right questions, be critical of the work you read, and learn how systematic research is done. Oftentimes, all it requires is thinking carefully about breaking seemingly large problems into manageable chunks.
 
-Additionally, and importantly, the purpose of writing out these points is not to talk you down, and set "ground rule" - the idea is more to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-)
+Additionally, and importantly, the purpose of writing out these points is not to talk you down and set "ground rules" - the idea here is to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-) I assure you my intention is well meaning than any thing else.
 
 #### A little story on the importance of communication
 
-To  to drive home my point on the importance of communication, here's a little story. I had a project partner on a research project we had agreed to work on. They had most likely over-committed themselves to this work, and likely did not have the time and bandwidth to carry through with it.
+To drive home my point on the importance of communication, here's a little story. I had a project partner on a research project we had agreed to work on. They had most likely over-committed themselves to this work, and likely did not have the time and bandwidth to carry through with it.
 
 What would you do in such a situation?
 
