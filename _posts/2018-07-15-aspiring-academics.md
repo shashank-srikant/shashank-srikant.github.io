@@ -91,16 +91,19 @@ Additionally, and importantly, the purpose of writing out these points is not to
 #### A little story on the importance of communication
 
 To  to drive home my point on the importance of communication, here's a little story. I had a project partner on a research project we had agreed to work on. They had most likely over-committed themselves to this work, and likely did not have the time and bandwidth to carry through with it.
+
 What would you do in such a situation?
+
 If I recollect my younger self, I would ghost on me.
-That is, I would go into a shell and would not want to go through having this uncomfortable conversation of 
+That is, I would go into a shell and would not have wanted to go through having this uncomfortable conversation about my lapse in estimating my work load.
+
 This is exactly what happened - they soon stopped responding to emails a couple of weeks into our project. 
+
 A consequence of this is you're probably messing up a working relationship which could've matured and led to subsequent fruitful collaborations.
 But what's worse is you have derailed an existing plan of action for a project. By not communicating clearly, you have put the onus of figuring out whether you would be involved or not on me. 
 And that's unfair to everyone else involved.
 
-Once the project had ended, I had a conversation with them explaining the situation. 
-I reproduce here the email I wrote to them before having this face to face meeting, to ensure we discussed these points. The purpose of reproducing it here is to share with you how I think about this situation.
+Once the project had ended, I had a conversation with them explaining the situation. I reproduce here the email I wrote to them before having this face to face meeting, to ensure we discussed these points. The purpose of reproducing it here is to share with you how I think about this situation.
 
 ---
 Subject: Feedback on our project
