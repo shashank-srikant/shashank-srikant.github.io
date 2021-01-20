@@ -30,7 +30,7 @@ It is very likely you'll work with someone in their group (as against directly w
 Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target="_blank"}
 
 ## What research is not
-Others who've been through it may disagree, but in my opinion
+Others who've been through it may disagree, but these are my opinions of doing research full time (i.e. in the context of pursuing a Ph.D. to do research)
 
 - _Is a huge commitment_ -- It's not a 5 year grind which will ruin your sense of a timeline of what you want to do in life. We're expected to live for >60 years. Five years of it on this enterprise is not really that big a deal. But sure - if you have filial, financial circumstances which you can't avoid, then this may be a sub-optimal life decision.
 - _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
