@@ -19,13 +19,13 @@ Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fu
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
 
 #### If you're an MIT undergrad 
-If you're an undergrad at a school like MIT, which is primarily known for research, you should _definitely_ give research a shot to get your money's worth.
+If you're an undergrad at a school like MIT, which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth.
 
 Every PI (principal investigator) here is super accomplished at what they do, and is at the bleeding edge of defining their field. 
 They maybe bad teachers in the classroom, and even bad research mentors - but they definitely know their field well. 
 
 So do give it a shot, and see if it works well for you. 
-It is very likely you'll work with someone in their group (as against directly working with them, and that's fine), and that someone can spur your interest and whet your appetite for research. 
+It is very likely you'll work with someone in their group (as against directly working with them, and that's fine), and that someone can spur your interest in research. 
 
 Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target="_blank"}
 
@@ -46,7 +46,7 @@ If you are an undergrad/aspiring young researcher from India reading this - it's
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
 
-And importantly - if you aren't from a "tier-1" school (IITs, etc.) where there exist such opportunities for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
+And importantly - if you aren't from a "tier-1" school where there exist such opportunities for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
 
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
@@ -57,9 +57,9 @@ Feel free to reach out to me if you have comments.
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above).
 
 ## My background
-I did not have a great undergrad research experience. I wanted to, but I was too inadequately equipped to go about learning how I can be exposed to a quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
+I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
-Thereafter, I put in a great deal of effort in finding such opportunities. I wrote horrendous emails. I was not skilled enough to show what my value addition would have been to a group that potentially hired me. Despite that, I managed to land a great first job after my undergrad where I "made my bones" in research. I learned to do good research at [Aspiring Minds' Research](http://research.aspiringminds.com/){:target="_blank"}, where I went on to be a senior research engineer, eventually managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this job, I'd likely have gone on to apply for a full time RA with professors I'd marked out as "interesting".
+Thereafter, I put in a great deal of effort in finding such opportunities. I wrote horrendous emails. I was not skilled enough to demonstrate what my value addition would have been to a group that potentially hired me. Despite that, I managed to land a great first job on graduating, where I "made my bones" in research. I learned to do good research at [Aspiring Minds' Research](http://research.aspiringminds.com/){:target="_blank"}, where I went on to be a senior research engineer, eventually managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this job, I'd likely have applied for a full time RA with professors I'd marked out as "interesting".
 
 Looking back, I was an absolute fool at most times of my research journey. I would be stuck on silly things, I would ask trivial questions, I would just not understand certain concepts, I would not see the big-picture until a long time had passed, etc. But I kept at it because I enjoyed learning these bits. And importantly, I had a great mentor who was patient enough to show me the ropes and indulge my inadequacies, while being encouraging.
 
