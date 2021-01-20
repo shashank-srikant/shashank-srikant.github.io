@@ -26,4 +26,8 @@ social: false # includes social icons at the bottom of the page
 
 I also spent a year understanding how a state government delivers its <a target="_blank" href="http://sevasetu.org/">public services in rural Bihar</a>.</p>
 
-<p> If you're an undergraduate student, or aspiring researcher who wants to know more about getting started with research, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/" target="_blank">see my notes on it </a></p>.
+### Links
+
+<p> <a href="https://shashank-srikant.github.io/tag/papers/" target="_blank">My papers</a></p>
+
+<p> If you're an undergraduate, or an aspiring researcher who wants to know more about getting started with research, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/" target="_blank">see my notes on it</a></p>.
