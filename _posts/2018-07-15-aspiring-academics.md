@@ -78,8 +78,8 @@ But what works almost always is going ahead and actually communicating it. See a
 2. **Sincerity with your work** -- I find this important as well. Once you've decided to learn more and invest effort on some work, please start owning it. Do not expect to be followed up and parented on the progress you make. If you think you're stuck, or are unable to appreciate and understand nuances, or are not motivated any more - read point 1. above. Communicate this as early as possible.
 This also relates to the article I shared [above from Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html).
 Having said that, we could be perfectly well motivated but then shirk off work. That's perfectly fine as well! We all tend to be lazy at times. Heck, I constantly struggle with it myself.
-The trick again is to convey - convey that you won't be able to progress on a given week (for whatever reason, I usually don't care.), and make sure you make up for it in subsequent weeks.
-If things are being constantly delayed, I'll likely notice and discuss with you what's going on. 
+The trick again is to convey - convey that you won't be able to make progress on a given week (for whatever reason; I usually don't care), and make sure you make up for it in subsequent weeks.
+If things are being constantly delayed, I'll likely notice it and discuss with you what's going on. 
 3. **Be nice** -- no one likes to work with jerks. If you have a sense that you really know and understand the world a lot better than most of us, and are proud of it and would like to show this off at every instance - good luck! Unlikely we'll work together.
 
 You'll notice, I didn't list out skills like math, doing research (?), etc. Those skills can be learnt. It's unlikely you will have these relevant skills if you are just starting off. That's what a research project will teach you.
