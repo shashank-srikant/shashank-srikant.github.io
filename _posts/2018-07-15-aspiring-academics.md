@@ -63,7 +63,7 @@ Thereafter, I put in a great deal of effort in finding such opportunities. I wro
 
 Looking back, I was an absolute fool at most times of my research journey. I would be stuck on silly things, I would ask trivial questions, I would just not understand certain concepts, I would not see the big-picture until a long time had passed, etc. But I kept at it because I enjoyed learning these bits. And importantly, I had a great mentor who was patient enough to show me the ropes and indulge my inadequacies, while being encouraging.
 
-I am where I am because I owe it to a bunch of such people who showed me the way. And I would love to support others like you who want a taste of this experience.
+I am where I am because of a bunch of such people who showed me the way. And I would love to support others like you who want a taste of this experience.
 
 Concretely, I've worked on a variety of problems in machine learning, data science, program analysis, natural language processing, and systems building.
 
