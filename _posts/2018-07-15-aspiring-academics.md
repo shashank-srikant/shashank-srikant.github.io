@@ -53,8 +53,8 @@ Lot more than it usually takes to do research.
 
 Here're my slides on how you can go about it. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing){:target="_blank"}
 
-Feel free to reach out to me if you have comments. 
-When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above).
+Feel free to reach out to me if you have questions. 
+When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 
 ## My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
@@ -86,7 +86,7 @@ You'll notice, I didn't list out skills like math, doing research (?), etc. Thos
 However, if it's a "strong personality"/ego/whatever that comes in your way of communicating and owning up when you're stuck, clarifying a misunderstanding, or wanting to know more, then that's unfortuante. That will make it all the more harder.
 The goal for me is to see you morph into an independent researcher who can frame and tackle interesting problems (if you aren't there already!). We will work to get you to ask the right questions, be critical of the work you read, and learn how systematic research is done. Oftentimes, all it requires is thinking carefully about breaking seemingly large problems into manageable chunks.
 
-Additionally, and importantly, the purpose of writing out these points is not to talk you down and set "ground rules" - the idea here is to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-) I assure you my intention is well meaning than any thing else.
+Additionally, and importantly, the purpose of writing out these points is not to talk you down and set out "ground rules" - the idea here is to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-) I assure you my intention is well meaning than any thing else.
 
 #### A little story on the importance of communication
 
