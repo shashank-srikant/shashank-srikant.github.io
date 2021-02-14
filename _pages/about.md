@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>ವಂದನೆಗಳು .I'm a Ph.D. candidate in comcurrently a puter science at <a href="http://www.csail.mit.edu/">CSAIL, MIT</a>.</p>
+<p>ವಂದನೆಗಳು .I'm currently a Ph.D. candidate in computer science at <a href="http://www.csail.mit.edu/">CSAIL, MIT</a>.</p>
 
 <p>I am interested in the intersection of machine learning, program analysis, and cognitive neuroscience. I want to understand how programs are represented - both by our brains and by machines. 
 </p>
