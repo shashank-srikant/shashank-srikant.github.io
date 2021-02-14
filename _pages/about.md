@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. candidate, CSAIL, MIT
+description: >
+            <p><a target="_blank" href="https://en.wikipedia.org/wiki/Help:IPA/English"><b>IPA: </b></a> |ʃ'ʃɑːŋk ʃriː'kɑːnθ|</p>
+            <p><b>Sounds like:</b> sh-shank shree-kanth. <b>Mnemonic:</b> "Shawshank" redemption</p>
+            <p>Ph.D. candidate, CSAIL, MIT</p>
 
 profile:
   align: right
