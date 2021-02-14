@@ -3,8 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-            <p><a target="_blank" href="https://en.wikipedia.org/wiki/Help:IPA/English"><b>IPA: </b></a> |ʃ'ʃɑːŋk ʃriː'kɑːnθ|</p>
-            <p><b>Sounds like:</b> sh-shank shree-kanth. <b>Mnemonic:</b> "Shawshank" redemption</p>
+            <small>
+            <p><a target="_blank" href="https://en.wikipedia.org/wiki/Help:IPA/English"><b>IPA -</b></a> |ʃ'ʃɑːŋk ʃriː'kɑːnθ|</p>
+            </small>
             <p>Ph.D. candidate, CSAIL, MIT</p>
 
 profile:
