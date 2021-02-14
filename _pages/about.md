@@ -3,8 +3,9 @@ layout: about
 title: about
 permalink: /
 description: >
-            <p>Ph.D. candidate, CSAIL, MIT</p>
-            <p><a target="_blank" href="/pronounce.html"><small> Pronounce my name </a></small></p>
+            <p>Ph.D. candidate, CSAIL, MIT. &nbsp;
+            <a target="_blank" href="/pronounce.html"><small> Pronounce my name </a></small>
+            </p>
             
 
 
