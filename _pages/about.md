@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 description: >
-            <p>Ph.D. candidate, CSAIL, MIT.     &nbsp;
             <a target="_blank" href="/pronounce.html"><small> [Pronounce my name]</a></small>
             </p>
             
@@ -22,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>ವಂದನೆಗಳು .I'm a Ph.D. candidate in computer science at <a href="http://www.csail.mit.edu/">CSAIL, MIT</a>.</p>
+<p>ವಂದನೆಗಳು .I'm a Ph.D. candidate in comcurrently a puter science at <a href="http://www.csail.mit.edu/">CSAIL, MIT</a>.</p>
 
 <p>I am interested in the intersection of machine learning, program analysis, and cognitive neuroscience. I want to understand how programs are represented - both by our brains and by machines. 
 </p>
@@ -35,4 +34,4 @@ I also spent a year understanding how a state government delivers its <a target=
 
 - <p> <a href="https://shashank-srikant.github.io/tag/papers/" target="_blank">My papers</a></p>
 
-- <p> If you're an undergraduate, or an aspiring researcher who wants to know more about getting started with research, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/" target="_blank">see my notes on it</a></p>.
+- <p> If you're an undergraduate or an aspiring researcher who wants to know more about getting started with research, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/" target="_blank">see my notes on it</a></p>.
