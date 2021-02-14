@@ -3,10 +3,10 @@ layout: about
 title: about
 permalink: /
 description: >
-            <small>
-            <p><a target="_blank" href="https://en.wikipedia.org/wiki/Help:IPA/English"><b>IPA -</b></a> |ʃ'ʃɑːŋk ʃriː'kɑːnθ|</p>
-            </small>
             <p>Ph.D. candidate, CSAIL, MIT</p>
+            <p><a target="_blank" href="/pronounce.html"><small> Pronounce my name </a></small></p>
+            
+
 
 profile:
   align: right
