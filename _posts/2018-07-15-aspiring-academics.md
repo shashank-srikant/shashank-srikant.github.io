@@ -94,7 +94,7 @@ To drive home my point on the importance of communication, here's a little story
 
 What would you do in such a situation?
 
-My younger self would have ghosted on me.
+My younger self would have ghosted me.
 That is, I would have gone into a shell and would not have wanted to have this uncomfortable conversation about my lapse in estimating my work load.
 
 This is exactly what happened - they soon stopped responding to emails a couple of weeks into our project. 
