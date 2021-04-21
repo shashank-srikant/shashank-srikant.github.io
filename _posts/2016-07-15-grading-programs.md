@@ -20,6 +20,6 @@ Blog [ [KDD-2014] ](http://research.aspiringminds.com/ai-and-the-right-programme
 
 [Video](https://www.youtube.com/watch?v=vMlZwQZMwDs){:target="blank"}
 
-[PDF KDD 2014](./assets/pdf/kdd_14.pdf)
+[PDF KDD 2014](/assets/pdf/kdd_14.pdf)
 
-[PDF KDD 2016](./assets/pdf/kdd_16.pdf)
+[PDF KDD 2016](/assets/pdf/kdd_16.pdf)
