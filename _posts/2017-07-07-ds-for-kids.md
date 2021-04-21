@@ -15,5 +15,5 @@ tags: papers
 ## Links
 [Webpage](http://www.datasciencekids.org/p/home-page.html){:target="blank"}
 
-[PDF SIGCSE 2017](/assets/papers/sigcse_17.pdf)
+[PDF](/assets/papers/sigcse_17.pdf)
 
