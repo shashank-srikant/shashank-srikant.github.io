@@ -1,12 +1,11 @@
 <!DOCTYPE html>
 <html>
-
   <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Shashank  Srikant | Shashank</title>
+<title>Shashank  Srikant | Dependency-based neural representations for classifying lines of programs</title>
 <meta name="description" content="Home | Shashank">
 
 <!-- Open Graph -->
@@ -28,7 +27,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/notes/">
+<link rel="canonical" href="/notes/vulcan20/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -77,8 +76,36 @@
 <script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 
 
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    
   </head>
 
+  <!--
+  <d-front-matter>
+    <script async type="text/json">{
+      "title": "Dependency-based neural representations for classifying lines of programs",
+      "description": "How can ML models be used to represent lines of programs? We design a dependency-graph based neural representation of programs, which evaluates whether a given line of code has a vulnerability in it or not.",
+      "published": "2020-02-15 00:00:00 +0000",
+        }
+      ],
+      "katex": {
+        "delimiters": [
+          {
+            "left": "$",
+            "right": "$",
+            "display": false
+          },
+          {
+            "left": "$$",
+            "right": "$$",
+            "display": true
+          }
+        ]
+      }
+    }</script>
+  </d-front-matter>
+    -->
   <body class=" sticky-bottom-footer">
 
     <!-- Header -->
@@ -154,61 +181,144 @@
 </header>
 
 
+
     <!-- Content -->
+    <div class="post distill">
 
-    <div class="container mt-5">
-      <div class="post">
-
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/notes/iclr21/">Generating adversarial programs</a></h3>
-        <p class="post-meta">January 12, 2021</p>
-        <p>A differentiable generator of adversarial computer programs which can deceive ML models trained on computer programs</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/notes/elife20/">Comprehension of computer code relies primarily on domain-general executive brain regions</a></h3>
-        <p class="post-meta">December 15, 2020</p>
-        <p>Which parts of our brains light up when reading programs? Is it the language region? Are programs treated as natural languages by the brain? Turns out, no.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/notes/vulcan20/">Dependency-based neural representations for classifying lines of programs</a></h3>
-        <p class="post-meta">February 15, 2020</p>
+      <d-title>
+        <h1>Dependency-based neural representations for classifying lines of programs</h1>
         <p>How can ML models be used to represent lines of programs? We design a dependency-graph based neural representation of programs, which evaluates whether a given line of code has a vulnerability in it or not.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/notes/danskin/">On the application of Danskin's to derivative-free minimax problems</a></h3>
-        <p class="post-meta">July 15, 2018</p>
-        <p>We show how evolution strategies, which are stochastic gradient approximators, can be used to solve min-max problems.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/notes/aspiring-academics/">Aspiring academics</a></h3>
-        <p class="post-meta">July 15, 2018</p>
-        <p>This is a note to students who aspire to get a flavor for research and academia. If you're an undergraduate/recent undergrad who wants to understand the nuts and bolts of doing research, resources on this page should help you get a sense for it.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/notes/ds-for-kids/">Data science for kids</a></h3>
-        <p class="post-meta">July 7, 2017</p>
-        <p>At <a target="_blank" href="http://research.aspiringminds.com/">Aspiring Minds</a>, we also started a fun side project where we introduced concepts in data science to high school students. It was a great deal of fun putting together fun exercises and a lesson plan. Check out our webpage <a href="http://www.datasciencekids.org/p/home-page.html">datasciencekids.org</a> for details!</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/notes/grading-programs/">Evaluating human skills using machine learning</a></h3>
-        <p class="post-meta">July 15, 2016</p>
-        <p>At <a target="_blank" href="http://research.aspiringminds.com/">Aspiring Minds</a>, we showed how the problem of quantifying human skills can be cast as a problem in machine learning. Our CACM paper provides details on this framework, while our KDD works show how we evaluate computer programs using ML.</p>
-      </li>
-    
-  </ul>
+        <!-- Tags -->
+        <p>
+        <b> Tags: </b>
+        <span>
+  	    	
+	        
+        	<a href="/tag/papers"><code class="highligher-rouge"><nobr>papers</nobr></code>,&nbsp;</a>
+			
+	        
+        	<a href="/tag/ml-for-plse"><code class="highligher-rouge"><nobr>ml-for-plse</nobr></code>,&nbsp;</a>
+			
+	        
+        	<a href="/tag/program-representation"><code class="highligher-rouge"><nobr>program-representation</nobr></code>&nbsp;</a>
+			
+    	</span>
+        </p>
+ 
+      </d-title>
 
+      <d-article>
+        <div class="publications">
+    <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
   
+    
+    <abbr class="badge">arXiv-2020</abbr>
+    
+  
+  </div>
 
+  <div id="srikant2020dependency" class="col-sm-8">
+    
+      <div class="title">Dependency-Based Neural Representations for Classifying Lines of Programs</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Srikant, Shashank,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Lesimple, Nicolas,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and O’Reilly, Una-May
+                
+              
+            
+          
+        
+      </div>
 
+      <div class="periodical">
+      
+        <em>arXiv preprint arXiv:2004.10166</em>
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+  </div>
 </div>
+</li></ol>
+</div>
+
+<h2 id="abstract">Abstract</h2>
+<p>We investigate the problem of classifying a line of program as containing a vulnerability or not using machine learning. Such a line-level classification task calls for a program representation which goes beyond reasoning from the tokens present in the line. We seek a distributed representation in a latent feature space which can capture the control and data dependencies of tokens appearing on a line of program, while also ensuring lines of similar meaning have similar features.</p>
+
+<p>We present a neural architecture, Vulcan, that successfully demonstrates both these requirements. It extracts contextual information about tokens in a line and inputs them as Abstract Syntax Tree (AST) paths to a bi-directional LSTM with an attention mechanism. It concurrently represents the meanings of tokens in a line by recursively embedding the lines where they are most recently defined.</p>
+
+<p>In our experiments, Vulcan compares favorably with a state-of-the-art classifier, which requires significant preprocessing of programs, suggesting the utility of using deep learning to model program dependence information.</p>
+
+<h2 id="links">Links</h2>
+<p><a href="https://arxiv.org/pdf/2004.10166.pdf" target="blank">PDF</a></p>
+
+<p><a href="/assets/papers/arxiv_20.pdf">PDF - Local copy</a></p>
+
+
+      </d-article>
+
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
 
     </div>
 
@@ -230,23 +340,7 @@
 
   </body>
 
-  <!-- Bootsrap & MDB scripts -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/2.4.4/umd/popper.min.js" integrity="sha512-eUQ9hGdLjBjY3F41CScH3UX+4JDSI9zXeroz7hJ+RteoCaY+GP/LDoM8AO+Pt+DRFw3nXqsjh9Zsts8hnYv8/A==" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha512-M5KW3ztuIICmVIhjSqXe01oV2bpe248gOxqmlcYrEzAvws7Pw3z6BK0iGbrwvdrUQUhi3eXgtxp5I8PDo9YfjQ==" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/js/mdb.min.js" integrity="sha512-Mug9KHKmroQFMLm93zGrjhibM2z2Obg9l6qFG2qKjXEXkMp/VDkI4uju9m4QKPjWSwQ6O2qzZEnJDEeCw0Blcw==" crossorigin="anonymous"></script>
-
-  
-<!-- Mansory & imagesLoaded -->
-<script defer src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
-<script defer src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
-<script defer src="/assets/js/mansory.js" type="text/javascript"></script>
-
-
-  
-
-
-<!-- Load Common JS -->
-<script src="/assets/js/common.js"></script>
-
+  <d-bibliography src="/assets/bibliography/">
+  </d-bibliography>
 
 </html>
