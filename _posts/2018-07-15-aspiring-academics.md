@@ -52,7 +52,7 @@ Here's an informative article on how to accommodate research in your otherwise b
 
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
 
-[In his famous talk 'You and your research'](/assets/pdf/you_and_your_research.html), Richard Hamming describes the process of doing _good_ research.
+[In his famous talk 'You and your research'](/assets/pdf/you_and_your_research_hamming.html), Richard Hamming describes the process of doing _good_ research.
 
 This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
