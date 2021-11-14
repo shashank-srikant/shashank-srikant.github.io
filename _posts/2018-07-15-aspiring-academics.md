@@ -16,7 +16,16 @@ Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fu
 
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
 
-### If you're an undergrad at a school with a great research program
+Here's a list of topics I cover on this page.
+- [If you're an undergrad at a school with a strong research program](#undergrad)
+- [What research is not](#researchisnot)
+- [Going about doing good research](#doingresearch)
+- [Aspiring researchers from India](#aspiringresearchers)
+- [Useful resources](#resources) (I've also attached my academic statement from the time I applied to grad school)
+- [My background](#background)
+- [Working with me](#workingwithme)
+
+### <a name="undergrad"></a>If you're an undergrad at a school with a great research program
 
 If you're an undergrad at a school like MIT, which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. Making the most of your MIT experience != taking more grad classes -- these classes are pointless after a while. The best bang for your buck is in doing a UROP (undergraduate research program).
 
@@ -31,7 +40,7 @@ Here's an informative article on how to accommodate research in your otherwise b
 
 
 
-### What research is not
+### <a name="researchisnot"></a>What research is not
 
 - _Is a huge commitment_ -- It's not a 5 year grind which will ruin your sense of a timeline of what you want to do in life. We're expected to live for >60 years. Five years of it on this enterprise is not really that big a deal. But sure - if you have filial, financial circumstances which you can't avoid, then this may be a sub-optimal life decision.
 - _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
@@ -39,11 +48,11 @@ Here's an informative article on how to accommodate research in your otherwise b
 - _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
 - _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet. In the worst case, you will use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
 
-### Going about doing research
+### <a name="doingresearch"></a>Going about doing research
 
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
 
-### Aspiring researchers from India
+### <a name="aspiringresearchers"></a>Aspiring researchers from India
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
@@ -59,7 +68,7 @@ Feel free to reach out to me if you have questions.
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 
 
-### Useful resources
+### <a name="resources"></a>Useful resources
 
 - [[Prof. Shriram Krishnamurthy]](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) 
 
@@ -72,7 +81,7 @@ I will keep adding to this list here. Feel free to write me an email in case you
 
 - In case this is helpful, [this is my academic statement](/assets/pdf/academic_statement_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
 
-### My background
+### <a name="background"></a>My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
 Thereafter, I put in a great deal of effort in finding such opportunities. By the end of my senior year, I was writing horrendous emails to academic research groups I wanted to work in. I was not skilled enough to demonstrate what my value addition would have been to a group that potentially hired me. Despite all of this, I managed to land a [great first job upon graduating](http://research.aspiringminds.com/){:target="_blank"}, where I "made my bones" in research. That's right - I was fortunate to have a job right out of undergrad which had a strong research component to it. I learned to do good research there, and went on to managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this specific job, I'd likely have applied for a full time RA with professors I'd marked out as doing "interesting work". I had offers from other good places for a generic software engineer's role - I knew I did not want to explore those options.
@@ -83,7 +92,7 @@ I am where I am because of a bunch of such people who showed me the way. And I w
 
 Over these years, I've worked on and developed an expertise in problems in machine learning, data science, program analysis, natural language processing, and systems building.
 
-### Working with me
+### <a name="workingwithme"></a>Working with me
 
 Okay. We'll be working together on a project. Great. These are some things I'll be looking out for -
 1. **Communication** -- I think every successful collaboration really boils down to communicating well. And this is something where our instincts can _massively_ fail us. I've been a douche in the past in matters regarding communication. And i've learnt to be better.
