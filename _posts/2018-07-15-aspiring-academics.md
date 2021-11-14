@@ -77,6 +77,8 @@ When you reach out, make sure you have read the link on the slide on how to writ
 - Led by [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io/), various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
  [[Youtube video]](https://www.youtube.com/watch?v=z6TkkdlRWcU)
 
+- [Prof. Fadel Adib](http://www.mit.edu/~fadel/) has a tweet thread on applying to Ph.D. applications. Note - strong overlap with the content discussed in the above two videos. [[Twitter thread]](https://twitter.com/fadeladib/status/1353020072885940224)
+
 I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
 
 - In case this is helpful, [this is my academic statement](/assets/pdf/academic_statement_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
