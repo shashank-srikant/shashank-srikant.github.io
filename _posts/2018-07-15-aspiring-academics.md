@@ -7,10 +7,6 @@ tags: aspiring-academics
 
 ---
 
-## Why research?
-<details>
-<summary> ... </summary>
-
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
 
@@ -19,12 +15,8 @@ From experience, if you're interested in your coursework, and have a curious min
 Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
 
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
-</details>
 
-<details>
-## If you're an undergrad at a school with a great research program
-
-<summary>...</summary>
+### If you're an undergrad at a school with a great research program
 
 If you're an undergrad at a school like MIT, which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. Making the most of your MIT experience != taking more grad classes -- these classes are pointless after a while. The best bang for your buck is in doing a UROP (undergraduate research program).
 
@@ -36,33 +28,22 @@ It is very likely you'll work with someone in their group (as against directly w
 
 Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target="_blank"}
 
-</details>
 
 
 
-## What research is not
-<details>
-<summary>...</summary>
-
-Others who've been through it may disagree, but these are my opinions of doing research full time (i.e. in the context of pursuing a Ph.D. to do research)
+### What research is not
 
 - _Is a huge commitment_ -- It's not a 5 year grind which will ruin your sense of a timeline of what you want to do in life. We're expected to live for >60 years. Five years of it on this enterprise is not really that big a deal. But sure - if you have filial, financial circumstances which you can't avoid, then this may be a sub-optimal life decision.
 - _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
 - _High paying jobs_ -- It's very unlikely going to be a stepping stone to a job that pays you more. Sure - most jobs do pay higher for Ph.D. grads, but if you're in it solely for this, then something's not right.
 - _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
 - _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet. In the worst case, you will use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
-</details>
 
-## Going about doing research
-<details>
-<summary>...</summary>
+### Going about doing research
 
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
-</details>
 
-## Aspiring researchers from India
-<details>
-<summary>...</summary>
+### Aspiring researchers from India
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
@@ -76,12 +57,20 @@ Here're my slides on how you can go about it. [[slides]](https://docs.google.com
 
 Feel free to reach out to me if you have questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
-</details>
 
 
-## My background
-<details>
-<summary>...</summary>
+### Useful resources
+
+- Prof. Shriram Krishnamurthy talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) 
+
+**I strongly recommend you go through this if you aspire to apply to CS programs in the US.**
+
+- Led by Prof. Himabindu Lakkaraju, various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
+ [[Youtube video]](https://www.youtube.com/watch?v=z6TkkdlRWcU)
+
+I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
+
+### My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
 Thereafter, I put in a great deal of effort in finding such opportunities. By the end of my senior year, I was writing horrendous emails to academic research groups I wanted to work in. I was not skilled enough to demonstrate what my value addition would have been to a group that potentially hired me. Despite all of this, I managed to land a [great first job upon graduating](http://research.aspiringminds.com/){:target="_blank"}, where I "made my bones" in research. That's right - I was fortunate to have a job right out of undergrad which had a strong research component to it. I learned to do good research there, and went on to managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this specific job, I'd likely have applied for a full time RA with professors I'd marked out as doing "interesting work". I had offers from other good places for a generic software engineer's role - I knew I did not want to explore those options.
@@ -91,11 +80,8 @@ Looking back, I was an absolute fool at most times in my research journey. I wou
 I am where I am because of a bunch of such people who showed me the way. And I would love to support others like you who want a taste of this experience.
 
 Over these years, I've worked on and developed an expertise in problems in machine learning, data science, program analysis, natural language processing, and systems building.
-</details>
 
-## Working with me
-<details>
-<summary>...</summary>
+### Working with me
 
 Okay. We'll be working together on a project. Great. These are some things I'll be looking out for -
 1. **Communication** -- I think every successful collaboration really boils down to communicating well. And this is something where our instincts can _massively_ fail us. I've been a douche in the past in matters regarding communication. And i've learnt to be better.
@@ -118,8 +104,6 @@ My goal is to see you morph into an independent researcher who can frame and tac
 Additionally, and importantly, the purpose of writing out these points is not to talk you down and set out "ground rules" - the idea here is to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-) I assure you my intention is well meaning than any thing else.
 
 #### A little story on the importance of communication
-<details>
-<summary>...</summary>
 To drive home my point on the importance of communication, here's a little story. I had a project partner on a research project we had agreed to work on. They had most likely over-committed themselves to this work, and likely did not have the time and bandwidth to carry through with it.
 
 What would you do in such a situation?
@@ -177,13 +161,9 @@ my best to you.
 shashank
 
 ---
-</details>
 
-</details>
 
-## End of term/year review
-<details>
-<summary>...</summary>
+### End of term/year review
 If we have worked together, it is likely I'll share this little questionnaire with you. This is for you to reflect on how you did, and what more you want of this experience. The point here is to be as painfully detailed as possible. Try to list out every little thing you can remember. This will help take stock of the big picture, and help us appreciate what you learnt, and what more we can do to improve your research experience.
 
 Also, since you'll be filling this up at the end of a term, make sure you log your work consistently to help you recollect these details. Let this not be a last-day exercise for you to fill up right before we meet to discuss this.
@@ -200,5 +180,4 @@ This may not be something as strong as "did not like", but anything which you th
 7. Feedback for your mentor. Be critical. Try to list both positives and negatives.
 8. What do you want to achieve in the upcoming term. Concrete goals for what more you want out of this experience.
 ```
-</details>
 
