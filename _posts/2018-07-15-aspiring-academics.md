@@ -61,14 +61,16 @@ When you reach out, make sure you have read the link on the slide on how to writ
 
 ### Useful resources
 
-- Prof. Shriram Krishnamurthy talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) 
+- [[Prof. Shriram Krishnamurthy]](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) 
 
-**I strongly recommend you go through this if you aspire to apply to CS programs in the US.**
+**I strongly recommend you go through this talk by Shriram if you aspire to apply to CS programs in the US.**
 
-- Led by Prof. Himabindu Lakkaraju, various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
+- Led by [[Prof. Himabindu Lakkaraju]](https://himalakkaraju.github.io/), various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
  [[Youtube video]](https://www.youtube.com/watch?v=z6TkkdlRWcU)
 
 I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
+
+- In case this is helpful, [this is my academic statement](/assets/pdf/academic_statement_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
 
 ### My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
