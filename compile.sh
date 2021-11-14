@@ -4,11 +4,11 @@ git add .
 
 git commit -m "$*"
 
-#./bin/deploy --user
+./bin/deploy --user
 
-#git add .
+git add .
 
-#git commit -m $1
+git commit -m "$*"
 
-#git checkout source
+git checkout source
 
