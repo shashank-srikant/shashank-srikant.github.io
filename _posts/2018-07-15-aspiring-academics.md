@@ -7,8 +7,9 @@ tags: aspiring-academics
 
 ---
 
+<details>
+<summary>## Why research?</summary>
 
-## Why research? 
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
 
@@ -17,6 +18,7 @@ From experience, if you're interested in your coursework, and have a curious min
 Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
 
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
+</details>
 
 #### If you're an MIT undergrad 
 If you're an undergrad at a school like MIT, which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. Making the most of your MIT experience != taking more grad classes -- these classes are pointless after a while. The best bang for your buck is in doing a UROP (undergraduate research program).
