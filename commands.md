@@ -1,7 +1,7 @@
 ## Run the `compile.sh` file to compile your changes
 
 ```
-$ echo -e "y" | compile.sh your-git-message
+$ echo -e "y" | ./compile.sh your-git-message
 ```
 
 #### Note 
