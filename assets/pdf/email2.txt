@@ -1,0 +1,35 @@
+================== EMAIL QUERY, from Jan 2021 ============================================
+Dear Sir Shrikant,
+I hope you are doing well. I am ABC, an undergraduate computer engineering student at XYZ. My research interest focuses on adversarial machine learning, federated learning, and AI for cyber threat detection. I have worked on multiple research topics like data poisoning attacks, differential privacy, federated learning, gradient leakage attack, and have published papers at international conferences and journals.
+I found the projects in the ALFA lab very much relevant to my previous research works. I am looking for a 6-month research internship (Jan 2021- July 2021) in your lab. Earlier I had a research internship offer from one US university but due to the COVID situation, it got revoked a few days ago. I had some industrial offers but since I wanted to pursue research I denied them. Since my research internship got canceled, at this time, I am very much in need of an internship. I have attached my CV for your reference. Working with various professors, I have developed strong research experience which will be surely an asset for your Lab. I am looking forward to hear from you.
+
+
+================== MY RESPONSE ============================================
+thanks for writing, ABC. unfortunately, our lab doesn't host internships.
+
+also, here's some general advice when writing these emails - 
+
+1. ``` "Dear Sir Shrikanth" ```
+please stop using these titles when you address your emails.
+Using "Sir" is an excess - noone uses it. our system in india seems to be the ones using it the most. Just say "Hello Shrikanth, or Dear Shrikanth".
+
+2. Format your email well. did you read the link i had posted on my slides? Points (1) and (2) in this link -- 
+https://byrslf.co/how-to-get-a-busy-person-to-respond-to-your-email-52e5d4d69671
+
+
+2. make it a point to create a website for yourself which mention all the projects you have worked on. upload all your code on github and mention that link on your webpage. there's no need for you to attach CVs to your mail. just mention the URL to your webpage in your signature or in the text. Most professors ignore emails with attachments.
+
+3.
+``` 
+My research interest focuses on adversarial machine learning, federated learning, and AI for cyber threat detection. I have worked on multiple research topics like data poisoning attacks, differential privacy, federated learning, gradient leakage attack, and have published papers at international conferences and journals.
+```
+
+a. what you've mentioned to me here are keywords. each of these keywords is a vast area of research. try to be specific on what you have learnt, and how you think the group's projects relate to what you have done. be specific on what you have done - mention it in 1-2 sentences, and provide a URL to your website asking the reader to go through it for more info if they are interested.
+
+b. ```"I have published in international conferences and journals". ```
+this sentence doesn't convey information. Please appreciate that there are very few conferences/journals of good quality. the vast majority of publication venues (even international ones) out there are of a _very poor_ quality. these venues really aren't worth publishing in/showing off. 
+- if your current supervisor is getting you to publish in such conferences, resist and work on your ideas to see if they can be published at better venues.
+- if you think these conferences are good, mention the specific names, e.g. "I have published in XYZ".
+
+these points are not to discourage you, but to get you to present yourself better. 
+all the best.

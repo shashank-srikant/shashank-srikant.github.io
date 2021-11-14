@@ -1,0 +1,31 @@
+================== EMAIL QUERY, from Nov 2021 ============================================
+
+Hi Shashank,
+
+Greetings. 
+
+I, XYZ, am a Research Engineer-AI at  ABC. I am looking to apply for the Ph.D. program in EECS/HST at MIT for fall 2022.
+
+I am writing to you to inquire about the Information on ALFA Lab. I have been conducting research on Deep Learning and its application: <link to google scholar>.
+
+I have read several publications from your lab and I think the research being carried out at the lab interests me enough to pursue a Ph.D. I wanted to learn more about the lab and its members. Specifically, how often do members meet with the advisor and with one another? What are the expectations of the advisor in terms of results and publications? What should be the profile of a potential candidate willing to join the lab?
+
+Please find attached is my CV for your reference and I would be happy to answer any further questions you may have.
+
+================== MY RESPONSE ============================================
+
+thanks for writing in, XYZ.
+
+```
+I have read several publications from your lab and I think the research being carried out at the lab interests me enough to pursue a Ph.D. I wanted to learn more about the lab and its members. Specifically, how often do members meet with the advisor and with one another? What are the expectations of the advisor in terms of results and publications? What should be the profile of a potential candidate willing to join the lab?
+```
+
+i would strongly recommend you to watch this video - https://www.youtube.com/watch?v=IprN9fPV2LI
+in the video, prof. shriram provides a perspective on how to think about applying to competitive phd programs. it answers your question on what the expected profile of a potential candidate is.
+
+unfortunately, at this stage, i think you're asking the wrong questions here. you should worry about the logistics of advisors, their expectations, and how their interaction with their students is only when you have something meaningful to talk about the work they are onto. 
+it doesn't suffice to claim "i've read several papers from your group, and i think the research being done is nice that i want to pursue a phd". instead, what will help to have a meaningful conversation (always) is if you attempt to read a paper sincerely, pick on a specific topic, and have thoughtful questions to ask.
+
+all the best.
+
+shashank

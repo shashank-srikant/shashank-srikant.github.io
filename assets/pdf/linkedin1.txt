@@ -1,0 +1,25 @@
+================== LINKEDIN QUERY, from Nov 2020 ============================================
+Hello, I am ABC from XYZ. I am planning for graduate studies at MIT, wanted to know whether MIT offers terminal MS in EECS for international students- https://gradadmissions.mit.edu/programs/eecs ?
+
+================== MY RESPONSE ============================================
+
+Hello ABC. No, it doesn't.
+
+================== FOLLOW UP QUERY ============================================
+
+So , if a person who has taken admission in PhD can't dropout after 2 years and leave with a masters degree ?
+
+================== MY RESPONSE ============================================
+
+That's possible, and that's *not* what is known as a 'temrinal masters degree'.
+https://www.eecs.mit.edu/academics-admissions/graduate-program/degree-programs/degrees-offered
+
+================== FOLLOW UP QUERY ============================================
+Hi Shashank, I have attached my profile. Kindly let me know whether I should apply for PhD in EECS program. What are my chances of acceptance at MIT ?
+
+==============================================================
+I did not respond to this last query.
+
+But if a week before graduate applications deadline, you are asking me whether you should be applying to a PhD program in EECS, then something is wrong about the way in which you are going about this process. 
+
+Please read through the other resources I've put out on https://shashank-srikant.github.io/notes/aspiring-academics/#resources

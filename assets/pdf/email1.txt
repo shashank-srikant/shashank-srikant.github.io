@@ -1,0 +1,98 @@
+========    EMAIL QUERY, from Januar 2021     ===========================
+I intend to apply for PhD for Fall XXXX at MIT. I have worked with computer vision and I have interest in some of its sub field: low shot learning, adversarial computer vision and fairness in general.
+- what's the best way to actually 'connect' with an advisor before applications? It's competitive and I do want to stand out. I have been at wrong place at the wrong time for some RA experiences so I don't intend to apply for an year long RA positions right now. Also, I need money this year.
+- what has been your experience as a PhD student (not only as a MIT student but also PhD student in general)
+- industry vs academia for long term
+- projects vs CGPA. I can't change the past (UG CGPAs) but I have projects which I can show. How to pick the best ones, what kind of research I should do to pick the best ones.
+- kind of research it takes to find the best fit (program, school etc) for the PhD
+- General advice for PhD
+
+========    MY RESPONSE     ===========================
+this is a tough situation. unfortunately, admissions to the top 5 schools for CS, especially in the areas of machine learning (that includes vision), has become a game. 
+from what i have seen, one or more of the three conditions ought to hold for an application to be considered w any seriousness -- 
+1. some faculty/PI ought to know your ability to work and do research well enough to vouch for you to be admitted.
+- this generally happens when you meet the prof at a conference and you folks hit it off.
+- or, your prof has started a collaborative project w this prof and you thus get to interact w you.
+beyond these two use-cases, i think it's quite hard.
+a faculty knowing you personally astronomically changes your chances of getting accepted.
+
+2. a faculty/PI knows your recommendation letter writers _very well_ -- well enough that they'll likely just pick up the phones and talk to them about your strengths and weaknesses, and get their honest appraisal.
+
+3. you have a solid publication record in the area you express your interest in.
+
+unfortunately, as well meaning as it may be from your perspective -- 
+"" have worked with computer vision and I have interest in some of its sub field: low shot learning, adversarial computer vision and fairness in general. ""
+""I am still figuring out a lot of things but one thing I have realized over time is that I love to do research (I like to study) and I am okay to give the time commitment it asks for"""
+will not really hold water in a grad school application if it's not supported by evidence of you publishing in these areas in top tier venues. i don't say this to discourage you. it's just the reality of how things work in these schools. that said, i do suggest you try reaching out to folks. before doing so, i recommend doing a solid homework of what their specific interests are, and addressing something very thoughtful and specific about their work. for you to be able to do this -- 
+a. you will really need to understand their work
+b. which instead means that you will need to have worked on related topics to have achieved enough mastery to critique/extend/offer interesting ideas about their work.
+c. further, support evidence for your mastery through grades in those specific courses in your MS/most recent degree.
+the goal is to go beyond class projects and show evidence for original research, which hopefully has been published at top tier places. this is unfortunately what the bar is for "top schools".
+
+in summary, you should really be considering reaching out to folks whose areas of expertise you understand _very_ well -- well enough to critique, comment, and brainstorm their work.
+
+that brings us to the non top-5/10 schools. things begin to get much better here competition-numbers wise. writing a thoughtful statement, with a decent set of letter writers will likely mean your letter will be read seriously, and someone will respond to you to have a subsequent chat.
+
+------
+
+having said that, the line of questions you pose here suggests you intend to maximize your chances of acceptance and getting into a "good" school like MIT, over maximizing discovering your interests.
+while i may be reading this wrong, and even if i'm not, maximizing getting into a "top school " is not an unreasonable goal at all. however, i offer the following general advice -
+it doesn't quite matter whether you go to a top 5 school or a top 30 school [1]. what matters is who your advisor is. Is your advisor 
+- a good human being?
+- has the time and wants to mentor you?
+- whom you admire as a person? 
+- manages a research group which has a character you resonate with?
+- know other researchers in the field who may help you grow professionally?
+- will be able to guide you through the technical skills that you need in your work?
+
+these i think are _significantly_ more important than joining a "top school". i think i've lucked out in getting into a good school + finding an advisor who's matches most of the points i raise above. unfortunately, the number of cases i know at MIT EECS itself which don't fit this description far exceeds that which does. 
+
+[1] I'm generally sceptical of people offering advice claiming specific opportunities aren't important while they themselves are products of such opportunities. you should read this in the same vein.
+
+bottom line - 
+1. don't worry too much about which school you get into. rather, optimize on the person you will likely spend five years with.
+2. back your claims of your interest in a field with non-trivial work displaying your expertise -- could be a software you have extended; set of interesting questions you asked and evaluated results for, etc.
+so the real question/target for you is how you could accomplish (2) before applying.to grad schools this fall.
+3. evaluate whether you can put together 2-3 letter writers who have seen you being modestly successful at research/independent thought/dogged determination to implement ideas, etc. 
+
+If you don't have relevant projects, or the right letter writers, go back to the drawing board and consider how you can really address (2), (3) with the constraints you need to honor.
+
+
+============ FOLLOW UP QUESTION =================================
+
+I can possibly try for solid projects but publications are a long haul even for PhD students. One can try for publication under review but an actual first author publication before PhD is a little unrealistic and honestly I am not banking on it.
+
+=========== MY RESPONSE =========================================
+
+yes. right now, i'd focus on diving deep into any topic, seeing if i can come up with original questions/extensions, and actually trying to implement such extensions.
+unfortunately, this process is time consuming. [A]
+
+some related observations -- 
+1. you could also try fellopwship programs like the google AI residency, and MSR research fellows program.
+https://research.google/careers/ai-residency/
+https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/
+
+these programs have been designed for folks who want to beef up their grad school applications post undergrad/masters.
+
+2. find faculty who've graduated from top schools but are currently faculty at >10 schools.
+the faculty market is cut-throat, and even the best of the graduating students don't generally make it as faculty in these schools. as a consequence, they end up being faculty at perhaps lesser known places. If they end up being sensitive and caring advisors, it's the best environment you could hope for.
+
+3. there are bunch of allied fields which use these techniques, and there're solid faculty in these other depts who use such technologies.
+for instance, this lab is affiliated to the earth and atmospheric sciences department, but does hardcore ML, and dabbles in vision-related projects once in a while. http://essg.mit.edu/
+another example from neuroscience -- https://dicarlolab.mit.edu/research
+there could be others like this. it's quite a task to look through the web for such instances, but i'm sure you'll stumble upon something worthwhile.
+this risks spreading your interests + driving you down a rabbit hole -- these searches can be endless. i would recommend resisting that temptation, and instead focusing on point [A] i made above.
+
+4. another route is to take up a research engineer kinda job at any of the tons of companies out there doing projects aligned to your interests. (MSFT reserarch, IBM research, google, FB, etc.)
+spending a couple years at such places has a genuine tempering effect in that it detaches one's romantic notions of doing research and instead reinforces a solid grasp over subject matter, making one mature and self aware of specific research interests.
+i think i would have been clueless had i joined grad school right after undergrad. I'm quite glad i spent time working on related problems in a research capacity for me to build an intuition of the space, and help appreciate a nuanced understanding of the topics i'm currently pursuing.
+
+5. i would recommend getting onto twitter. 
+academia is quite active on twitter, and every once in a while, profs post openings in their labs for paid RA positions, research engineer roles, etc.
+it's good to keep a pulse on such developments. also, a good way to keep up w the latest research in your areas of intersts.
+again, like (3) above, can be a potential blackhole+time sink. not worth spending a whole deal of time on.
+
+6. use a site like http://csrankings.org/ to gauge which schools are strong in specific areas. you'll find some results to be counter intuitive.
+for example, for software engineering, UC Davis comes up in the top 5 most active schools based on publications at top tier venues. that's because they have a core group of faculty hammering away at SE related topics.
+you'll find other such counterintuitive results. definitely worth exploring, and gauging faculty profiles using websites/metrics like these as a starting point.
+
