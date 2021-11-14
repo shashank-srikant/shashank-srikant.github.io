@@ -19,7 +19,7 @@ Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fu
 Here's a list of topics I cover on this page.
 - [If you're an undergrad at a school with a strong research program](#undergrad)
 - [What research is not](#researchisnot)
-- [Going about doing good research](#doingresearch)
+- [Doing research](#doingresearch)
 - [Aspiring researchers from India](#aspiringresearchers)
 - [Useful resources](#resources) (I've also attached my academic statement from the time I applied to grad schools)
 - [My background](#background)
@@ -48,9 +48,13 @@ Here's an informative article on how to accommodate research in your otherwise b
 - _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
 - _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet. In the worst case, you will use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
 
-### <a name="doingresearch"></a>Going about doing research
+### <a name="doingresearch"></a>Doing research
 
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
+
+[In his famous talk 'You and your research'](/assets/pdf/you_and_your_research.html), Richard Hamming describes the process of doing _good_ research.
+
+This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
 ### <a name="aspiringresearchers"></a>Aspiring researchers from India
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
