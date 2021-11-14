@@ -82,8 +82,11 @@ I will keep adding to this list here. Feel free to write me an email in case you
 - In case this is helpful, [this is my academic statement](/assets/pdf/academic_statement_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
 
 - My responses to some queries I have received over email and other social media over the years.
-
-[email1](/assets/pdf/email1.txt)[email2](/assets/pdf/email2.txt)[email3](/assets/pdf/email3.txt)[linkedin1](/assets/pdf/linkedin1.txt)
+    - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on Ph.D. applications process. Much of this is also iterated by Shriram in his talk.
+    - [[email 2]](/assets/pdf/email2.txt): Typical queries by inexperienced, young researchers. 
+    - [[email 3]](/assets/pdf/email3.txt): Questions on how I perceive my PhD education; my plans for the future. 
+    - [[email 4]](/assets/pdf/email4.txt): Typical queries by inexperienced, young researchers.
+    - [[linkedin 1]](/assets/pdf/linkedin1.txt): Typical queries from inexperienced, young researchers.
 
 ### <a name="background"></a>My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
