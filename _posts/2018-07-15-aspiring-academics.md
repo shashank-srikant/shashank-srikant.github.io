@@ -8,7 +8,7 @@ tags: aspiring-academics
 ---
 
 <details>
-<summary>## Why research?</summary>
+<summary markdown="block">## Why research?</summary>
 
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
@@ -20,7 +20,9 @@ Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fu
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
 </details>
 
-#### If you're an MIT undergrad 
+<details>
+<summary markdown="block">## If you're an undergrad at a school with a great research program</summary>
+
 If you're an undergrad at a school like MIT, which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. Making the most of your MIT experience != taking more grad classes -- these classes are pointless after a while. The best bang for your buck is in doing a UROP (undergraduate research program).
 
 Every PI (principal investigator) here is super accomplished at what they do, and is at the bleeding edge of defining their field. 
@@ -30,6 +32,9 @@ So, do give it a shot, and see if it works well for you.
 It is very likely you'll work with someone in their group (as against directly working with them, and that's fine), and that someone can spur your interest in research. 
 
 Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target="_blank"}
+
+</details>
+
 
 ## What research is not
 Others who've been through it may disagree, but these are my opinions of doing research full time (i.e. in the context of pursuing a Ph.D. to do research)
