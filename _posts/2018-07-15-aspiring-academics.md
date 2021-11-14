@@ -7,8 +7,8 @@ tags: aspiring-academics
 
 ---
 
-<details>
 ## Why research?
+<details>
 <summary> ... </summary>
 
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
@@ -39,9 +39,9 @@ Here's an informative article on how to accommodate research in your otherwise b
 </details>
 
 
-<details>
 
 ## What research is not
+<details>
 <summary>...</summary>
 
 Others who've been through it may disagree, but these are my opinions of doing research full time (i.e. in the context of pursuing a Ph.D. to do research)
@@ -53,13 +53,16 @@ Others who've been through it may disagree, but these are my opinions of doing r
 - _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet. In the worst case, you will use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
 </details>
 
-<details>
 ## Going about doing research
+<details>
 <summary>...</summary>
 
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
+</details>
 
 ## Aspiring researchers from India
+<details>
+<summary>...</summary>
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
@@ -75,8 +78,9 @@ Feel free to reach out to me if you have questions.
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 </details>
 
-<details>
+
 ## My background
+<details>
 <summary>...</summary>
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
@@ -89,8 +93,8 @@ I am where I am because of a bunch of such people who showed me the way. And I w
 Over these years, I've worked on and developed an expertise in problems in machine learning, data science, program analysis, natural language processing, and systems building.
 </details>
 
-<details>
 ## Working with me
+<details>
 <summary>...</summary>
 
 Okay. We'll be working together on a project. Great. These are some things I'll be looking out for -
@@ -114,7 +118,8 @@ My goal is to see you morph into an independent researcher who can frame and tac
 Additionally, and importantly, the purpose of writing out these points is not to talk you down and set out "ground rules" - the idea here is to share how I view this world, and what works for me. If you are intimidated by all these points, please refer to point 1 :-) I assure you my intention is well meaning than any thing else.
 
 #### A little story on the importance of communication
-
+<details>
+<summary>...</summary>
 To drive home my point on the importance of communication, here's a little story. I had a project partner on a research project we had agreed to work on. They had most likely over-committed themselves to this work, and likely did not have the time and bandwidth to carry through with it.
 
 What would you do in such a situation?
@@ -174,9 +179,11 @@ shashank
 ---
 </details>
 
+</details>
+
+## End of term/year review
 <details>
 <summary>...</summary>
-## End of term/year review
 If we have worked together, it is likely I'll share this little questionnaire with you. This is for you to reflect on how you did, and what more you want of this experience. The point here is to be as painfully detailed as possible. Try to list out every little thing you can remember. This will help take stock of the big picture, and help us appreciate what you learnt, and what more we can do to improve your research experience.
 
 Also, since you'll be filling this up at the end of a term, make sure you log your work consistently to help you recollect these details. Let this not be a last-day exercise for you to fill up right before we meet to discuss this.
