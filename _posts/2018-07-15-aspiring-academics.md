@@ -81,7 +81,7 @@ When you reach out, make sure you have read the link on the slide on how to writ
 - Led by [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io/), various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
  [[Youtube video]](https://www.youtube.com/watch?v=z6TkkdlRWcU)
 
-- [Prof. Fadel Adib](http://www.mit.edu/~fadel/) has a tweet thread on applying to Ph.D. applications. [[Twitter thread]](https://twitter.com/fadeladib/status/1353020072885940224)
+- [Prof. Fadel Adib](http://www.mit.edu/~fadel/) has a tweet thread on applying to Ph.D. programs. [[Twitter thread]](https://twitter.com/fadeladib/status/1353020072885940224)
 
 Note - There's a sizeable overlap in the contents of each of the resources shared above. Do go through each of them nevertheless.
 
@@ -92,7 +92,7 @@ I will keep adding to this list here. Feel free to write me an email in case you
 - My responses to some queries I have received over email and other social media over the years.
     - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
     - [[email 2]](/assets/pdf/email2.txt): Typical queries from inexperienced, young researchers. 
-    - [[email 3]](/assets/pdf/email3.txt): Questions on how I perceive my PhD education; my plans for the future. 
+    - [[email 3]](/assets/pdf/email3.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
     - [[email 4]](/assets/pdf/email4.txt): Typical queries from inexperienced, young researchers.
     - [[linkedin 1]](/assets/pdf/linkedin1.txt): Typical queries from inexperienced, young researchers.
 
