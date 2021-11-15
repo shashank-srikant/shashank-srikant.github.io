@@ -83,6 +83,8 @@ When you reach out, make sure you have read the link on the slide on how to writ
 
 - [Prof. Fadel Adib](http://www.mit.edu/~fadel/) has a tweet thread on applying to Ph.D. programs. [[Twitter thread]](https://twitter.com/fadeladib/status/1353020072885940224)
 
+- [Prof. Zach Lipton](https://acmilab.org/people/) tweeted about other qualities their group looks for when hiring Ph.D. candidates. [[Twitter thread]](https://twitter.com/acmi_lab/status/1459993908151214080)
+
 Note - There's a sizeable overlap in the contents of each of the resources shared above. Do go through each of them nevertheless.
 
 I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
