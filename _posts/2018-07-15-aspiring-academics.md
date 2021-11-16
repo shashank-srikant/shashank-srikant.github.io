@@ -89,7 +89,9 @@ Note - There's a sizeable overlap in the contents of each of the resources share
 
 I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
 
-- In case this is helpful, [this is my academic statement](/assets/pdf/academic_statement_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
+- In case this is helpful, [this is my statement of purpose / SOP/ academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
+
+Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so that it gets picked up search engines.
 
 - My responses to some queries I have received over email and other social media over the years.
     - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
