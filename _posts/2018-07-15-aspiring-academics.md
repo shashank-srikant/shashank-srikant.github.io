@@ -74,7 +74,7 @@ When you reach out, make sure you have read the link on the slide on how to writ
 
 ### <a name="resources"></a>Useful resources
 
-- [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) 
+- [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
 
 **I strongly recommend you go through this talk by Shriram if you aspire to apply to CS programs in the US.**
 
@@ -99,6 +99,7 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
     - [[email 3]](/assets/pdf/email3.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
     - [[email 4]](/assets/pdf/email4.txt): Typical queries from inexperienced, young researchers.
     - [[linkedin 1]](/assets/pdf/linkedin1.txt): Typical queries from inexperienced, young researchers.
+    - [[linkedin 2]](/assets/pdf/linkedin2.txt): MS vs. PhD
 
 ### <a name="background"></a>My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.

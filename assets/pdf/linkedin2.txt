@@ -1,0 +1,21 @@
+================== LINKEDIN QUERY, from Dec 2021 ============================================
+
+Hi Shashank, Hope you're doing well and safe. 
+I'm planning to study in US for masters but I'm looking for a program under which I can able to study AI, ML and CS skills along with space science field.
+You're doing your MS from MIT in AI, can you please share your exp.? Can you please help? Thanks.
+
+================== MY RESPONSE ============================================
+
+Thanks for getting in touch.  
+I'm currently in a PhD program in CS, and not a masters program.
+MS programs work _significantly differently_ from PhD programs.
+
+I don't have any expertise on the requirements of an MS program in the US, and my experience hence would be of little consequence.  
+
+1. I recommend going through pages like these to get a sense of the difference between these MS vs PhD programs,  
+- https://softwareengineering.stackexchange.com/questions/102677/masters-vs-phd-long/102686 
+
+- https://parentheticallyspeaking.org/articles/us-cs-phd-faq/#%28part._.What_s_the_difference_between_a_master_s_and_a_.Ph.D_%29  
+2. Find out a little more of the different schools and MS programs that may fit your requirement. Once you do, find people who've been through those programs and talk to them. That would be much more informative than talking to an arbitrary person (like me).  
+
+Hope you find what you're looking for. All the best.
