@@ -85,6 +85,8 @@ When you reach out, make sure you have read the link on the slide on how to writ
 
 - [Prof. Zach Lipton](https://acmilab.org/people/) tweeted about other qualities their group looks for when hiring Ph.D. candidates. [[Twitter thread]](https://twitter.com/acmi_lab/status/1459993908151214080)
 
+- [Chaitanya Joshi](https://www.chaitjo.com/) curated a list of similar resources in [this tweet of his.](https://twitter.com/chaitjo/status/1444580607980281858)
+
 Note - There's a sizeable overlap in the contents of each of the resources shared above. Do go through each of them nevertheless.
 
 I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
@@ -98,6 +100,7 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
     - [[email 2]](/assets/pdf/email2.txt): Typical queries from inexperienced, young researchers. 
     - [[email 3]](/assets/pdf/email3.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
     - [[email 4]](/assets/pdf/email4.txt): Typical queries from inexperienced, young researchers.
+    - [[email 5]](/assets/pdf/email5.txt): An undergraduate from a non-IIT/NIT/etc. who has some relevant experience, and a cogent email with github links etc. who reached out to enquire if they can work on any project with me.
     - [[linkedin 1]](/assets/pdf/linkedin1.txt): Typical queries from inexperienced, young researchers.
     - [[linkedin 2]](/assets/pdf/linkedin2.txt): MS vs. PhD
 

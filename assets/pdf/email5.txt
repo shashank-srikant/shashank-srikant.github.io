@@ -1,0 +1,49 @@
+================== EMAIL QUERY, from December 2021 ============================================
+
+Respected sir,
+
+My name is XYZ. I am a 4th year undergraduate student at ABC, India. I am writing this email because I am interested in doing a remote research internship under your guidance.
+
+Sir, I have been learning and doing projects in the field of Deep Learning and Machine Learning for the past one year. In my second year I have worked on various projects such as PQR using CNNs and MNO on S&P 500 Data. I am also carrying out academic research under Dr ABC (a US University) on video enhancement algorithms. I am also interested in fields related to human computer interaction or cognitive science domain. And I also intend to do higher studies in these fields.
+
+I would love to do research on innovative and realistic projects; thus exploring and learning under your guidance.
+
+I am ready to start my internship remotely and work till we can publish impactful papers .  
+You can check about me in these links:
+
+Linkedin: https://www.linkedin.com/XYZ
+
+Github: https://github.com/XYZ
+
+You can also find more about the projects that I have worked on in my resume that I have attached with this mail.
+
+Regards,
+XYZ
+
+[Google drive URL to CV]
+
+========================================================
+thanks for writing to me, XXX.
+i'm afraid i don't have any projects which you can directly contribute to.
+
+what i would recommend instead are 
+- try out something like https://offnote.co/apply/
+
+- keep a lookout on linkedin for professors to publish vacancies
+e.g. https://www.linkedin.com/posts/prathosh-ap-phd-50ab9511_ihb-jm2022pdf-activity-6872553488916738048-qZ1L
+
+- look at what some college clubs are doing, and see if you can collaborate with them.
+e.g. https://cyberlabs.club/
+
+- start reading papers+codebases, and start thinking for yourself what problems might be interesting, and try those tweaks for yourself.
+that's far more valuable than reaching out to folks and asking them if you can tag along to any projects they're working on.
+
+- start personalizing your emails. it's quite clear you've sent out this email to a bunch of profiles you've found out from the internet. nothing wrong in that, but if you really want to work w someone - do your homework. figure out what they're working on, try to understand the work for yourself, ask a meaningful question about it, see if they have a code repo for any of their projects - and if yes, download and play around with it, and then perhaps write to them about what you learnt from that exercise. people appreciate such well informed email queries.
+it's a lot of hard work, but it's well worth it.
+
+since you presumably want to work on ML, focus on developing very strong fundamentals/working knowledge of pytorch and related libraries.
+
+you're on the right track. please be patient, and be consistent w your effort to learn and innovate. 
+
+all the best.
+shashank.
