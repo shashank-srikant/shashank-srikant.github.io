@@ -21,7 +21,7 @@ Here's a list of topics I cover on this page.
 - [What research is not](#researchisnot)
 - [Doing research](#doingresearch)
 - [Aspiring researchers from India](#aspiringresearchers)
-- [Useful resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; typical email queries sent out by young researchers; I've also attached my academic statement from the time I applied to grad schools)
+- [Useful resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; typical email queries sent out by young researchers; I've also attached my academic statement from the time I applied to grad schools
 - [My background](#background)
 - [Working with me](#workingwithme)
 
@@ -95,7 +95,7 @@ I will keep adding to this list here. Feel free to write me an email in case you
 
 Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so that it gets picked up search engines.
 
-- [Ubadah Sabbagh](https://www.ubadahsabbagh.com/about.html) [tweeted a thread with links to useful summer research programs](https://twitter.com/neubadah/status/1353812419911540738) for undergrads (mostly in the US).
+- [Ubadah Sabbagh](https://www.ubadahsabbagh.com/about.html) tweeted a [thread with links to useful summer research programs](https://twitter.com/neubadah/status/1353812419911540738) for undergrads (mostly in the US).
 
 - My responses to some queries I have received over email and other social media over the years.
     - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
