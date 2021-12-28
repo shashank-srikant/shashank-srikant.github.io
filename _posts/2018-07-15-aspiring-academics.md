@@ -73,10 +73,11 @@ Consider then doing an M.Tech, M.S. at any of the top universities in India by w
 
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world you who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
 
-Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing)
+**Details** Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing)
+
 Also see the [FAQs](#faq) where I've responded to similar queries.
 
-Feel free to reach out to me if you have questions. 
+Feel free to reach out to me if you have specific questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 
 
