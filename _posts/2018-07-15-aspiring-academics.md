@@ -77,6 +77,7 @@ When you reach out, make sure you have read the link on the slide on how to writ
 
 
 ### <a name="resources"></a>Resources
+I intend to keep the lists below updated. Feel free to write me an email in case you come across any more such relevant resources.
 
 #### Advice on applying to competitive Ph.D. programs in CS
 - [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
@@ -93,8 +94,6 @@ When you reach out, make sure you have read the link on the slide on how to writ
 - [Chaitanya Joshi](https://www.chaitjo.com/) curated a list of similar resources in [this tweet of his.](https://twitter.com/chaitjo/status/1444580607980281858)
 
 Note - There's a sizeable overlap in the contents of each of the resources shared above. Do go through each of them nevertheless.
-
-I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
 
 #### My academic statements from the time I applied to graduate schools
 In case this is helpful, [this is my statement of purpose / SOP/ academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
