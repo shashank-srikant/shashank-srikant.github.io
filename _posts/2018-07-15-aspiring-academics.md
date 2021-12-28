@@ -118,6 +118,7 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
 Not a lot of product research groups that I know of where academic-style research happens, with publications at good venues as a goal. 
 The orgs I list below may no longer maintain active research groups/fit the above criteria. 
 You should definitely reach out to the founders directly (these are typically small orgs) and check with them.
+Also note - these are mostly jobs in computer science, since that's the field I'm most intimately familiar with.
 If you come across any more, please do write to me.
 
 - [Sharechat](https://sharechat.com/careers)
