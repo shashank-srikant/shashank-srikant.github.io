@@ -75,7 +75,7 @@ Hence, your best bet is to do a solid masters degree where you will be exposed t
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world who might support you to solve that problem. 
 You should then consider applying to them/their university and doing your Ph.D. with them.
 
-**Details.** These [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing) provide more details. 
+**Details.** [These slides](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing) provide more details. 
 Also see the [FAQs](#faq) where I've responded to similar queries.
 
 Feel free to reach out to me if you have specific questions. 
