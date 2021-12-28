@@ -73,8 +73,7 @@ Consider then doing an M.Tech/M.S. at any of (and only) the top universities in 
 
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world you who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
 
-**Details** Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing)
-
+**Details.** These [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing) provide more details. 
 Also see the [FAQs](#faq) where I've responded to similar queries.
 
 Feel free to reach out to me if you have specific questions. 
