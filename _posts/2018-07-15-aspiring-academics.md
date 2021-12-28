@@ -20,7 +20,7 @@ Here's a list of topics I cover on this page.
 - [If you're an undergrad at a school with a strong research program](#undergrad)
 - [What research is not](#researchisnot)
 - [Doing research](#doingresearch)
-- [Aspiring researchers from India](#india)
+- [Aspiring researchers from India](#india) - Also has [some pointers](#not-tier-1-india) for those not from the top schools in India but who want to do research.
 - [Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
 - [FAQs](#faq) - My responses to email queries sent out by young researchers; 
 - [My background](#background)
@@ -62,7 +62,7 @@ If you are an undergrad/aspiring young researcher from India reading this - it's
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
 
-<a name="not-tier-1"></a>And importantly - if you are from a "tier-1" school, were such research opportunities do not exist for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
+<a name="not-tier-1-india"></a>And importantly - if you are from a "tier-1" school, were such research opportunities do not exist for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
 
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
