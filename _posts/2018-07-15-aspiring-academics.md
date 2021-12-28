@@ -67,10 +67,12 @@ If you are from a college where there is a good culture for research, read the a
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-**The summary of it is --** earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience, do an MTech at any of the top 3-5 universities in India by writing and excelling at GATE (or alternatively, work at a cutting edge research lab--which are hard to find, since these labs generally require advanced degrees).
+**The summary of it is --** earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience. This will require you to learn concrete skills and technologies. Some details mentioned in [email4, FAQs](#faq). 
+Consider then doing an M.Tech, M.S. at any of the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) (or alternatively, work at a cutting edge research lab--which are hard to find, since these labs generally require advanced degrees to get in).
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world you who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
 
-Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing){:target="_blank"}
+Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing)
+Also see the [FAQs](#faq) where I've responded to similar queries.
 
 Feel free to reach out to me if you have questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
