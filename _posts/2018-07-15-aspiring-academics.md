@@ -20,8 +20,9 @@ Here's a list of topics I cover on this page.
 - [If you're an undergrad at a school with a strong research program](#undergrad)
 - [What research is not](#researchisnot)
 - [Doing research](#doingresearch)
-- [Aspiring researchers from India](#aspiringresearchers)
-- [Useful resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; typical email queries sent out by young researchers; I've also attached my academic statement from the time I applied to grad schools
+- [Aspiring researchers from India](#india)
+- [Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
+- [FAQs](#faq) - My responses to email queries sent out by young researchers; 
 - [My background](#background)
 - [Working with me](#workingwithme)
 
@@ -56,24 +57,28 @@ Here's an informative article on how to accommodate research in your otherwise b
 
 This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
-### <a name="aspiringresearchers"></a>Aspiring researchers from India
+### <a name="india"></a>Aspiring researchers from India
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
 
-And importantly - if you aren't from a "tier-1" school where there exist such opportunities for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
+<a name="not-tier-1"></a>And importantly - if you aren't from a "tier-1" school such research opportunities do not exist for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
 
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-Here're my slides on how you can go about it. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing){:target="_blank"}
+The summary of it is -- earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience, do an MTech at any of the top 3-5 universities in India by writing and excelling at GATE (or alternatively, work at a cutting edge research lab--which are hard to find, since these labs generally require advanced degrees).
+In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world you who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
+
+Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing){:target="_blank"}
 
 Feel free to reach out to me if you have questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 
 
-### <a name="resources"></a>Useful resources
+### <a name="resources"></a>Resources
 
+#### Advice on applying to competitive Ph.D. programs (in the US)
 - [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
 
 **I strongly recommend you go through this talk by Shriram if you aspire to apply to CS programs in the US.**
@@ -91,21 +96,27 @@ Note - There's a sizeable overlap in the contents of each of the resources share
 
 I will keep adding to this list here. Feel free to write me an email in case you come across any more such resources.
 
-- In case this is helpful, [this is my statement of purpose / SOP/ academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
+#### My academic statements from the time I applied to graduate schools
+In case this is helpful, [this is my statement of purpose / SOP/ academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
 
 Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so that it gets picked up search engines.
 
+
+#### Research internships for undergraduates (in the US)
 - [Ubadah Sabbagh](https://www.ubadahsabbagh.com/about.html) tweeted a [thread with links to useful summer research programs](https://twitter.com/neubadah/status/1353812419911540738) for undergrads (mostly in the US).
 
-- My responses to some queries I have received over email and other social media over the years.
+- [Himanshu Ahuja](http://himahuja.com/) maintains an [excellent repository with links](https://github.com/himahuja/Research-Internships-for-Undergraduates) to undergraduate research programs in India and around the globe.
+
+#### <a name="faq"></a>FAQs
+My responses to some queries I have received over email and other social media over the years.
     - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
     - [[email 2]](/assets/pdf/email2.txt): Young researchers reaching out for summer internships. 
     - [[email 3]](/assets/pdf/email3.txt): Young researchers wanting to join my lab.
     - [[email 4]](/assets/pdf/email4.txt): Young researchers wanting to work on any project with me. 
-    - [[email 5]](/assets/pdf/email5.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
     - [[linkedin 1]](/assets/pdf/linkedin1.txt): Can you check my CV and tell me whether I should apply for a PhD.
     - [[linkedin 2]](/assets/pdf/linkedin2.txt): MS vs. PhD
-
+    - [[email 5]](/assets/pdf/email5.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
+   
 ### <a name="background"></a>My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
