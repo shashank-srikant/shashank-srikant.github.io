@@ -69,7 +69,8 @@ Lot more than it usually takes to do research.
 
 **The summary of it is --** earnestly understand your undergrad material. During undergrad, or right after, work as an RA in a relevant lab in India to gain concrete skills and experience in research -- this could be through a summer research program (see the [Resources](#resources) section for links), or by you reaching out to labs you think are interesting. Doing this will require you to first learn concrete skills and technologies. Some details mentioned in [email 4, FAQs](#faq).
 
-Consider then doing an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering), or alternatively, work at a cutting edge research lab. Finding such labs are hard, since they generally require advanced degrees to get in. Hence, your best bet is to do a solid masters degree where you will be exposed to advanced coursework, and state of the art research.
+Consider then doing an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering), or alternatively, work at a cutting edge research lab. Finding such labs are hard, since they generally require advanced degrees to get in in the first place (see the [Resources](#resources) section for a few that I know of). 
+Hence, your best bet is to do a solid masters degree where you will be exposed to advanced coursework, and state of the art research.
 
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
 
@@ -109,6 +110,16 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
 - [Ubadah Sabbagh](https://www.ubadahsabbagh.com/about.html) tweeted a [thread with links to useful summer research programs](https://twitter.com/neubadah/status/1353812419911540738) for undergrads (mostly in the US).
 
 - [Himanshu Ahuja](http://himahuja.com/) maintains an [excellent repository with links](https://github.com/himahuja/Research-Internships-for-Undergraduates) to undergraduate research programs in India and around the globe.
+
+- I mention a few more in Email 4 listed in the [FAQs](#faw) section.
+
+#### Research jobs in India offered to undergrads
+Not a lot that I know of. 
+The orgs I list below may no longer maintain active research groups. 
+If you come across any, please do write to me.
+
+- [Sharechat](https://sharechat.com/careers)
+- [Aspiring Minds Research](http://research.aspiringminds.com/)
 
 #### <a name="faq"></a>FAQs
 My responses to some queries I have received over email and other social media over the years.
