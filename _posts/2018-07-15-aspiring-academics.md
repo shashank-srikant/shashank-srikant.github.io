@@ -14,7 +14,7 @@ From experience, if you're interested in your coursework, and have a curious min
 
 Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
 
-(Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read Jason Eisner's article below to learn more about this.)
+(Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
 Here's a list of topics I cover on this page.
 - [If you're an undergrad at a school with a strong research program](#undergrad)
