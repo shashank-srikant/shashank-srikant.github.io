@@ -99,11 +99,11 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
 
 - My responses to some queries I have received over email and other social media over the years.
     - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
-    - [[email 2]](/assets/pdf/email2.txt): Typical queries from inexperienced, young researchers. 
+    - [[email 2]](/assets/pdf/email2.txt): Young researchers reaching out for summer internships. 
     - [[email 3]](/assets/pdf/email3.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
-    - [[email 4]](/assets/pdf/email4.txt): Typical queries from inexperienced, young researchers.
-    - [[email 5]](/assets/pdf/email5.txt): An undergraduate from a non-IIT/NIT/etc. who has some relevant experience, and a cogent email with github links etc. who reached out to enquire if they can work on any project with me.
-    - [[linkedin 1]](/assets/pdf/linkedin1.txt): Typical queries from inexperienced, young researchers.
+    - [[email 4]](/assets/pdf/email4.txt): Young researchers wanting to join my lab.
+    - [[email 5]](/assets/pdf/email5.txt): Young researchers wanting to work on any project with me.
+    - [[linkedin 1]](/assets/pdf/linkedin1.txt): Can you check my CV and tell me whether I should apply for a PhD.
     - [[linkedin 2]](/assets/pdf/linkedin2.txt): MS vs. PhD
 
 ### <a name="background"></a>My background
