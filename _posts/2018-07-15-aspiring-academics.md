@@ -67,7 +67,7 @@ If you are from a college where there is a good culture for research, read the a
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-**The summary of it is --** earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience. This will require you to learn concrete skills and technologies. Some details mentioned in [email4, FAQs](#faq). 
+**The summary of it is --** earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience. This will require you to learn concrete skills and technologies. Some details mentioned in [email 4, FAQs](#faq). 
 Consider then doing an M.Tech, M.S. at any of the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering) (or alternatively, work at a cutting edge research lab--which are hard to find, since these labs generally require advanced degrees to get in).
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world you who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
 
