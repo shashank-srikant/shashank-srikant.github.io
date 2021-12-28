@@ -81,6 +81,17 @@ Also see the [FAQs](#faq) where I've responded to similar queries, and Prof. Shr
 Feel free to reach out to me if you have specific questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 
+**M.S. (outside India) vs. Ph.D.** At this point, you may be quite confused about all the fuss about doing a Ph.D.s. 
+After all, you may have a bunch of friends who head out to the US to do their masters/M.S. degrees. 
+How are these degrees different? 
+
+Short answer -- it is totally different, as these programs neither expect nor will train you with the skills a Ph.D. demands/trains you for. 
+These M.S. programs are meant to be professional degrees which promise to teach you skills which you can directly use in the industry. 
+Most people join these M.S. programs not to really improve their skills in doing research, but to land a job in the country they do their M.S. in (mostly the United States)---it's the most established route to land such jobs in another country. 
+
+Perhaps the biggest tangible difference is the finances involved -- in a Ph.D. program, you are being paid a modest salary while you produce knowledge, and on the other hand, you pay upwards of 2-3 million Indian rupees for your masters degree (which they expect you will earn in 2-3 years on joining their workforce upon graduation). 
+These programs rarely involve any honors theses, which will give you a sense for research and the state of the art in a field. 
+I would hence recommend an M.Tech at any of the top 2-3 universities in India (IISc, top IITs), where the coursework is rigorous and research-focused, while being essentially free of cost.
 
 ### <a name="resources"></a>Resources
 I intend to keep the lists below updated. Feel free to write me an email in case you come across any more such relevant resources.
