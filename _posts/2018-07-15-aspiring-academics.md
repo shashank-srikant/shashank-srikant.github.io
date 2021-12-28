@@ -67,7 +67,7 @@ If you are from a college where there is a good culture for research, read the a
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-The summary of it is -- earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience, do an MTech at any of the top 3-5 universities in India by writing and excelling at GATE (or alternatively, work at a cutting edge research lab--which are hard to find, since these labs generally require advanced degrees).
+**The summary of it is --** earnestly understand your undergrad material, work as an RA in a relevant lab in India first to gain concrete skills and experience, do an MTech at any of the top 3-5 universities in India by writing and excelling at GATE (or alternatively, work at a cutting edge research lab--which are hard to find, since these labs generally require advanced degrees).
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world you who might support you to solve that problem. You should then apply to them/their university, and pursue a Ph.D. with them.
 
 Here're my slides which hash out the above summary in some more detail. [[slides]](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing){:target="_blank"}
@@ -109,6 +109,7 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
 
 #### <a name="faq"></a>FAQs
 My responses to some queries I have received over email and other social media over the years.
+
     - [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
     - [[email 2]](/assets/pdf/email2.txt): Young researchers reaching out for summer internships. 
     - [[email 3]](/assets/pdf/email3.txt): Young researchers wanting to join my lab.
