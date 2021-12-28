@@ -115,12 +115,13 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
 - I mention a few more in Email 4 listed in the [FAQs](#faw) section.
 
 #### Research jobs in India offered to undergrads
-Not a lot that I know of. 
-The orgs I list below may no longer maintain active research groups. 
+Not a lot of product research groups that I know of where academic-style research happens, with publications at good venues as a goal. 
+The orgs I list below may no longer maintain active research groups/fit the above criteria. 
 If you come across any, please do write to me.
 
 - [Sharechat](https://sharechat.com/careers)
 - [Aspiring Minds Research](http://research.aspiringminds.com/)
+- [Sensara.tv](https://www.sensara.tv/careers.html)
 
 #### <a name="faq"></a>FAQs
 My responses to some queries I have received over email and other social media over the years.
