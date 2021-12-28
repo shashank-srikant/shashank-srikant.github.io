@@ -81,8 +81,8 @@ Also see the [FAQs](#faq) where I've responded to similar queries, and Prof. Shr
 Feel free to reach out to me if you have specific questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
 
-**M.S. (outside India) vs. Ph.D.** At this point, you may be quite confused about all the fuss about doing a Ph.D.
-After all, you may have a bunch of friends who head out to the US to do their masters/M.S. degrees. 
+**M.S. (outside India) vs. Ph.D.** At this point, you may be quite confused about why I'm dwelling on the specifics of Ph.D. programs.
+After all, you may have a bunch of friends who head out to the US to do their masters/M.S. degrees who didn't seem to follow most of the resources provided on this page. 
 How are these degrees different? 
 
 Short answer -- it is totally different, as these programs neither expect nor will train you with the skills a Ph.D. demands/trains you for. 
