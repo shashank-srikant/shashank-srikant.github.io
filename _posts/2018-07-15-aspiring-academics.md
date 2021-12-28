@@ -151,7 +151,7 @@ Over these years, I've worked on and developed an expertise in problems in machi
 
 Okay. We'll be working together on a project. Great. These are some things I'll be looking out for -
 1. **Communication** -- I think every successful collaboration really boils down to communicating well. And this is something where our instincts can _massively_ fail us. I've been a douche in the past in matters regarding communication. And i've learnt to be better.
-When in doubt, communicate. If you're stuck on something you think is trivial, communicate. If you're not enjoying what you're doing, communicate. If you missed a mileston we agreed upon, communicate. If you want more time to run some analysis, communciate. If you think i'm being unreasonable about something ... you get the drift.
+When in doubt, communicate. If you're stuck on something you think is trivial, communicate. If you're not enjoying what you're doing, communicate. If you missed a milestone we agreed upon, communicate. If you want more time to run some analysis, communciate. If you think i'm being unreasonable about something ... you get the drift.
 Effective communication can make or break a collaboration.
 And it is oddly against our instincts to have tough conversations, where either we're coming off as being inadequate, or we're pointing some shortcoming in someone else.
 But what works almost always is going ahead and actually communicating it. See an example below where I dwell on this point a little more.
