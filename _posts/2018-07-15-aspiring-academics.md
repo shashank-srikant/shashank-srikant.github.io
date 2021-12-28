@@ -112,7 +112,7 @@ Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so 
 
 - [Himanshu Ahuja](http://himahuja.com/) maintains an [excellent repository with links](https://github.com/himahuja/Research-Internships-for-Undergraduates) to undergraduate research programs in India and around the globe.
 
-- I mention a few more in Email 4 listed in the [FAQs](#faw) section.
+- I mention a few more in Email 4 listed in the [FAQs](#faq) section.
 
 #### Research jobs in India offered to undergrads
 Not a lot of product research groups that I know of where academic-style research happens, with publications at good venues as a goal. 
