@@ -78,7 +78,7 @@ When you reach out, make sure you have read the link on the slide on how to writ
 
 ### <a name="resources"></a>Resources
 
-#### Advice on applying to competitive Ph.D. programs (in the US)
+#### Advice on applying to competitive Ph.D. programs in CS
 - [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
 
 **I strongly recommend you go through this talk by Shriram if you aspire to apply to CS programs in the US.**
@@ -102,7 +102,7 @@ In case this is helpful, [this is my statement of purpose / SOP/ academic statem
 Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so that it gets picked up search engines.
 
 
-#### Research internships for undergraduates (in the US)
+#### Research internships for undergraduates
 - [Ubadah Sabbagh](https://www.ubadahsabbagh.com/about.html) tweeted a [thread with links to useful summer research programs](https://twitter.com/neubadah/status/1353812419911540738) for undergrads (mostly in the US).
 
 - [Himanshu Ahuja](http://himahuja.com/) maintains an [excellent repository with links](https://github.com/himahuja/Research-Internships-for-Undergraduates) to undergraduate research programs in India and around the globe.
