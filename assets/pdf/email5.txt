@@ -1,52 +1,59 @@
-================== EMAIL QUERY, from December 2021 ============================================
+========    EMAIL QUERY, from October 2021. REDACTED SUMMARY  ===========================
 
-Respected sir,
+I am currently six months into my PhD. For a multitude of reasons, I am planning to apply  and switch to grad school programs in the US. As someone who did not take the conventional grad school route, did you feel any hesitation to commit to a grad school program? Also how did you feel about knowing that you would be in your thirties when you finish. I am feeling a bit weird about it, and I wanted to understand how you felt about it and what career plans you have, since a PhD sort of narrows it.
 
-My name is XYZ. I am a 4th year undergraduate student at ABC, India. I am writing this email because I am interested in doing a remote research internship under your guidance.
+Just wanted to understand your thoughts on what you intend to do if you want to go back to India. 
+Are you also considering something on the lines of academia or expanding on your industry experience?
 
-Sir, I have been learning and doing projects in the field of Deep Learning and Machine Learning for the past one year. In my second year I have worked on various projects such as PQR using CNNs and MNO on S&P 500 Data. I am also carrying out academic research under Dr ABC (a US University) on video enhancement algorithms. I am also interested in fields related to human computer interaction or cognitive science domain. And I also intend to do higher studies in these fields.
+The reason I ask stems from my interaction with non-profits and the general public regarding data and data science. To give more context, I also dabbled as a science journalist for a short while and a volunteer math teacher. My experience has made me appreciate that science and math, and by extension, computer science and data science skills are not really well understood or appreciated by large sections of the society, but also this lack of appreciation is also deeply tied into complex societal issues. I really appreciate your commitment to go back to India and give back. How do you maintain your commitment to go back and contribute?
 
-I would love to do research on innovative and realistic projects; thus exploring and learning under your guidance.
+=================== MY RESPONSE =============================
 
-I am ready to start my internship remotely and work till we can publish impactful papers .  
-You can check about me in these links:
+```
+I am currently six months into my PhD. For a multitude of reasons, I am planning to apply  and switch to grad school programs in the US. As someone who did not take the conventional grad school route, did you feel any hesitation to commit to a grad school program? Also how did you feel about knowing that you would be in your thirties when you finish.
+```
+when i was applying to grad school in 2017, i was already 27/28 years old, and i had kinda made up my mind to not pursue a phd. rather, i was confident i had decent technical skills and wanted to find good problems to go after, and i was okay not having the phd tag to affirm my skills. this was why i had taken off a year and had started spending time with people doing interesting work in different parts of the country (which is when i worked with seva setu).
 
-Linkedin: https://www.linkedin.com/XYZ
+during this time, a couple of things transpired and a few profs encouraged me to apply to grad school, since they saw a great fit w my research experience and their research agenda then. i hence applied very selectively to just 2-3 schools/departments, whose work i knew intimately well. 
 
-Github: https://github.com/XYZ
+importantly, these 2-3 schools/departments were such that i knew i would end up being exposed to high quality science, and be with a team of folks at the forefront of their fields. i was very selective and particular about these schools/departments. if i hadn't been accepted by these 2-3 depts i was keen on, i'd have still been at peace with myself and just moved on with my agenda to find interesting problems to solve. 
 
-You can also find more about the projects that I have worked on in my resume that I have attached with this mail.
+i really don't care what age i graduate from this program. it's fine if i'm in my early 30s or late 30s or whatever. i enjoy working in the area i currently dabble in, and i see this as a 5 year adventure where i get exposed to high-quality science. That is why i was very particular about which schools and departments i'd wanted to wager 5 years of my life with in exchange for an intellectually stimulating environment. i'm fine if my career path ahead doesn't necessarily utilize the skills i'm currently acquiring--i'm doing this stint because i enjoy doing it. i'm fine switching to politics, entrepreneurship, or whatever as a next step, and i'll very much be content knowing that i got to spend 5 years somewhere in my life's timeline at a world-class facility doing decent science. 
 
-Regards,
-XYZ
+i was very clear, even before i joined my current program, that i was not doing this to acquire skills in a domain which i would hope to utilize in the next career phase of my life. having such expectations are unrealistic and unsustainable in my opinion; i know some people who pull it off (e.g. knowing for sure they want to remain in academia and thus optimize every step they take with that end goal in mind) but it seems to require too many things to align for such goals to work out so nicely. 
+that said, there's nothing like it if i do end up doing something which will directly make use of the skills and knowledge i acquire in my phd; but i see that as the absolute best case. it's not a necessary condition for my personal happiness/my next steps post graduation.
+ 
+```
+I am feeling a bit weird about it, and I wanted to understand how you felt about it and what career plans you have, since a PhD sort of narrows it.
+```
 
-[Google drive URL to CV]
+implied in my spiel above, i don't really buy the premise you propose---of a phd "narrowing things down".
 
-========================   MY RESPONSE  ================================
-thanks for writing to me, XXX.
-i'm afraid i don't have any projects which you can directly contribute to.
+as i mentioned, my phd is for my edification. sure, i am training myself in being an expert in a very specialized domain. i don't see that as a necessary stepping stone to my next career choice. nothing like it if i'm able to utilize such narrow skills directly in my next steps, but the way things are shaping out in my head, it's unlikely this is gonna happen. and i'm fine with it.
 
-what i would recommend instead are 
-- try out something like https://offnote.co/apply/
+that said, i believe a career in academia (which such narrow skills most naturally trains us for) provides a person with the agency to have a profound impact on a non-trivial number of young minds. i would love to be in academia; but for a variety of reasons, i think other verticals like politics and entrepreneurship are much more in need of an intervention in india, which academia perhaps would only serve tangentially. i may be incorrect in hindsight, but this is my reading of the current situation in india.
 
-- keep a lookout on linkedin/twitter/group webpages for professors to publish vacancies
-e.g. https://www.linkedin.com/posts/prathosh-ap-phd-50ab9511_ihb-jm2022pdf-activity-6872553488916738048-qZ1L
+```
+Just wanted to understand your thoughts on what you intend to do if you want to go back to India. 
+Are you also considering something on the lines of academia or expanding on your work at IndiaSpends, and your industry experience?
+```
+neither really :-)
 
-- look at what some college clubs are doing, and see if you can collaborate with them.
-e.g. https://cyberlabs.club/
+i will likely dive into the political system, and try to contest for elections at a city level.
+i don't come from a political family, so this is going to be an uphill task; poetically, another phd in itself :-)
+ 
+```
+The reason I ask stems from my interaction with non-profits and the general public regarding data and data science. To give more context, I also dabbled as a science journalist for a short while and a volunteer math teacher. My experience has made me appreciate that science and math, and by extension, computer science and data science skills are not really well understood or appreciated by large sections of the society, but also this lack of appreciation is also deeply tied into complex societal issues. I really appreciate your commitment to go back to India and give back. How do you maintain your commitment to go back and contribute?
+```
 
-- start reading papers+codebases, and start thinking for yourself what problems might be interesting, and try those tweaks for yourself.
-that's far more valuable than reaching out to folks and asking them if you can tag along to any projects they're working on.
+thanks for your kind words. my commitment right now is only on paper. what matters is how i concretize my commitment, and how i persist in the face of an unfavorable environment/set of conditions.
 
-Some well maintained code repos have a number of open issues. 
-e.g. https://github.com/QData/TextAttack/labels/help%20wanted
+It's great to know of your background, and it's nice to hear you've tried out these bunch of things to explore for yourself where you think you can have the most impact. more power to you.
+yes, the problems you mention are valid and cut across geographies.
+that said, i really think it is upon us, the educated and professionally trained, to identify problems which are
+a. challenging enough
+b. impactful enough
+c. manageable in scope
+which we take up as a 5-10 year project in our lives to solve/work towards.
 
-- start personalizing your emails. it's quite clear you've sent out this email to a bunch of profiles you've found out from the internet. nothing wrong in that, but if you really want to work w someone - do your homework. figure out what they're working on, try to understand the work for yourself, ask a meaningful question about it, see if they have a code repo for any of their projects - and if yes, download and play around with it, and then perhaps write to them about what you learnt from that exercise. people appreciate such well informed email queries.
-it's a lot of hard work, but it's well worth it.
-
-since you presumably want to work on ML, focus on developing very strong fundamentals/working knowledge of pytorch and related libraries.
-
-you're on the right track. please be patient, and be consistent w your effort to learn and innovate. 
-
-all the best.
-shashank.
+for instance, in the case you mention, improving science consciousness/awareness is definitely a pressing problem with a huge impact if solved, but then seems to be so large in scope that it can seem daunting, making it hard to imagine where to even start. given our training, we folks are perhaps best placed to scope these tricky, seemingly daunting problems into a manageable, tractable problem. i have found it extremely challenging to do so, but i know it can be done. i guess the fact that it can be done is what really motivates me. besides this, i don't think i can ascribe my general motivation and commitment to be involved in these affairs back in india to anything more profound.

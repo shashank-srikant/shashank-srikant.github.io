@@ -1,37 +1,52 @@
-================== EMAIL QUERY, from November 2021 ============================================
+================== EMAIL QUERY, from December 2021 ============================================
 
-Hi Shashank,
+Respected sir,
 
-Greetings. 
+My name is XYZ. I am a 4th year undergraduate student at ABC, India. I am writing this email because I am interested in doing a remote research internship under your guidance.
 
-I, XYZ, am a Research Engineer-AI at  ABC. I am looking to apply for the Ph.D. program in EECS/HST at MIT for fall 2022.
+Sir, I have been learning and doing projects in the field of Deep Learning and Machine Learning for the past one year. In my second year I have worked on various projects such as PQR using CNNs and MNO on S&P 500 Data. I am also carrying out academic research under Dr ABC (a US University) on video enhancement algorithms. I am also interested in fields related to human computer interaction or cognitive science domain. And I also intend to do higher studies in these fields.
 
-I am writing to you to inquire about the Information on ALFA Lab. I have been conducting research on Deep Learning and its application: <link to google scholar>.
+I would love to do research on innovative and realistic projects; thus exploring and learning under your guidance.
 
-I have read several publications from your lab and I think the research being carried out at the lab interests me enough to pursue a Ph.D. I wanted to learn more about the lab and its members. Specifically, how often do members meet with the advisor and with one another? What are the expectations of the advisor in terms of results and publications? What should be the profile of a potential candidate willing to join the lab?
+I am ready to start my internship remotely and work till we can publish impactful papers .  
+You can check about me in these links:
 
-Please find attached is my CV for your reference and I would be happy to answer any further questions you may have.
+Linkedin: https://www.linkedin.com/XYZ
 
-================== MY RESPONSE ============================================
+Github: https://github.com/XYZ
 
-thanks for writing in, XYZ.
+You can also find more about the projects that I have worked on in my resume that I have attached with this mail.
 
-```
-I have read several publications from your lab and I think the research being carried out at the lab interests me enough to pursue a Ph.D. I wanted to learn more about the lab and its members. Specifically, how often do members meet with the advisor and with one another? What are the expectations of the advisor in terms of results and publications? What should be the profile of a potential candidate willing to join the lab?
-```
+Regards,
+XYZ
 
-i would strongly recommend you to watch this video - https://www.youtube.com/watch?v=IprN9fPV2LI
-in the video, prof. shriram provides a perspective on how to think about applying to competitive phd programs. it answers your question on what the expected profile of a potential candidate is.
+[Google drive URL to CV]
 
-unfortunately, at this stage, i think you're asking the wrong questions here. you should worry about the logistics of advisors, their expectations, and how their interaction with their students is only when you have something meaningful to talk about the work they are onto. 
-it doesn't suffice to claim "i've read several papers from your group, and i think the research being done is nice that i want to pursue a phd". what papers did you read? what did you understand about it? how do you reckon you will concretely contribute to any of these research threads? your email does not provide any information on this.
+========================   MY RESPONSE  ================================
+thanks for writing to me, XXX.
+i'm afraid i don't have any projects which you can directly contribute to.
 
-instead, what will help to have a meaningful conversation (always) is if you attempt to read a paper sincerely, understand it well, ponder about it, and have anything thoughtful to say about the the work, or if you can articulate something the work does not address or something that you think can be done in a different way. 
-better still, go ahead and fork any codebase related to the paper/project, play around with it, and see if you can spot anything amiss, or if you have can come up with any modest minor improvements/tweaks. go ahead and actually implement it, and write an email sharing those results + submitting a PR to the codebase! 
-Such actions would concretely demonstrate the basic skills you possess in the area you propose to be interested in--something the person you're reaching out to would want to (and love to) see.
+what i would recommend instead are 
+- try out something like https://offnote.co/apply/
 
-all this, of course, is a LOT of work. but i can assure you it would be well worth it--you will learn immeasurably.
+- keep a lookout on linkedin/twitter/group webpages for professors to publish vacancies
+e.g. https://www.linkedin.com/posts/prathosh-ap-phd-50ab9511_ihb-jm2022pdf-activity-6872553488916738048-qZ1L
+
+- look at what some college clubs are doing, and see if you can collaborate with them.
+e.g. https://cyberlabs.club/
+
+- start reading papers+codebases, and start thinking for yourself what problems might be interesting, and try those tweaks for yourself.
+that's far more valuable than reaching out to folks and asking them if you can tag along to any projects they're working on.
+
+Some well maintained code repos have a number of open issues. 
+e.g. https://github.com/QData/TextAttack/labels/help%20wanted
+
+- start personalizing your emails. it's quite clear you've sent out this email to a bunch of profiles you've found out from the internet. nothing wrong in that, but if you really want to work w someone - do your homework. figure out what they're working on, try to understand the work for yourself, ask a meaningful question about it, see if they have a code repo for any of their projects - and if yes, download and play around with it, and then perhaps write to them about what you learnt from that exercise. people appreciate such well informed email queries.
+it's a lot of hard work, but it's well worth it.
+
+since you presumably want to work on ML, focus on developing very strong fundamentals/working knowledge of pytorch and related libraries.
+
+you're on the right track. please be patient, and be consistent w your effort to learn and innovate. 
 
 all the best.
-
-shashank
+shashank.
