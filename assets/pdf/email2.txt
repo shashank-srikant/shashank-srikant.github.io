@@ -31,5 +31,8 @@ this sentence doesn't convey information. Please appreciate that there are very 
 - if your current supervisor is getting you to publish in such conferences, resist and work on your ideas to see if they can be published at better venues.
 - if you think these conferences are good, mention the specific names, e.g. "I have published in XYZ".
 
+
+4. Such emails seeking internships almost never work. You do not provide any meaningful, pointed information on how you think you will be of any value to the group. You can do this by reading papers published by a group, going through their codebase, understanding things, and then writing a thoughtful note on what you understood and tried out.
+
 these points are not to discourage you, but to get you to present yourself better. 
 all the best.
