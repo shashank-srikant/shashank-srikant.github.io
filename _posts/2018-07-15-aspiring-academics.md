@@ -66,7 +66,7 @@ If you are from a college where there is a good culture for research, read the a
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-**The summary of it is --** earnestly understand your undergrad course material. During undergrad, or right after, work as an RA in a relevant lab in India to gain concrete skills and experience in research -- this could be through a summer research program (see the [Resources](#resources) section for links), or by you reaching out to labs you think are interesting. Doing this will require you to first learn concrete skills and technologies. Some details mentioned in [email 4, FAQs](#faq).
+**The summary of it is --** earnestly understand your undergrad course material. During undergrad, or right after, work as an RA in a relevant lab in India to gain concrete skills and experience in research -- this could be through a summer research program (see the [Resources](#resources) section for links), or by you reaching out to labs you think are interesting. Doing this will require you to first learn concrete skills and technologies. See the talk/slides below, and [email 4, FAQs](#faq) for details.
 
 If you like your RA experience and want to explore this further, then consider one of --
 1. an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering). A few IITs provide the option of doing an MS-by-research without needing a GATE score. This education will be essentially free of cost, while offering world class graduate level coursework+research opportunities.
