@@ -80,12 +80,13 @@ This talk provides more details.
 <iframe
     width="540"
     height="380"
-    src="https://www.youtube.com/embed?v=282elQIeMew"
+    src="https://www.youtube.com/embed/282elQIeMew"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
 >
 </iframe>
+
 [These are the slides I use in this talk](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing).
 
 Also see the [FAQs](#faq) where I've responded to similar queries, and Prof. Shriram's talk listed in the [Resources section](#resources) which gives you a perspective of how faculty evaluate Ph.D. candidates and applications.
