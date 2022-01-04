@@ -78,8 +78,8 @@ You should then consider applying to them/their university and doing your Ph.D. 
 **Details.** 
 This talk provides more details.
 <iframe
-    width="640"
-    height="480"
+    width="540"
+    height="380"
     src="https://www.youtube.com/embed?v=282elQIeMew"
     frameborder="0"
     allow="autoplay; encrypted-media"
