@@ -106,8 +106,8 @@ These M.S. programs are meant to be professional degrees which promise to teach 
 Most people join these M.S. programs not to improve their skills in doing research, but to land a job in the country they do their M.S. in (mostly the United States)---it's the most established route to land such jobs in another country. 
 
 Perhaps the biggest tangible difference is the finances involved -- in a Ph.D. program, you are being paid a modest salary while you produce knowledge, and on the other hand, you pay upwards of 2-3 million Indian rupees for your masters degree (which they expect you will earn in 2-3 years on joining their workforce upon graduation). 
-These programs rarely involve any honors theses, which generally expect research-centric work. 
-I would hence recommend an M.Tech at any of the top 2-3 universities in India (IISc, top IITs), where the coursework is rigorous and research-focused, while being essentially free of cost.
+Note - these MS degrees are different from degrees which also support an honors thesis (typically offered by universities in Canada, and a few in the US, Europe). 
+See point 2 in the summary above.
 
 ### <a name="resources"></a>Resources
 I intend to keep the lists below updated. Feel free to write me an email in case you come across any more such relevant resources.
