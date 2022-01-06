@@ -161,7 +161,7 @@ Achu did not have typical RA-like opportunities during his undergrad.
 My responses to some queries I have received over email and other social media over the years. 
 My responses echo most of the content mentioned on this webpage.
 
-- [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since.
+- [[email 1]](/assets/pdf/email1.txt): Thoughtful questions on the Ph.D. applications process. Many of my suggestions I had responded with in this email have also been iterated by Shriram in his talk since (see [Resources](#resources)).
 - [[email 2]](/assets/pdf/email2.txt): Young researchers reaching out for summer internships. 
 - [[email 3]](/assets/pdf/email3.txt): Young researchers wanting to join the lab I work in.
 - [[email 4]](/assets/pdf/email4.txt): Young researchers wanting to work on any project with me. 
