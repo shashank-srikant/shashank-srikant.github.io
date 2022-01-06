@@ -153,7 +153,7 @@ If you come across any more, please do write to me.
 - [Sensara.tv](https://www.sensara.tv/careers.html)
 - [Gram Vaani](https://gramvaani.org/join-us/)
 
-#### Publishing your first paper
+#### <a name="paper"></a>Publishing your first paper
 [This excellent blog](https://achuwilson.github.io/post/2017-06-15-icra17/) by [Achu Wilson](https://achuwilson.github.io/) documents what it took him to publish his first research paper in one of the best conferences out there for robotics. 
 Achu did not have typical RA-like opportunities during his undergrad.
 
