@@ -24,6 +24,7 @@ Here's a list of topics I cover on this page.
 - [Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
 - [FAQs](#faq) - My responses to email queries sent out by young researchers; 
 - [My background](#background)
+- [Acknowledgement](#ack)
 
 ### <a name="undergrad"></a>If you're an undergrad at a school with a great research program
 
@@ -179,3 +180,8 @@ Looking back, I was an absolute fool at most times in my research journey. I wou
 I am where I am because of a bunch of such people who showed me the way. And I would love to support others like you who want a taste of this experience.
 
 Over these years, I've worked on and developed an expertise in problems in machine learning, data science, program analysis, natural language processing, and systems building.
+
+### <a name="ack"></a>Acknowledgement 
+Thanks to the following folks for their feedback on this page.
+
+[Srishti Yadav](https://srishti.dev/).
