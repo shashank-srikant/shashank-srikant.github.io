@@ -17,9 +17,9 @@ Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fu
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
 This webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
-Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job where they may not necessarily get to do the science they dreamt of doing.
+Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job where they may not necessarily get to do the science they once dreamt of doing.
 There's nothing wrong really in exploring other verticals after your undergrad -- in fact, it's a _very_ positive sign that you want to explore something that you really enjoy.
-But from my experience, I see a vast majority whose hearts are still in science, but who end up not knowing what concretely they can do to try out science and research.
+But from my experience, I see a vast majority whose hearts are still in science, but who may just not figure out the concrete steps needed to experience high quality science and research.
 This webpage will likely be of use to them.
 
 I cover the following topics.
