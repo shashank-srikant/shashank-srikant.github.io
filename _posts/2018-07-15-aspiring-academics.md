@@ -92,7 +92,7 @@ This talk provides more details.
 <br/>
 [These are the slides I use in this talk](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing).
 
-Also see the [FAQs](#faq) where I've responded to similar queries, and Prof. Shriram's talk listed in the [Resources section](#resources) which gives you a perspective of how faculty evaluate Ph.D. candidates and applications.
+Also see the [FAQs](#faq) where I've responded to common queries, and Prof. Shriram's talk listed in the [Resources section](#resources) which gives you a perspective of how faculty evaluate Ph.D. candidates and applications.
 
 Feel free to reach out to me if you have specific questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
