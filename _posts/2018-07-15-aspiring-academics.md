@@ -73,6 +73,7 @@ If you like your RA experience and want to explore this further, then consider o
 1. an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering). A few IITs provide the option of doing an MS-by-research without needing a GATE score. This education will be essentially free of cost, while offering world class graduate level coursework+research opportunities.
 2. MS programs outside India which have a strong thesis component + will fund you fully. Most universities in Canada provide an MASc, which is different from a professional masters degree, and is fully funded (tuition + stipend), or
 3. work at a cutting edge corporate research lab. Finding such labs are hard, since they generally require advanced degrees to get in in the first place (see the [Resources](#resources) section for a few that I know of).
+4. if you ended up having an excellent RA experience at an academic lab, or at pre-doctoral programs offered by the likes of [Google](https://research.google/careers/ai-residency/), [Micrsoft](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/), etc., and you now have a strong sense for what you want to work on, then you should just go ahead and apply to PhD programs.
 
 Hence, your best bet is to do a solid masters degree where you will be exposed to advanced coursework, and state of the art research.
 
