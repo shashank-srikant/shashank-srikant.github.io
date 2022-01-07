@@ -10,52 +10,75 @@ tags: aspiring-academics
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
 
-From experience, if you're interested in your coursework, and have a curious mind, and if you end up *disliking* research - then it is most likely the case of poor mentorship. Your mentor did not show you the ropes well, and did not give you the time you deserved.
-
+From experience, if you're interested in your coursework, and have a curious mind, and if you end up *disliking* research - then it is most likely the case of poor mentorship. 
+Your mentor did not show you the ropes well, and did not give you the time you deserved.
 Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
 
 (Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
-Here's a list of topics I cover on this page.
-- [If you're an undergrad at a school with a strong research program](#undergrad)
+This webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
+Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job where they may not necessarily get to do the science they dreamt of doing.
+There's nothing wrong really in exploring other verticals after your undergrad -- in fact, it's a _very_ positive sign that you want to explore something that you really enjoy.
+But from my experience, I see a vast majority whose hearts are still in science, but who end up not knowing what concretely they can do to try out science and research.
+This webpage will likely be of use to them.
+
+I cover the following topics.
 - [What research is not](#researchisnot)
-- [Doing research](#doingresearch)
+- [Doing research](#doingresearch) - what your research advisor expects from you
+- [If you're an undergrad at a school with a strong research program](#undergrad)
 - [Aspiring researchers from India](#india) - Also has [some pointers](#not-tier-1-india) for those not from the top schools in India but who want to do research.
 - [Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
 - [FAQs](#faq) - My responses to email queries sent out by young researchers; 
 - [My background](#background)
 - [Acknowledgement](#ack)
 
+
+### <a name="researchisnot"></a>What research is not
+
+- _Is a huge commitment_ -- Training yourself in research by doing a Ph.D. will likely take you 5-6 years. 
+A block of 5-10 years should not ruin your sense of a timeline for what you want to do in life. 
+We're expected to live for > 60 years. 
+Five years of it on this enterprise is not really that significant in my opinion. 
+People do work in jobs for five years, where they get to work on a range of projects, learning a couple different things along the way.
+Training yourself in research is no different.
+But sure - if you have filial, financial circumstances which you cannot avoid, then this may be a sub-optimal life decision.
+- _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
+- _High paying jobs_ -- Sure - most jobs do pay higher for Ph.D. grads, but if you're in it solely for this, then something's not right.
+- _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
+- _Is irrelevant to reality_ -- There may be a grain of truth to this, and many successful entrepreneurs also feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet. 
+In the worst case, you will use this as an opportunity to learn more about yourself. 
+In the best, you push forward the state of science for all of us.
+- _Need not require a Ph.D._ -- Not all research roles need you to have advanced degrees. 
+However, not many such roles exist. 
+Your best bet to experience research at its best is perhaps in an academic setting.
+- _Need not end in you becoming a professor at some university_ -- While academia is the natural destination for anyone interested in research as a career, a number of industrial jobs which rely on innovation have very strong in-house research programs (e.g. semiconductors, materials, pharma, airlines, auto manufacturing, computer-science based industries).
+
+
+### <a name="doingresearch"></a>Doing research
+
+[This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. 
+I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
+
+[In his famous talk 'You and your research'](/assets/pdf/you_and_your_research_hamming.html), Richard Hamming describes the process of doing _good_ research.
+
+This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
+
+
 ### <a name="undergrad"></a>If you're an undergrad at a school with a great research program
 
-If you're an undergrad at a school like MIT, which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. Making the most of your MIT experience != taking more grad classes -- these classes are pointless after a while. The best bang for your buck is in doing a UROP (undergraduate research program).
+If you're an undergrad at a school like MIT (or some other xIT in your country), which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. 
+Making the most of your xIT experience != taking more grad classes -- these classes are pointless after a while. 
+The best bang for your buck is in doing a UROP (undergraduate research program).
 
-Every PI (principal investigator) here is super accomplished at what they do, and is at the bleeding edge of defining their field. 
-They maybe bad teachers in the classroom, and even bad research mentors - but they definitely know their field well. You stand to learn and gain a lot.
+Every PI (principal investigator) in such colleges is super accomplished at what they do, and is at the bleeding edge of defining their field. 
+They maybe bad teachers in the classroom, and even bad research mentors - but they definitely know their field well. 
+You stand to learn and gain a lot.
 
 So, do give it a shot, and see if it works well for you. 
 It is very likely you'll work with someone in their group (as against directly working with them, and that's fine), and that someone can spur your interest in research. 
 
 Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target="_blank"}
 
-
-
-
-### <a name="researchisnot"></a>What research is not
-
-- _Is a huge commitment_ -- It's not a 5 year grind which will ruin your sense of a timeline of what you want to do in life. We're expected to live for >60 years. Five years of it on this enterprise is not really that big a deal. But sure - if you have filial, financial circumstances which you can't avoid, then this may be a sub-optimal life decision.
-- _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
-- _High paying jobs_ -- It's very unlikely going to be a stepping stone to a job that pays you more. Sure - most jobs do pay higher for Ph.D. grads, but if you're in it solely for this, then something's not right.
-- _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
-- _Is irrelevant to reality_ -- while there may be a grain of truth to this, and there are many successful entrepreneurs who feel this way [[tweet1]](https://twitter.com/svembu/status/1218224661583937536){:target="_blank"}, [[tweet2]](https://twitter.com/svembu/status/1229193888239210496){:target="_blank"}, I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet. In the worst case, you will use this as an opportunity to learn more about yourself. In the best, you push forward the state of science for all of us.
-
-### <a name="doingresearch"></a>Doing research
-
-[This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
-
-[In his famous talk 'You and your research'](/assets/pdf/you_and_your_research_hamming.html), Richard Hamming describes the process of doing _good_ research.
-
-This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
 ### <a name="india"></a>Aspiring researchers from India
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
