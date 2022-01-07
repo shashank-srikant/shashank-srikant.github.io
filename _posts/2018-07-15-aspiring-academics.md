@@ -131,7 +131,7 @@ Note - There's a sizeable overlap in the contents of each of the resources share
 #### My academic statements from the time I applied to graduate schools
 In case this is helpful, [this is my statement of purpose / SOP/ academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
 
-Note - Adding keywords like `PhD CS SOP statement of purpose sample example` so that it gets picked up search engines.
+Note - Adding keywords like `PhD CS computer science SOP statement of purpose sample example MIT CMU Stanford Berkeley` so that it gets picked up by search engines.
 
 
 #### Research internships for undergraduates
