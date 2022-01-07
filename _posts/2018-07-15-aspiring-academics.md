@@ -153,8 +153,10 @@ I intend to keep the lists below updated. Feel free to write me an email in case
 
 Note - There's a sizeable overlap in the contents of each of the resources shared above. Do go through each of them nevertheless.
 
-#### My academic statements from the time I applied to graduate schools
-In case this is helpful, [this is my statement of purpose / SOP/ academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
+#### Academic statements to graduate schools
+- In case this is helpful, [this is my statement of purpose / SOP / academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
+
+- [This is Jeremy Lacomis' application material](https://www.cs.cmu.edu/~jlacomis/application-info/), who was accepted to the Ph.D. program at CMU.
 
 Note - Adding keywords like `PhD CS computer science SOP statement of purpose sample example MIT CMU Stanford Berkeley` so that it gets picked up by search engines.
 
