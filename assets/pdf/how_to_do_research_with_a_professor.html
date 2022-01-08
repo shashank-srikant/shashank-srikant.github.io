@@ -1,0 +1,112 @@
+
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<html> <head>
+        <title>How to Do Research With a Professor</title>
+        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+        <script type="text/javascript" src="jquery.ba-replacetext.min.js"></script>
+        <script type="text/javascript">
+$(document).ready(function(){
+      // Smart double quotes.
+      $('*').replaceText(/"(?=\w|$)/g, "\u201C");
+        $('*').replaceText(/"/g, "\u201D");
+          // Find each word string like he/she and turn it into a span with masc and fem attributes.
+          $('*').replaceText(/\b(he|him|himself|his|male|female)\/(she|her|herself|hers|female|male)\b/gi,'<span class="genpron" masc="$1" fem="$2">$1</span>');
+            var feminize=function(){
+                    $('span.genpron').each(function(){ $(this).text($(this).attr("fem")) });
+                        $(this).unbind("click");
+                            $(this).click(masculinize);
+                              }
+              var masculinize=function(){
+                      $('span.genpron').each(function(){ $(this).text($(this).attr("masc")) });
+                          $(this).unbind("click");
+                              $(this).click(feminize);
+                                }
+                $("#sexchange").click(feminize);  // clicking the sexchange node flips the gender and the click handler
+                  $("#sexchange").css("cursor","pointer");  // cursor is a pointy hand when hovering over that node, to indicate clickable
+                    // so far page is masculine, but randomly decide whether to click upon initial page load
+                    if (Math.random() < 0.5) { $("#sexchange").click(); }
+});
+        </script>
+    </head>
+
+    <body text="#000000" bgcolor="#FFD9B7" link="#CC0000" vlink="#000055" alink="#FF3300">
+
+        <h1>How to Do Research With a Professor</h1>
+        <h4>by Jason Eisner (2012)</h4>
+
+
+        <h2>Summary</h2>
+
+        <p>This is a bit of advice for lucky students who get to do research
+        with a professor.</p>
+
+        <p>Take this opportunity seriously.  Either you make it your top
+        priority, or you don't do it at all.  That's the message.  Read the
+        rest of the page if you want to know why and how.</p>
+
+        <h2>Why This Webpage?</h2>
+
+        <p>I'd find it awkward to say these things directly to a nice undergrad
+        or master's student I was starting to work with.  It would feel like talking down to them,
+        <!-- heavy-handed and entitled. -->
+        <!-- Since I hope and expect that things will work out, I don't want to suggest otherwise. -->
+        <!--Like most academics, I am interested in good ideas rather than the
+                rank of the people who have the ideas, and I enjoy being around young
+                    people and dislike pretentious bigwigs. -->
+                    <!-- I don't want to be some big busy self-important Herr Doktor
+                        Professor who acts superior and calls all the shots.  Rather, -->
+                        whereas I like my research collaborators&mdash;however junior&mdash;to
+                        talk with me comfortably as equals, have fun, and come up with half
+                        the ideas.</p>
+
+        <p>Still, it's important to understand up front what the pressures are
+          on faculty-student collaborations.  So here are some things to bear
+            in mind.</p>
+
+        <h2>How the Professor Sees It</h2>
+
+        <blockquote id="sexchange"><i>[If the professor is female/male, click <u>here</u>.]</i></blockquote>
+
+        <p>Your research advisor doesn't get much credit for working with
+        junior students, and would find it easier and safer to work with
+        senior students.  It's just that someone gave <i>him/her</i> a chance
+        once: that's how he/she ended up where he/she is today.  He/She'd like
+        to pay that debt forward.</p>
+
+        <p>But should it be paid forward to <i>you</i>?  Choosing you
+          represents a substantial commitment on your advisor's part, and a
+            vote of confidence in you.</p>
+
+        <h3>Time Investment</h3>
+
+        <p>The hours that your advisor spends with you, one-on-one, are hours that
+        he/she no longer has available for</p>
+        <ul>
+            <li> retaining the semblance of a plausible life (sleeping / eating / parenting / avoiding divorce)
+                <li> consulting at rates of hundreds of dollars per hour
+                    <li> preparing for class
+                        <li> working on research with other students (grad or undergrad) or by himself/herself
+                            <li> staying current with the latest papers and techniques in the field
+                                <li> discharging many administrative and reviewing responsibilities
+        </ul>
+
+        <p>So he/she does expect that you'll pay him/her back, by working as hard as he/she
+        did when he/she got his/her chance.</p>
+
+        <h3>Research Agenda Investment</h3>
+
+        <p>Your advisor is not onis quite different from
+        what you'll learn in the classroom.</p>
+
+        <a name="succeed">
+            <h2>What You Can Do to Succeed</h2>
+
+            <p>Here's some basic advice targeted at <i>new</i> reseaer personality, your personality, and
+                the realities of lisor
+                  already has a high opinion of you from good interactions in class
+                    and through office hours.  (You did go to office hours just to chat
+                      about ideas, right?)  Even if he/she doesn't have anything for
+                        you, he/she may be able to hook you up with a colleague.</p>
+
+            <p><i>How to ask.</i> Advice from Marie desJardins: "Ask the
+              professor about his/her research.  Profess
