@@ -169,7 +169,7 @@ Note - Adding keywords like `PhD CS computer science SOP statement of purpose sa
 - I mention a few more in Email 4 listed in the [FAQs](#faq) section.
 
 #### Research jobs in India offered to undergrads
-Not a lot of product research groups that I know of where academic-style research happens, with publications at good venues as a goal. 
+I don't know a lot of product research groups where academic-style research happens, with publications at good venues as one of its goals. 
 The orgs I list below may no longer maintain active research groups/fit the above criteria. 
 You should definitely reach out to the founders directly (these are typically small orgs) and check with them.
 Also note - these are mostly jobs in computer science, since that's the field I'm most familiar with.
@@ -179,6 +179,10 @@ If you come across any more, please do write to me.
 - [Aspiring Minds Research](http://research.aspiringminds.com/)
 - [Sensara.tv](https://www.sensara.tv/careers.html)
 - [Gram Vaani](https://gramvaani.org/join-us/)
+- [Qure.ai](https://www.qure.ai/evidences/)
+- [Nirmai](https://www.niramai.com/about/thermalytix/)
+- [Strand life sciences](https://strandls.com/)
+- [Ati motors](https://www.atimotors.com/careers/)
 
 #### <a name="paper"></a>Publishing your first paper
 [This excellent blog](https://achuwilson.github.io/post/2017-06-15-icra17/) by [Achu Wilson](https://achuwilson.github.io/) documents what it took him to publish his first research paper in one of the best conferences out there for robotics. 
