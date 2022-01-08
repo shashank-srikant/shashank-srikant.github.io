@@ -95,17 +95,19 @@ Lot more than it usually takes to do research.
 Doing this will require you to first learn concrete skills and technologies. 
 See the talk/slides below, and [email 1, email 4, FAQs](#faq) for details.
 
-If you like your RA experience and want to explore this further, then consider one of --
-1. an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering). A few IITs provide the option of doing an MS-by-research without needing a GATE score. This education will be essentially free of cost, while offering world class graduate level coursework+research opportunities.
-2. MS programs outside India which have a strong thesis component + will fund you fully. Most universities in Canada provide an MASc, which is different from a professional masters degree, and is fully funded (tuition + stipend), or
-3. work at a cutting edge corporate research lab. Finding such labs are hard, since they generally require advanced degrees to get in in the first place (see the [Resources](#resources) section for a few that I know of which hire undergrads).
-4. if you ended up having an excellent RA experience at an academic lab, or at pre-doctoral programs offered by the likes of [Google](https://research.google/careers/ai-residency/), [Micrsoft](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/), etc., and you now have a strong sense for what you want to work on, then you should just go ahead and apply to PhD programs.
+If you ended up having an excellent RA experience at an academic lab, or at pre-doctoral programs offered by the likes of [Google](https://research.google/careers/ai-residency/), [Micrsoft](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/), etc., and you now have a strong sense for what you want to work on and who you think will best be able to guide you, then you should just go ahead and apply for a PhD with them.
+
+But if you are still not sure, liked your RA experience, and want to explore this further, then consider one of --
+1. doing an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering). A few IITs provide the option of doing an MS-by-research without needing a GATE score. This education will be essentially free of cost, while offering world class graduate level coursework+research opportunities.
+2. doing an MS programsoutside India which has a strong thesis component + will fund you fully. Most universities in Canada provide an MASc, which is different from a professional masters degree, and is fully funded (tuition + stipend), or
+3. working at a cutting edge corporate research lab. Finding such labs are hard, since they generally require advanced degrees to get in in the first place (see the [Resources](#resources) section for a few that I know of which hire undergrads).
 
 Hence, your best bet is to do a solid masters degree where you will be exposed to advanced coursework, and state of the art research.
 
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world who might support you to solve that problem. 
 You should then consider applying to them/their university and doing your Ph.D. with them.
-Don't worry too much about the "name" and "prestige value" of the school you apply to - people matter more.
+Don't worry too much about the "name" and "prestige value" of the school you apply to - people matter more. 
+You are _infinitely_ better off doing your Ph.D. with a professor who you know is good but is at an "okay" university, than doing it with a professor with whom you do not sync but who's at an "elite" university.
 
 **Details.** 
 This talk provides more details.
@@ -121,7 +123,8 @@ This talk provides more details.
 <br/>
 [These are the slides I use in this talk](https://docs.google.com/presentation/d/1w2unrVI_uW_LOloJUhFpOlyxzC8nCfpicuaEPK3da6E/edit?usp=sharing).
 
-Also see the [FAQs](#faq) where I've responded to common queries, and Prof. Shriram's talk listed in the [Resources section](#resources) which gives you a perspective of how faculty evaluate Ph.D. candidates and applications.
+Also see the [FAQs](#faq) where I've responded to, and provide feedback on common queries which aspiring researchers typically send out to faculty.
+See also Prof. Shriram's talk listed in the [Resources section](#resources) which gives you a perspective on how faculty evaluate Ph.D. candidates and applications.
 
 Feel free to reach out to me if you have specific questions. 
 When you reach out, make sure you have read the link on the slide on how to write effective emails (it's towards the end of the google slide deck I've linked above). A post detailing best practices to follow when writing out emails is long pending. I'll get to it one day.
