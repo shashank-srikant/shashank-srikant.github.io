@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-            <a target="_blank" href="/pronounce.html"><small> [Pronounce my name]</a></small>
+            <small>he/him; <a target="_blank" href="/pronounce.html">[Pronounce my name]</a></small>
             </p>
             
 
