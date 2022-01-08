@@ -166,7 +166,7 @@ Note - Adding keywords like `PhD CS computer science SOP statement of purpose sa
 
 - [Himanshu Ahuja](http://himahuja.com/) maintains an [excellent repository with links](https://github.com/himahuja/Research-Internships-for-Undergraduates) to undergraduate research programs in India and around the globe.
 
-- I mention a few more in Email 4 listed in the [FAQs](#faq) section.
+- I mention a few more in Email 1 and 4 listed in the [FAQs](#faq) section.
 
 #### Research jobs in India offered to undergrads
 I don't know a lot of product research groups where academic-style research happens, with publications at good venues as one of its goals. 
