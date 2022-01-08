@@ -1,112 +1,416 @@
 
 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
 <html> <head>
-        <title>How to Do Research With a Professor</title>
-        <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
-        <script type="text/javascript" src="jquery.ba-replacetext.min.js"></script>
-        <script type="text/javascript">
+<title>How to Do Research With a Professor</title>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
+<script type="text/javascript" src="jquery.ba-replacetext.min.js"></script>
+<script type="text/javascript">
 $(document).ready(function(){
-      // Smart double quotes.
-      $('*').replaceText(/"(?=\w|$)/g, "\u201C");
-        $('*').replaceText(/"/g, "\u201D");
-          // Find each word string like he/she and turn it into a span with masc and fem attributes.
-          $('*').replaceText(/\b(he|him|himself|his|male|female)\/(she|her|herself|hers|female|male)\b/gi,'<span class="genpron" masc="$1" fem="$2">$1</span>');
-            var feminize=function(){
-                    $('span.genpron').each(function(){ $(this).text($(this).attr("fem")) });
-                        $(this).unbind("click");
-                            $(this).click(masculinize);
-                              }
-              var masculinize=function(){
-                      $('span.genpron').each(function(){ $(this).text($(this).attr("masc")) });
-                          $(this).unbind("click");
-                              $(this).click(feminize);
-                                }
-                $("#sexchange").click(feminize);  // clicking the sexchange node flips the gender and the click handler
-                  $("#sexchange").css("cursor","pointer");  // cursor is a pointy hand when hovering over that node, to indicate clickable
-                    // so far page is masculine, but randomly decide whether to click upon initial page load
-                    if (Math.random() < 0.5) { $("#sexchange").click(); }
+  // Smart double quotes.
+  $('*').replaceText(/"(?=\w|$)/g, "\u201C");
+  $('*').replaceText(/"/g, "\u201D");
+  // Find each word string like he/she and turn it into a span with masc and fem attributes.
+  $('*').replaceText(/\b(he|him|himself|his|male|female)\/(she|her|herself|hers|female|male)\b/gi,'<span class="genpron" masc="$1" fem="$2">$1</span>');
+  var feminize=function(){
+    $('span.genpron').each(function(){ $(this).text($(this).attr("fem")) });
+    $(this).unbind("click");
+    $(this).click(masculinize);
+  }
+  var masculinize=function(){
+    $('span.genpron').each(function(){ $(this).text($(this).attr("masc")) });
+    $(this).unbind("click");
+    $(this).click(feminize);
+  }
+  $("#sexchange").click(feminize);  // clicking the sexchange node flips the gender and the click handler
+  $("#sexchange").css("cursor","pointer");  // cursor is a pointy hand when hovering over that node, to indicate clickable
+  // so far page is masculine, but randomly decide whether to click upon initial page load
+  if (Math.random() < 0.5) { $("#sexchange").click(); }
 });
-        </script>
-    </head>
+</script>
+</head>
 
-    <body text="#000000" bgcolor="#FFD9B7" link="#CC0000" vlink="#000055" alink="#FF3300">
+<body text="#000000" bgcolor="#FFD9B7" link="#CC0000" vlink="#000055" alink="#FF3300">
 
-        <h1>How to Do Research With a Professor</h1>
-        <h4>by Jason Eisner (2012)</h4>
+<h1>How to Do Research With a Professor</h1>
+<h4>by Jason Eisner (2012)</h4>
 
 
-        <h2>Summary</h2>
+<h2>Summary</h2>
 
-        <p>This is a bit of advice for lucky students who get to do research
-        with a professor.</p>
+<p>This is a bit of advice for lucky students who get to do research
+with a professor.</p>
 
-        <p>Take this opportunity seriously.  Either you make it your top
-        priority, or you don't do it at all.  That's the message.  Read the
-        rest of the page if you want to know why and how.</p>
+<p>Take this opportunity seriously.  Either you make it your top
+priority, or you don't do it at all.  That's the message.  Read the
+rest of the page if you want to know why and how.</p>
 
-        <h2>Why This Webpage?</h2>
+<h2>Why This Webpage?</h2>
 
-        <p>I'd find it awkward to say these things directly to a nice undergrad
-        or master's student I was starting to work with.  It would feel like talking down to them,
-        <!-- heavy-handed and entitled. -->
-        <!-- Since I hope and expect that things will work out, I don't want to suggest otherwise. -->
-        <!--Like most academics, I am interested in good ideas rather than the
-                rank of the people who have the ideas, and I enjoy being around young
-                    people and dislike pretentious bigwigs. -->
-                    <!-- I don't want to be some big busy self-important Herr Doktor
-                        Professor who acts superior and calls all the shots.  Rather, -->
-                        whereas I like my research collaborators&mdash;however junior&mdash;to
-                        talk with me comfortably as equals, have fun, and come up with half
-                        the ideas.</p>
+<p>I'd find it awkward to say these things directly to a nice undergrad
+or master's student I was starting to work with.  It would feel like talking down to them,
+<!-- heavy-handed and entitled. -->
+<!-- Since I hope and expect that things will work out, I don't want to suggest otherwise. -->
+<!--Like most academics, I am interested in good ideas rather than the
+    rank of the people who have the ideas, and I enjoy being around young
+    people and dislike pretentious bigwigs. -->
+<!-- I don't want to be some big busy self-important Herr Doktor
+Professor who acts superior and calls all the shots.  Rather, -->
+whereas I like my research collaborators&mdash;however junior&mdash;to
+talk with me comfortably as equals, have fun, and come up with half
+the ideas.</p>
 
-        <p>Still, it's important to understand up front what the pressures are
-          on faculty-student collaborations.  So here are some things to bear
-            in mind.</p>
+<p>Still, it's important to understand up front what the pressures are
+  on faculty-student collaborations.  So here are some things to bear
+  in mind.</p>
 
-        <h2>How the Professor Sees It</h2>
+<h2>How the Professor Sees It</h2>
 
-        <blockquote id="sexchange"><i>[If the professor is female/male, click <u>here</u>.]</i></blockquote>
+<blockquote id="sexchange"><i>[If the professor is female/male, click <u>here</u>.]</i></blockquote>
 
-        <p>Your research advisor doesn't get much credit for working with
-        junior students, and would find it easier and safer to work with
-        senior students.  It's just that someone gave <i>him/her</i> a chance
-        once: that's how he/she ended up where he/she is today.  He/She'd like
-        to pay that debt forward.</p>
+<p>Your research advisor doesn't get much credit for working with
+junior students, and would find it easier and safer to work with
+senior students.  It's just that someone gave <i>him/her</i> a chance
+once: that's how he/she ended up where he/she is today.  He/She'd like
+to pay that debt forward.</p>
 
-        <p>But should it be paid forward to <i>you</i>?  Choosing you
-          represents a substantial commitment on your advisor's part, and a
-            vote of confidence in you.</p>
+<p>But should it be paid forward to <i>you</i>?  Choosing you
+  represents a substantial commitment on your advisor's part, and a
+  vote of confidence in you.</p>
 
-        <h3>Time Investment</h3>
+<h3>Time Investment</h3>
 
-        <p>The hours that your advisor spends with you, one-on-one, are hours that
-        he/she no longer has available for</p>
-        <ul>
-            <li> retaining the semblance of a plausible life (sleeping / eating / parenting / avoiding divorce)
-                <li> consulting at rates of hundreds of dollars per hour
-                    <li> preparing for class
-                        <li> working on research with other students (grad or undergrad) or by himself/herself
-                            <li> staying current with the latest papers and techniques in the field
-                                <li> discharging many administrative and reviewing responsibilities
-        </ul>
+<p>The hours that your advisor spends with you, one-on-one, are hours that
+he/she no longer has available for</p>
+<ul>
+<li> retaining the semblance of a plausible life (sleeping / eating / parenting / avoiding divorce)
+<li> consulting at rates of hundreds of dollars per hour
+<li> preparing for class
+<li> working on research with other students (grad or undergrad) or by himself/herself
+<li> staying current with the latest papers and techniques in the field
+<li> discharging many administrative and reviewing responsibilities
+</ul>
 
-        <p>So he/she does expect that you'll pay him/her back, by working as hard as he/she
-        did when he/she got his/her chance.</p>
+<p>So he/she does expect that you'll pay him/her back, by working as hard as he/she
+did when he/she got his/her chance.</p>
 
-        <h3>Research Agenda Investment</h3>
+<h3>Research Agenda Investment</h3>
 
-        <p>Your advisor is not onis quite different from
-        what you'll learn in the classroom.</p>
+<p>Your advisor is not only devoting time to you, but taking a risk.  You
+are being entrusted with part of his/her research agenda.  The goal is to
+make new discoveries and publish them on schedule.  If you drop the
+ball, then your advisor and others in the lab will miss important
+publication deadlines, or will get scooped by researchers elsewhere,
+or will be unable to take the next step that was depending on you.</p>
 
-        <a name="succeed">
-            <h2>What You Can Do to Succeed</h2>
+<!-- If you take a month to do something that one
+     of the advisor's grad students could have handled in a few days, then
+     your advisor will regret giving the job to you. -->
 
-            <p>Here's some basic advice targeted at <i>new</i> reseaer personality, your personality, and
-                the realities of lisor
-                  already has a high opinion of you from good interactions in class
-                    and through office hours.  (You did go to office hours just to chat
-                      about ideas, right?)  Even if he/she doesn't have anything for
-                        you, he/she may be able to hook you up with a colleague.</p>
+<p>So, don't start doing research with the idea that it's something
+"extra" that may or may not work out.  This is not an advanced course
+that you can just drop or do poorly in.  Unless your advisor agrees
+otherwise, you are a critical player in the mission&mdash;you have a
+responsibility not to let others down.  Remember, someone is taking
+a chance on you.</p>
 
-            <p><i>How to ask.</i> Advice from Marie desJardins: "Ask the
-              professor about his/her research.  Profess
+<h3>Opportunity Cost</h3>
+
+<p>I heard once that your boyfriend or girlfriend will ask increasingly
+tough questions as your relationship ages:</p>
+<ol>
+<li>"Am I getting something out of it?"
+<li>"Am I getting back as much as I'm putting in?"
+<li>"Am I getting as much as I'm worth?"
+</ol>
+
+<p>Your advisor may also ask these questions.  At first, he/she'll be happy
+that he/she attracted a smart student to work on a problem that needed
+working on.  But he/she may sour if he/she comes to feel that he/she's wasting his/her
+time on you, or would have been wiser to assign the project to someone
+else.</p>
+
+<h2>What Do You Get Out Of It?</h2>
+
+<p>You too are giving up time from your other activities (including classwork!)
+to do this.  So what do you get out of it?</p>
+
+<p>Most important, you get research experience.  This is <b>exceptionally
+important</b> if you are considering doing a Ph.D.</p>
+
+<ul>
+
+<li><p>The Ph.D. puts you on a track to focus on research for the next
+5+ years and possibly for your whole life.  Are you sure you want to
+get married to research?  Maybe, but try dating research first before you
+commit.</p>
+
+<li><p>Ph.D. programs are <A HREF="prospective-students.html#criteria">looking
+for students</A> who are already proven researchers.  Grades are not
+so strongly correlated with research success.  The <b>most crucial</b>
+part of your application is letters from one or more credible faculty
+who can attest&mdash;with lots of supporting detail&mdash;that you
+have the creativity, intelligence, enthusiasm, productivity, technical
+background, and interpersonal and intrapersonal skills to do a great Ph.D.
+with your future advisor.</p>
+
+</ul>
+
+<p>A good friend of mine in college was taken under the wing of a
+senior professor in a different department.  She was a demanding
+taskmaster, and my friend ended up spending much more time working in
+her lab than he expected.  But it changed his life.  She insisted that
+he apply to grad school in her field, and
+she <A HREF="how-to-ask-for-a-recommendation.html">got him
+accepted</A> to a top Ph.D. program.  He became a professor and is now
+the chairman of a department at a highly respected school, where he
+enjoys doing research with his own undergraduates.</p>
+
+<p>Even if you are not considering a Ph.D., you will learn a great deal
+from working closely with a professor.  Often you may be working with
+the world's leading expert on a particular topic&mdash;<!--a sheaf of
+confidential letters saying so, from other leaders in the field, is
+essentially -->that's the main criterion for tenure here.  (So our tenured
+faculty have passed this bar at some point, and most of our untenured
+faculty are successfully building a case that they will do so.)</p>
+
+<p>Students don't always realize how respected and innovative our faculty
+are within their own subfields, but that's why you chose to attend a
+highly-ranked <i>research</i> university.  Your advisor may or may not
+be a great classroom teacher, but he/she has shown himself/herself to be extremely
+good at working with graduate students to produce papers that advance
+the field.  What you'll learn from doing that is quite different from
+what you'll learn in the classroom.</p>
+
+<a name="succeed">
+<h2>What You Can Do to Succeed</h2>
+
+<p>Here's some basic advice targeted at <i>new</i> research students.
+There are also many webpages about how to be a "good grad student,"
+which should also be useful to undergrads doing research.</p>
+
+<a name="time">
+<h3>Time Commitment</h3>
+
+<ul>
+<li><p><i>Make plenty of room.</i> In order to make research your
+    first priority, you may need to reduce your courseload or
+    extracurriculars.  This is worth discussing with both your
+    academic advisor and your research advisor.</p>
+
+<li><p><i>Find out what the deadlines are.</i>  For example, there may
+    be a target for submitting a paper to a particular conference.
+    When planning for deadlines, bear in mind that everything will
+    take twice as long as you expect&mdash;or four times as long if
+    you've never done it before.  Often a paper takes roughly a year
+    of work for a grad student (if it includes experiments), although
+    they may be working on other things during that year as well.</p>
+
+<li><p><i>Be honest.</i>  If you suspect that you may not have time to
+    do justice to the project after all, don't string your advisor
+    along.  Take a deep breath, apologize, and explain the situation.
+    Then your advisor can make an informed decision about whether to
+    suspend the project, give it to someone else, get a grad student
+    involved, etc.  This is better than a slow burn of agitation on
+    both sides.</p>
+</ul>
+
+<a name="timemanagement">
+<h3>Time Management</h3>
+
+<ul>
+<li><p><i>Prepare for meetings.</i>  Establish a fixed time for weekly
+    meetings with your advisor (and perhaps with senior students).
+    Bring results, questions, and an agenda to your weekly meeting.
+
+<li><p><i>Make weekly progress.</i>  Set goalposts, and be sure you
+    make real progress from week to week.  Use your meeting time or email
+    each week to make sure that you agree on what the goal for next
+    week is.</p>
+
+<li><p><i>Take the initiative.</i>  Be somewhat
+    self-directed&mdash;find readings, play around with code, do
+    mini-experiments.  But do keep your advisor posted by email.
+</ul>
+
+<a name="writing">
+<h3>Writing</h3>
+
+Writing is a form of thinking, a form of memory, and a form of
+communication.  You should keep well-organized notes of several kinds.
+It is often useful to date your entries in such files and to keep them
+under version control.
+
+<ul>
+<li><p><i>"<a href="write-the-paper-first.html">Write the paper
+    first.</a>"</i>  The evolving paper is a way of organizing and
+    sharing your thoughts and hammering out details.  New ideas
+    (including future plans) can go into that document, or
+    appendices to it.</p>
+
+<li><p><i>Experimental logbook.</i>  This is a file recording the
+    questions you asked, the experiments you ran to answer them
+    (including the command-line details needed to reproduce them
+    perfectly), the results, and your analysis of the results.</p>
+
+<li><p><i>Notes on your reading,</i> including reading you plan to do.
+    This should be organized by paper and/or by topic, aimed at
+    helping you quickly recover the important points.</p>
+
+<li><p><i>Planning.</i>  Keep some kind of to-do list and time
+    planning system that helps you set and discharge goals and track
+    your effectiveness (see the
+    <a href="http://lifehacker.com">LifeHacker</a> website for some
+    options).
+</ul>
+
+<a name="collab">
+<h3>Working With Others</h3>
+
+<ul>
+
+<li><p><i>Again, be honest.</i>  Be very clear at all times about what
+    you do and don't understand.  Don't fake it.  It's okay to say
+    you're confused or don't know something; you need to ask questions
+    to get unconfused.  Also be clear about what you have and haven't
+    done.</p>
+
+<li><p><i>Pick a topic of mutual interest that you can handle.</i>
+    This is a matter for careful discussion at the start of the
+    relationship.</p>
+
+<li><p><i>Be explicit about what you need from your advisor.</i>  You
+    can take some initiative in shaping the kind of advising
+    relationship that will work best for you.  Every advisor has a
+    typical advising style, which is some compromise between his/her
+    advising philosophy, his/her personality, your personality, and
+    the realities of limited time.  But if you need a different kind
+    of guidance or a different way of organizing your relationship,
+    ask for it.  Most advisors will appreciate the initiative and can
+    adapt to some extent.</p>
+
+<li><p><i>Know how to ask for help.</i>  If you feel you would benefit
+    from closer guidance, say: "Please tell me exactly what you want
+    me to do by next Wednesday and I will have it done."  If you get
+    stuck technically, ask your advisor to help you get unstuck!
+    He/She can write out a more detailed plan for you, give you things
+    to read, ask a senior grad student to work with you, point you to
+    software libraries, etc.  Asking the right person can be 100 times
+    faster than doing it yourself.</p>
+
+  <p>Your value to the project lies in how much you get done&mdash;it
+    doesn't matter whether you invented it all yourself.  This is not
+    homework and getting help is not cheating.  Anything that is
+    already known in the field is fair game to reuse (with citations).
+    And people can also help you invent the new stuff, as long as you
+    acknowledge their help appropriately (possibly with
+    co-authorship).  Getting them to help you is part of the research.</p>
+
+<li><p><i>Get right as much as you can.</i>  Before you hand off a
+    piece of code or writing to someone else -- including another
+    student, your advisor, or a reviewer -- you ought to catch all the
+    problems you can catch by yourself.  For a problem that you intend
+    to fix later, include a note to this effect.  This allows the
+    other person to focus their limited time on spotting the problems
+    that were beyond your own horizon.</p>
+
+<li><p><i>Be a team player.</i>  If there are other people on the
+    project, find out what they're working on.  Ask plenty of
+    questions.  Get a broader sense of the project beyond your own
+    little corner.  Help out where you can.</p>
+
+<li><p><i>Share what you do.</i> Back up your work, comment your code,
+    log your experiments, and be ready to hand off your code and notes
+    at any time.  The project may live on after you.  It's not
+    necessary to keep private files.  The best plan is to keep
+    everything valuable in a shared version control repository that
+    you, your advisor, and any other collaborators can browse and edit
+    at any time.  (A <tt>README</tt> file in the repository can
+    describe the layout and list any additional resources, e.g., the
+    URLs of a wiki, a Google Doc, etc.)  An issue tracker is also
+    useful.  Discuss with your advisor how to set up this kind of
+    project infrastructure, e.g., on github.</p>
+
+<li><p><i>Avoid diffusion.</i>  As a matter of etiquette, try not to
+    spread your work over many different local directories,
+    repositories, email threads, chat logs, Google documents, etc.
+    For example, when sending email, try to continue on an existing
+    thread where appropriate, rather than starting a new one.  Your
+    advisor is juggling more email and projects than you, so will find
+    it helpful to keep related things together.</p>
+
+<li><p><i>Keep track of what you've done.</i>  You may want to keep
+    some notes on your contributions.  You can give these to your
+    advisor when it is time for a <A HREF="how-to-ask-for-a-recommendation.html">letter of recommendation</A>.
+
+</ul>
+
+<a name="looking">
+<h2>But I Don't Have a Project Yet!</h2>
+
+<p>Now that you've read this page, you understand more about how to
+  ask a professor about research opportunities.</p>
+
+<p><i>When to ask (not too early).</i> Usually you'll need to have
+  taken at least a 300- or 400-level course in the appropriate
+  research area.  If you don't know basic concepts and terms, then it
+  is hard to even discuss the research problem.  Don't expect the
+  professor to teach you the basics in his/her office: that's what the
+  course is for.</p>
+
+<p><i>Who to ask.</i> If you are doing extremely well in an upper-level
+  course, then talk to the professor about whether he/she knows of any
+  research opportunities in that area.  It helps if the professor
+  already has a high opinion of you from good interactions in class
+  and through office hours.  (You did go to office hours just to chat
+  about ideas, right?)  Even if he/she doesn't have anything for
+  you, he/she may be able to hook you up with a colleague.</p>
+
+<p><i>How to ask.</i> Advice from Marie desJardins: "Ask the
+  professor about his/her research.  Professors <i>love</i> to talk
+  about their research.  But don't just sit there and nod.  Listen
+  carefully to what he/she's saying, think about it, and respond."
+  He/She is trying to get a conversation going to assess where
+  you can contribute meaningfully.</p>
+
+  <p>To help the professor decide where to start the conversation, be
+  sure to show him/her your resume and your transcript.  Also describe
+  the kinds of problems you excel at.  Special skills or a remarkable
+  track record may give you a foot in the door.  For example, although
+  my main research area is NLP, occasionally I do have problems that
+  don't require much NLP knowledge.  Rather, I'm looking for someone
+  who can develop a particular theorem or algorithm, or build a solid
+  piece of system software, or design a beautiful user interface.  So
+  in this case, I might consider working with a great student who
+  hasn't taken my NLP course.</p>
+</p>
+
+<p><i>How to ask early.</i> If you're not ready to start research yet,
+  it's certainly still okay to ask a professor (or a senior grad
+  student) how you could <i>prepare</i> to do research in his/her
+  area.  This might involve taking courses or MOOCs, reading a
+  textbook or papers, or building certain mathematical or programming
+  skills.</p>
+
+<p><i>When to ask (not too late).</i> Timing is important.  Research
+  may not fit neatly into a semester.  So approach the professor at
+  least a year before you graduate.  This gives you a couple of
+  semesters plus summer and intersession.  Hopefully, that's enough
+  time for the professor to find an appropriate role for you and for
+  you to get up to speed, define the problem and approach, do some
+  initial work, refine the ideas, do some more work, fail, think hard,
+  try again, succeed, write and submit a conference paper, revise the
+  paper after acceptance, and present the paper at the conference.
+  It's very common for a research project to take over a year even for
+  a grad student who is doing research full-time!</p>
+
+<p>I'll give the final word to Jorge Chan of <A HREF="http://www.phdcomics.com/">PhD Comics</A>:<br>
+  <center><a href="http://www.phdcomics.com/comics/archive.php?comicid=1093"><img src="http://www.phdcomics.com/comics/archive/phd110508s.gif"></a></center></p>
+
+<hr>
+This page online: <CODE>http://cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html</CODE>
+<TABLE width="100%" border=0><TR>
+  <TD><A HREF="http://www.cs.jhu.edu/~jason"><EM>Jason Eisner</EM></A> - <A HREF="mailto:jason@cs.jhu.edu"><EM>jason@cs.jhu.edu</EM></A> (suggestions welcome)</TD>
+  <TD ALIGN=right>Last Mod $Date: 2018/05/24 15:37:13 $</TD>
+</TR></TABLE>
+</body>
+</html>
