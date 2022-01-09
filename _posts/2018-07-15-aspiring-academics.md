@@ -144,12 +144,14 @@ See point 2 in the summary above.
 ### <a name="resources"></a>Resources
 I intend to keep the lists below updated. Feel free to write me an email in case you come across any more such relevant resources.
 
-#### Advice on applying to competitive Ph.D. programs in CS
+#### Advice on applying to competitive Ph.D. programs
 - [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
 
-**I strongly recommend you go through this talk by Shriram if you aspire to apply to CS programs in the US.**
+**I strongly recommend you go through this talk by Shriram if you aspire to apply to Ph.D. programs in the US.** 
+While he talks about computer science specifically, a lot of what he talks about should hold for other disciplines, and will help you understand what faculty look for when reviewing applications.
 
 - Led by [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io/), various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
+Again, while this maybe machine learning/computer science specific, it gives a sense of the general set of signals faculty look for.
  [[Youtube video]](https://www.youtube.com/watch?v=z6TkkdlRWcU)
 
 - [Prof. Fadel Adib](http://www.mit.edu/~fadel/) has a tweet thread on applying to Ph.D. programs. [[Twitter thread]](https://twitter.com/fadeladib/status/1353020072885940224)
