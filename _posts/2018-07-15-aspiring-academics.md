@@ -26,9 +26,9 @@ I cover the following topics.
 - [What research is not](#researchisnot)
 - [Doing research](#doingresearch) - what your research advisor expects from you
 - [If you're an undergrad at a school with a strong research program](#undergrad)
-- [Aspiring researchers from India](#india) - Also has [some pointers](#not-tier-1-india) for those not from the top schools in India but who want to do research.
+- [Aspiring researchers from India](#india) - Also has [some pointers](#not-tier-1-india) for those not from the top schools in India but who want to do research
 - [Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
-- [FAQs](#faq) - My responses to email queries sent out by young researchers; 
+- [FAQs](#faq) - My responses to email queries sent out by young researchers
 - [My background](#background)
 - [Acknowledgement](#ack)
 
@@ -224,4 +224,5 @@ Over these years, I've worked on and developed an expertise in problems in machi
 ### <a name="ack"></a>Acknowledgement 
 Thanks to the following folks for their feedback on this page.
 
-[Srishti Yadav](https://srishti.dev/).
+[Srishti Yadav](https://srishti.dev/)
+[Prof. Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/)
