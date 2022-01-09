@@ -86,7 +86,9 @@ If you are an undergrad/aspiring young researcher from India reading this - it's
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
 
-<a name="not-tier-1-india"></a>And importantly - if you are not from a "tier-1" school, where research opportunities do not exist for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
+<a name="not-tier-1-india"></a> ### If your undergrad college does not have a strong research environment
+
+And importantly - if you are not from a "tier-1" school, where research opportunities do not exist for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
 
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
