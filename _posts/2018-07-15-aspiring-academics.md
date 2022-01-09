@@ -195,6 +195,18 @@ If you come across any more, please do write to me.
 [This excellent blog](https://achuwilson.github.io/post/2017-06-15-icra17/) by [Achu Wilson](https://achuwilson.github.io/) documents what it took him to publish his first research paper in one of the best conferences out there for robotics. 
 Achu did not have typical RA-like opportunities during his undergrad.
 
+Jason Eisner has this [excellent page on writing your first paper](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html).
+
+**Note -** a publication need not be necessary to be successfully admitted to an MS/Ph.D. program. 
+Instead, writing will teach you to make cogent arguments, and go through the process of scientific peer review. 
+If you do end up in a career in research, you would end up writing and communicating your work.
+Writing a paper during undergrad is a great way to test whether you enjoy this process.
+
+See my talk/slides above on where to publish--most academic conferences and journals out there are outright fraudulent. 
+If you're not sure, aim for a workshop at the top conference in your field, or a student-friendly journal/conference to begin with.
+These generally encourage student submissions, and have high quality
+peer-review processes.
+
 #### <a name="faq"></a>FAQs
 My responses to some queries I have received over email and other social media over the years. 
 My responses echo most of the content mentioned on this webpage.
