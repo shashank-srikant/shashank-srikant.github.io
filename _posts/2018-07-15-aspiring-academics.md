@@ -222,6 +222,6 @@ I am where I am because of a bunch of such people who showed me the way. And I w
 Over these years, I've worked on and developed an expertise in problems in machine learning, data science, program analysis, natural language processing, and systems building.
 
 ### <a name="ack"></a>Acknowledgement 
-Thanks to the following folks for their feedback on this page.
+Thanks to the following for their feedback on this page.
 
 [Srishti Yadav](https://srishti.dev/) , [Prof. Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/)
