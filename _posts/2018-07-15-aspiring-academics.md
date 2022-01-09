@@ -224,5 +224,4 @@ Over these years, I've worked on and developed an expertise in problems in machi
 ### <a name="ack"></a>Acknowledgement 
 Thanks to the following folks for their feedback on this page.
 
-[Srishti Yadav](https://srishti.dev/)
-[Prof. Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/)
+[Srishti Yadav](https://srishti.dev/) , [Prof. Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/)
