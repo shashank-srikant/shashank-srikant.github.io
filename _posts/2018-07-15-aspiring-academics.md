@@ -93,7 +93,7 @@ And importantly - if you are not from a "tier-1" school, where research opportun
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
 
-*\** I believe the information that follows applies to most countries with an education system similar to India - very few top univerisities where world-class research happens, and a long tail of engineering colleges which focus on teaching and not research.
+**\*** I believe the information that follows applies to most countries with an education system similar to India - very few top univerisities where world-class research happens, and a long tail of engineering colleges which focus on teaching and not research.
 
 **The summary of it is --** earnestly understand your undergrad course material. During undergrad, or right after, work as an RA in a relevant lab in India to gain concrete skills and experience in research -- this could be through a summer research program (see the [Resources](#resources) section for links), or by you reaching out to labs you think are interesting. 
 Doing this will require you to first learn concrete skills and technologies. 
