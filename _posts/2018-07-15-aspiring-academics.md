@@ -81,7 +81,7 @@ Here's an informative article on how to accommodate research in your otherwise b
 The Jason Eisner article in the section above provides great information on what to keep in mind while you start off your research project.
 
 
-### <a name="india"></a>Aspiring researchers from India
+### <a name="india"></a>Aspiring researchers from India-like countries\*
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
@@ -92,6 +92,8 @@ And importantly - if you are not from a "tier-1" school, where research opportun
 
 The catch is - it's a lot of work. 
 Lot more than it usually takes to do research. 
+
+\*I believe the information that follows applies to most countries with an education similar to India - very few top univerisities where world-class research happens, and a long tail of engineering colleges which focus on teaching and not research.
 
 **The summary of it is --** earnestly understand your undergrad course material. During undergrad, or right after, work as an RA in a relevant lab in India to gain concrete skills and experience in research -- this could be through a summer research program (see the [Resources](#resources) section for links), or by you reaching out to labs you think are interesting. 
 Doing this will require you to first learn concrete skills and technologies. 
@@ -187,14 +189,7 @@ You should definitely reach out to the founders directly (these are typically sm
 Also note - these are mostly jobs in computer science, since that's the field I'm most familiar with.
 If you come across any more, please do write to me.
 
-- [Sharechat](https://sharechat.com/careers)
-- [Aspiring Minds Research](http://research.aspiringminds.com/)
-- [Sensara.tv](https://www.sensara.tv/careers.html)
-- [Gram Vaani](https://gramvaani.org/join-us/)
-- [Qure.ai](https://www.qure.ai/evidences/)
-- [Nirmai](https://www.niramai.com/about/thermalytix/)
-- [Strand life sciences](https://strandls.com/)
-- [Ati motors](https://www.atimotors.com/careers/)
+[Sharechat](https://sharechat.com/careers) , [Aspiring Minds Research](http://research.aspiringminds.com/) , [Sensara.tv](https://www.sensara.tv/careers.html) , [Gram Vaani](https://gramvaani.org/join-us/) , [Qure.ai](https://www.qure.ai/evidences/) , [Nirmai](https://www.niramai.com/about/thermalytix/) , [Strand life sciences](https://strandls.com/) , [Ati motors](https://www.atimotors.com/careers/)
 
 #### <a name="paper"></a>Publishing your first paper
 [This excellent blog](https://achuwilson.github.io/post/2017-06-15-icra17/) by [Achu Wilson](https://achuwilson.github.io/) documents what it took him to publish his first research paper in one of the best conferences out there for robotics. 
