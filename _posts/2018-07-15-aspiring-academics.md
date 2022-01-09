@@ -101,7 +101,7 @@ If you ended up having an excellent RA experience at an academic lab, or at pre-
 
 But if you are still not sure, liked your RA experience, and want to explore this further, then consider one of --
 1. doing an M.Tech/M.S. at any of (and only) the top universities in India by writing and excelling at [GATE](https://en.wikipedia.org/wiki/Graduate_Aptitude_Test_in_Engineering). A few IITs provide the option of doing an MS-by-research without needing a GATE score. This education will be essentially free of cost, while offering world class graduate level coursework+research opportunities.
-2. doing an MS programsoutside India which has a strong thesis component + will fund you fully. Most universities in Canada provide an MASc, which is different from a professional masters degree, and is fully funded (tuition + stipend), or
+2. doing an MS program outside India which has a strong thesis component + will fund you fully. Most universities in Canada provide an MASc, which is different from a professional masters degree, and is fully funded (tuition + stipend), or
 3. working at a cutting edge corporate research lab. Finding such labs are hard, since they generally require advanced degrees to get in in the first place (see the [Resources](#resources) section for a few that I know of which hire undergrads).
 
 Hence, your best bet is to do a solid masters degree where you will be exposed to advanced coursework, and state of the art research.
