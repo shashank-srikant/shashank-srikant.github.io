@@ -199,7 +199,7 @@ Jason Eisner has this [excellent page on writing your first paper](https://www.c
 
 **Note -** a publication need not be necessary to be successfully admitted to an MS/Ph.D. program. 
 Instead, writing will teach you to make cogent arguments, and go through the process of scientific peer review. 
-If you do end up in a career in research, you would end up writing and communicating your work.
+If you do end up in a career in research, you would end up regularly writing and communicating your work.
 Writing a paper during undergrad is a great way to test whether you enjoy this process.
 
 See my talk/slides above on where to publish--most academic conferences and journals out there are outright fraudulent. 
