@@ -7,16 +7,7 @@ tags: aspiring-academics
 
 ---
 
-If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
-If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
-
-From experience, if you're interested in your coursework, and have a curious mind, and if you end up *disliking* research - then it is most likely the case of poor mentorship. 
-Your mentor did not show you the ropes well, and did not give you the time you deserved.
-Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
-
-(Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
-
-In general, this webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
+This webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
 Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job where they may not necessarily get to do the science they once dreamt of doing.
 There's nothing wrong really in exploring other verticals after your undergrad -- in fact, it's a _very_ positive sign that you want to explore something that you really enjoy.
 But from my experience, I see a vast majority whose hearts are still in science, but who may just not figure out the concrete steps needed to experience high quality science and research.
@@ -29,6 +20,7 @@ Rather, it is _infinitely_ more important in my opinion to develop a concrete se
 Once you get to this stage, you will find youself organically having all the ingridents necessary for a successful grad school application.**
 
 I cover the following topics.
+- [Is research for me?](#researchforme)
 - [What research is not](#researchisnot)
 - [Doing research](#doingresearch) - what your research advisor expects from you
 - [If you're an undergrad at a school with a strong research program](#undergrad)
@@ -37,6 +29,17 @@ I cover the following topics.
 - [FAQs](#faq) - My responses to email queries sent out by young researchers
 - [My background](#background)
 - [Acknowledgement](#ack)
+
+
+### <a name="researchforme"></a> Is research for me?
+If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
+If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
+
+From experience, if you're interested in your coursework, and have a curious mind, and if you end up *disliking* research - then it is most likely the case of poor mentorship. 
+Your mentor did not show you the ropes well, and did not give you the time you deserved.
+Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
+
+(Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
 
 ### <a name="researchisnot"></a>What research is not
