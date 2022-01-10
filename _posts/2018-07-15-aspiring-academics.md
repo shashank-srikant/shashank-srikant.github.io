@@ -120,7 +120,7 @@ Hence, your best bet is to do a solid masters degree where you will be exposed t
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world who might support you to solve that problem. 
 You should then consider applying to them/their university and doing your Ph.D. with them.
 Don't worry too much about the "name" and "prestige value" of the school you apply to - people matter more. 
-You are _infinitely_ better off doing your Ph.D. with a professor whose research interest matches yours but is at an "okay" university, than doing it with a professor with unrelated interests but who's at an "elite" university.
+You are _significantly_ better off doing your Ph.D. with a professor whose research interest matches yours but is at an "okay" university, than doing it with a professor with unrelated interests but who's at an "elite" university.
 
 **Details.** 
 This talk provides more details.
