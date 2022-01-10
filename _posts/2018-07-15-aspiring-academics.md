@@ -14,7 +14,7 @@ But from my experience, I see a vast majority whose hearts are still in science,
 This webpage will likely be of use to them.
 
 **NOTE - The spirit of this document is not really to serve as a collection of resources that will help you figure out how to crack the admissions process of universities in the US for MS/PhD programs. 
-Rather, please use it as means to discover what you are truly interested in.
+Rather, please use it as a way to discover what you are truly interested in.
 You don't have to follow a template of doing X research projects, having Y publications, and collecting Z letters from the best profs out there for you to have a great grad school application.
 Rather, it is _infinitely_ more important in my opinion to develop a concrete sense for what it takes to do research.
 In that process, you'll hopefully find a domain which excites you, and which you would want to explore further in a grad school or a research-oriented job. 
