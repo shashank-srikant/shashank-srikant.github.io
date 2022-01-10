@@ -18,7 +18,7 @@ Rather, please use it as means to discover what you are truly interested in.
 You don't have to follow a template of doing X research projects, having Y publications, and collecting Z letters from the best profs out there for you to have a great grad school application.
 Rather, it is _infinitely_ more important in my opinion to develop a concrete sense for what it takes to do research.
 In that process, you'll hopefully find a domain which excites you, and which you would want to explore further in a grad school or a research-oriented job. 
-Once you get to this stage of self-awareness, you will find youself organically having all the ingridients necessary for a successful grad school application.**
+Once you get to this stage of self-awareness, you will find youself organically having all the ingredients necessary for a successful grad school application.**
 
 I cover the following topics.
 - [Is research for me?](#researchforme)
