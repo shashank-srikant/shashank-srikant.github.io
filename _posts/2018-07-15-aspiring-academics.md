@@ -22,6 +22,11 @@ There's nothing wrong really in exploring other verticals after your undergrad -
 But from my experience, I see a vast majority whose hearts are still in science, but who may just not figure out the concrete steps needed to experience high quality science and research.
 This webpage will likely be of use to them.
 
+**NOTE - The spirit of this document is not really to serve as a collection of resources for you to figure out how to crack the admissions process of universities in the US for MS/PhD programs. 
+Rather, please use it as means to discover what you are truly interested in.
+You don't have to follow a template of doing X research projects, have Y publications, and Z letters from the best profs out there for you to successfully make it through the grad school application process.
+Rather, it is _infinitely_ more important in my opinion to develop a concrete sense for what it takes to do research, hopefully finding a domain you're excited by in that process, which you would want to explore further through grad school.**
+
 I cover the following topics.
 - [What research is not](#researchisnot)
 - [Doing research](#doingresearch) - what your research advisor expects from you
@@ -201,6 +206,7 @@ Jason Eisner has this [excellent page on writing your first paper](https://www.c
 Instead, writing will teach you to make cogent arguments, and go through the process of scientific peer review. 
 If you do end up in a career in research, you would end up regularly writing and communicating your work.
 Writing a paper during undergrad is a great way to test whether you enjoy this process.
+Additionally, papers are not the only way for you to learn and test this skill--you could perhaps write out a blog, a tech report, etc. which will serve the purpose equally well.
 
 See my talk/slides above on where to publish--most academic conferences and journals out there are outright fraudulent. 
 If you're not sure, aim for a workshop at the top conference in your field, or a student-friendly journal/conference to begin with.
