@@ -162,7 +162,8 @@ I intend to keep the lists below updated. Feel free to write me an email in case
 - [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
 
 **I strongly recommend you go through this talk by Shriram if you aspire to apply to Ph.D. programs in the US.** 
-While he talks about computer science specifically, a lot of what he talks about should hold for other disciplines, and will help you understand what faculty look for when reviewing applications.
+While he talks about computer science specifically, a lot of what he talks about should hold for other disciplines, and will help you understand what faculty look for when reviewing applications. 
+Importantly, it will help you appreciate the intellectual maturity that is expected of you as a Ph.D. candidate.
 
 - Led by [Prof. Himabindu Lakkaraju](https://himalakkaraju.github.io/), various faculty got together and spoke about the admissions process for machine learning related Ph.D. programs.
 Again, while this maybe machine learning/computer science specific, it gives a sense of the general set of signals faculty look for.
