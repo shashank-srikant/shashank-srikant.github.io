@@ -8,8 +8,8 @@ tags: aspiring-academics
 ---
 
 This webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
-Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job where they may not necessarily get to do the science they once dreamt of doing.
-There's nothing wrong really in exploring other verticals after your undergrad -- in fact, it's a _very_ positive sign that you want to explore something that you really enjoy.
+Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job/career path where they may not necessarily get to do the science they once dreamt of doing.
+There's nothing wrong really in exploring other career paths after your undergrad -- in fact, it's a _very_ positive sign that you want to explore something that you really enjoy.
 But from my experience, I see a vast majority whose hearts are still in science, but who may just not figure out the concrete steps needed to experience high quality science and research.
 This webpage will likely be of use to them.
 
