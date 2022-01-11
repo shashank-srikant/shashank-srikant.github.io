@@ -1,7 +1,7 @@
 ---
 layout: distill
 title: Aspiring academics
-description: This is a note to students who aspire to get a flavor for research and academia. If you're an undergraduate/recent undergrad who wants to understand the nuts and bolts of doing research, resources on this page should help you get a sense for it. 
+description: If you're an undergraduate/recent undergrad who wants to understand what doing research is all about, resources on this page should help you get a sense for it. 
 date: 2018-07-15
 tags: aspiring-academics
 
