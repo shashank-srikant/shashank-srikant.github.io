@@ -207,7 +207,7 @@ Achu did not have typical RA-like opportunities during his undergrad.
 
 Jason Eisner has this [excellent page on writing your first paper](https://www.cs.jhu.edu/~jason/advice/write-the-paper-first.html).
 
-**Note -** a publication need not be necessary to be successfully admitted to an MS/Ph.D. program. 
+**Note -** a publication need not be necessary to be successfully admitted to an MS/Ph.D. program/a research job. 
 Instead, writing will teach you to make cogent arguments, and go through the process of scientific peer review. 
 If you do end up in a career in research, you would end up regularly writing and communicating your work.
 Writing a paper during undergrad is a great way to test whether you enjoy this process.
@@ -217,6 +217,7 @@ See my talk/slides above on where to publish--most academic conferences and jour
 If you're not sure, aim for a workshop at the top conference in your field, or a student-friendly journal/conference to begin with.
 These generally encourage student submissions, and have high quality
 peer-review processes.
+If not, a thoughtful blog post or tech-report should work equally well.
 
 #### <a name="faq"></a>FAQs
 My responses to some queries I have received over email and other social media over the years. 
