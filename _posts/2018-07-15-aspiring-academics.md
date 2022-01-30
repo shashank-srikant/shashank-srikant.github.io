@@ -9,8 +9,7 @@ tags: aspiring-academics
 
 This webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
 Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job/other career paths where they may not necessarily get to do the science they once dreamt of doing.
-There's nothing wrong really in exploring other career paths after your undergrad -- in fact, it's a _very_ positive sign that you want to explore something that you really enjoy.
-But from what I've seen, many who do lose this steam would have perhaps thoroughly enjoyed a career in research.
+There's nothing wrong really in exploring these other career paths after your undergrad, but from what I've seen, many who do lose steam and choose these career paths would have perhaps thoroughly enjoyed a career in research.
 It's just that they could not figure out the concrete steps needed to experience high quality science and research early on to get them sufficiently hooked to it.
 
 **NOTE - The spirit of this document is not really to serve as a collection of resources that will help you figure out how to crack the admissions process of universities in the US/Europe for MS/PhD programs. 
@@ -40,7 +39,9 @@ From experience, if you're interested in your coursework, and have a curious min
 Your mentor did not show you the ropes well, and did not give you the time you deserved.
 Please do not be discouraged by it. Give it a shot anyway! It can be a lot of fun.
 
-(Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
+(Note - there's a reverse ask here as well. If they do give you that time, what can you do to ensure they feel their time is well spent on you. 
+Doing research is definitely more commitment than doing courses.
+Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
 
 ### <a name="researchisnot"></a>What research is not
@@ -52,8 +53,9 @@ People do work in jobs for five years, where they get to work on a range of proj
 Training yourself in research is no different.
 But sure - if you have filial, financial circumstances which you cannot avoid, then this may be a sub-optimal life decision.
 - _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
-- _High paying jobs_ -- Sure - most jobs do pay higher for people with advanced degrees, but if you're in it solely for this, then something's not right.
-- _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  And here's something better -- the shelf-life for tangible skills you've acquired (like, say, Pytorch, or some other specific set of tools) will be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
+- _High paying jobs_ -- Advanced degrees need not necessarily pay you significantly than good jobs for undergrads. 
+If you're into research solely for a high-paying job, then something's not right.
+- _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  Sure, you'll know a lot about a small field. However, the shelf-life for tangible technical skills you've acquired such as expertise in a library in Python, some specific set of tools, knowing what the state-of-the-art in your domain is, etc. will likely be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
 - _Is irrelevant to reality_ -- There may be a grain of truth to this, and many successful entrepreneurs also feel this way [[tweet1]](https://twitter.com/svembu/status/1229193888239210496), I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet.
 In the worst case, you will use this as an opportunity to learn more about yourself. 
 In the best, you push forward the state of science for all of us.
