@@ -248,4 +248,4 @@ Over these years, I've worked on and developed an expertise in problems in machi
 ### <a name="ack"></a>Acknowledgement 
 Thanks to the following for their feedback on this page.
 
-[Srishti Yadav](https://srishti.dev/) , [Prof. Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/) , [Prof. Neeldhara Misra](https://neeldhara.com/), [Anna Ivanova](https://neuranna.mit.edu/), [Vivek Seshadri](http://www.cs.cmu.edu/~vseshadr/), [Greta Tuckute](http://www.tuckute.com/), [Prof. Kaveri Iychettira](https://spp.iitd.ac.in/faculty-profile/9)
+[Srishti Yadav](https://srishti.dev/) , [Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/) , [Neeldhara Misra](https://neeldhara.com/), [Anna Ivanova](https://neuranna.mit.edu/), [Vivek Seshadri](http://www.cs.cmu.edu/~vseshadr/), [Greta Tuckute](http://www.tuckute.com/), [Kaveri Iychettira](https://spp.iitd.ac.in/faculty-profile/9)
