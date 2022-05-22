@@ -4,6 +4,7 @@
   {% assign rawtags = rawtags | append:ttags %}
 {% endfor %}
 {% assign rawtags = rawtags | split:'|' | sort %}
+{% assign site.rawtags = rawtags}
 
 {% assign site.tags = "" %}
 {% for tag in rawtags %}

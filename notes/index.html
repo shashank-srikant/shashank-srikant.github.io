@@ -15,14 +15,8 @@ pagination:
 <div class="post">
 
   Search by tags:
-  <ul>
-    <li>
-      {% for tag in site.tags %}
-        <a href="{{site.url}}/{{tag}}">{{ tag }}</a> &emsp;
-      {% endfor %}
-    </li>
-  </ul>
-
+  {% include collecttags.html %}
+  
   <ul class="post-list">
     {% for post in paginator.posts %}
       <li>
