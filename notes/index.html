@@ -16,7 +16,7 @@ pagination:
 
   Search by tags:
   {% include collecttags.html %}
-  % for tag in site.rawtags %}
+  {% for tag in site.rawtags %}
         <a href="{{site.url}}/{{tag}}">{{ tag }}</a> &emsp;
   {% endfor %}
   
