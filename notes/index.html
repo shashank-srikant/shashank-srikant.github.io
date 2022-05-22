@@ -4,7 +4,7 @@ pagination:
   enabled: true
   collection: posts
   permalink: /page/:num/
-  per_page: 7
+  per_page: 50
   sort_field: date
   sort_reverse: true
   trail:
@@ -13,6 +13,13 @@ pagination:
 ---
 
 <div class="post">
+
+  Search by tags:
+  <ul>
+  {% for tags in page.tags %}
+    <li>{{ tags }}</li>
+  {% endfor %}
+  </ul>
 
   <ul class="post-list">
     {% for post in paginator.posts %}
