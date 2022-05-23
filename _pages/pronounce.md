@@ -4,7 +4,7 @@ title: pronounce
 permalink: /pronounce
 ---
 
-[IPA](https://en.wikipedia.org/wiki/Help:IPA/English): **|ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ|**
+**[IPA](https://en.wikipedia.org/wiki/Help:IPA/English):** |ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ|
 
 
 **My first name sounds like :** shuh-shank
