@@ -4,7 +4,7 @@ title: pronounce
 permalink: /pronounce
 ---
 
-**[International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help\:IPA/English):** <span style="font-size:1.2em;">|ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ|</span>
+**[International Phonetic Alphabet](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart_for_English_dialects):** <span style="font-size:1.2em;">|ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ|</span>
 
 **My first name sounds like :** <span style="font-size:1.2em;">shuh-shank</span>\
 It's a common Indian male name.
