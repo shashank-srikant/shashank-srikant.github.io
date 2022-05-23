@@ -1,7 +1,6 @@
 ---
 layout: default
 title: pronounce
-permalink: /
 ---
 <p>
 <a target="_blank" href="https://en.wikipedia.org/wiki/Help:IPA/English"><b>IPA</a> :</b> |ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ| 
