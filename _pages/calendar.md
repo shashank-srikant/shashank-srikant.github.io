@@ -4,7 +4,7 @@ title: calendar
 permalink: /cal
 ---
 
-**When picking a time slot, if convenient to you, please pick one adjacent to any slot that's already booked on the calendar.\
+**When picking a time slot, if convenient to you, please pick one adjacent to any slot that's already booked on the calendar.
 That helps me have fewer context switches in a day.\
 Thanks!**
 
