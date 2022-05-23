@@ -42,7 +42,7 @@ I cover the following topics.
 - [Acknowledgement](#ack)
 
 
-### <a name="journey"></a> The journey [top](#topics)
+### <a name="journey"></a> The journey [<span style="font-size:0.2em;">[top]</span>](#topics)
 Currently, undergrads in science and engineering ought to be exposed to the following milestones in landing on a career in research/a researchy job.
 1. **Why:** why is a career in research worth pursuing? generally motivated by powerful stories in science and innovation; addresses the romantic notion of doing science many imagine while in high school
 2. **What: Big picture:** what does a career in research look like? perspective of getting a job, financial requirements/constraints, life trajectory, etc.
@@ -53,7 +53,7 @@ May not even require an advanced degree.
 5. **First RA experience:** resources for applying to your first RA experience. Example - could be writing an email to a professor in your university, a pre-doctoral program at different universities/research labs like Microsoft Research or Google.
 6. **Post first-research experience:** enjoyed your first RA experience? Resources for applying to grad school/research jobs.
 
-### <a name="gaps"></a> Information gaps [top](#topics)
+### <a name="gaps"></a> Information gaps [<span style="font-size:0.2em;">[top]</span>](#topics)
 There exist the following twin problems which undergrads face.
 
 - In colleges/universities which do not emphasize research (for example, >99% of the universities in India), majority students have no idea about point 1 and 2 mentioned above.
@@ -82,7 +82,7 @@ The aim of this document is to address each of these points in some detail. This
 I am yet to complete this section. WIP.
 
 ## What: Big picture
-### <a name="researchforme"></a> Is research for me? [top](#topics)
+### <a name="researchforme"></a> Is research for me? [<span style="font-size:0.2em;">[top]</span>](#topics)
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
 
@@ -95,7 +95,7 @@ Doing research is definitely more commitment than doing courses.
 Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
 
-### <a name="researchisnot"></a>What research is not [top](#topics)
+### <a name="researchisnot"></a>What research is not [<span style="font-size:0.2em;">[top]</span>](#topics)
 - _Is a huge commitment_ -- Training yourself in research by doing some advanced degree will likely take you 3-10 years (research intern, masters, Ph.D., post-docs, etc.). 
 We're expected to live for > 60 years. 
 3-10 years of it on this enterprise is not really that significant relatively in my opinion. 
@@ -115,7 +115,7 @@ You're likely to experience research at its best in an academic setting.
 - _I end up being a professor at some university_ -- While academia is the natural destination for anyone interested in research as a career, a number of industrial jobs which rely on innovation have very strong in-house research programs (e.g. semiconductors, materials, pharma, airlines, auto manufacturing, computer-science based industries).
 
 
-### <a name="doingresearch"></a>Doing research [top](#topics)
+### <a name="doingresearch"></a>Doing research [<span style="font-size:0.2em;">[top]</span>](#topics)
 
 [This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html), is an excellent primer on how you can equip yourself in having a fruitful research experience. 
 I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
@@ -124,7 +124,7 @@ I strongly urge you to read it, and imbibe the recommended steps in your researc
 This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
 
 
-### <a name="undergrad"></a>If you're an undergrad at a school with a great research program [top](#topics)
+### <a name="undergrad"></a>If you're an undergrad at a school with a great research program [<span style="font-size:0.2em;">[top]</span>](#topics)
 
 If you're an undergrad at a school like MIT (or some other xIT in your country), which is primarily known for its research, you should _definitely_ give research a shot to get your money's worth. 
 Making the most of your xIT experience != taking more grad classes -- these classes are pointless after a while. 
@@ -142,12 +142,12 @@ Here's an informative article on how to accommodate research in your otherwise b
 The Jason Eisner article in the section above provides great information on what to keep in mind while you start off your research project.
 
 
-### <a name="india"></a>Aspiring researchers from India-like countries [top](#topics)\* 
+### <a name="india"></a>Aspiring researchers from India-like countries [<span style="font-size:0.2em;">[top]</span>](#topics)\* 
 If you are an undergrad/aspiring young researcher from India reading this - it's great you are interested in research! 
 
 If you are from a college where there is a good culture for research, read the above section on how to make the best of it.
 
-#### <a name="not-tier-1-india"></a> If your undergrad college does not have a strong research environment [top](#topics)
+#### <a name="not-tier-1-india"></a> If your undergrad college does not have a strong research environment [<span style="font-size:0.2em;">[top]</span>](#topics)
 
 And importantly - if you are not from a "tier-1" school, where research opportunities do not exist for undergrads, worry not :-) I didn't have such opportunities either, and I made it through just fine. 
 
@@ -174,7 +174,7 @@ You should then consider applying to them/their university and doing your Ph.D. 
 Don't worry too much about the "name" and "prestige value" of the school you apply to - people matter more. 
 You are _significantly_ better off doing your Ph.D. with a professor whose research interest matches yours but is at an "okay" university, than doing it with a professor with unrelated interests but who's at an "elite" university.
 
-**Details. [top](#topics)** 
+**Details. [<span style="font-size:0.2em;">[top]</span>](#topics)** 
 This talk provides more details.
 <iframe
     width="540"
@@ -206,13 +206,13 @@ Perhaps the biggest tangible difference is the finances involved -- in a Ph.D. p
 Note - these MS degrees are different from degrees which also support an honors thesis (typically offered by universities in Canada, and a few in the US, Europe). 
 See point 2 in the summary above.
 
-### <a name="resources"></a>Resources [top](#topics)
+### <a name="resources"></a>Resources [<span style="font-size:0.2em;">[top]</span>](#topics)
 I intend to keep the lists below updated. Feel free to write me an email in case you come across any more such relevant resources.
 
-#### Advice on applying to competitive Ph.D. programs [top](#topics)
+#### Advice on applying to competitive Ph.D. programs [<span style="font-size:0.2em;">[top]</span>](#topics)
 - [Prof. Shriram Krishnamurthy](https://cs.brown.edu/~sk/) talks about the Ph.D. application process in computer science in competitive Ph.D. programs in the US. [[Youtube video]](https://www.youtube.com/watch?v=IprN9fPV2LI) [[Corresponding blog post]](https://parentheticallyspeaking.org/articles/us-cs-phd-faq/) 
 
-**I strongly recommend you go through this talk by Shriram if you aspire to apply to Ph.D. programs in the US. [top](#topics)** 
+**I strongly recommend you go through this talk by Shriram if you aspire to apply to Ph.D. programs in the US. [<span style="font-size:0.2em;">[top]</span>](#topics)** 
 While he talks about computer science specifically, a lot of what he talks about should hold for other disciplines, and will help you understand what faculty look for when reviewing applications. 
 Importantly, it will help you appreciate the intellectual maturity that is expected of you as a Ph.D. candidate.
 
@@ -228,7 +228,7 @@ Again, while this maybe machine learning/computer science specific, it gives a s
 
 Note - There's a sizeable overlap in the contents of each of the resources shared above. Do go through each of them nevertheless.
 
-#### Academic statements to graduate schools [top](#topics)
+#### Academic statements to graduate schools [<span style="font-size:0.2em;">[top]</span>](#topics)
 - In case this is helpful, [this is my statement of purpose / SOP / academic statement](/assets/pdf/academic_statement_of_purpose_sop_cmu.pdf) which I had submitted when applying to CMU (and from where I had an offer).
 
 - [This is Jeremy Lacomis' application material](https://www.cs.cmu.edu/~jlacomis/application-info/), who was accepted to the Ph.D. program at CMU.
@@ -237,14 +237,14 @@ It contains links to other materials which inspired him.
 Note - Adding keywords like `PhD CS computer science SOP statement of purpose sample example MIT CMU Stanford Berkeley` so that it gets picked up by search engines.
 
 
-#### Research internships for undergraduates [top](#topics)
+#### Research internships for undergraduates [<span style="font-size:0.2em;">[top]</span>](#topics)
 - [Ubadah Sabbagh](https://www.ubadahsabbagh.com/about.html) tweeted a [thread with links to useful summer research programs](https://twitter.com/neubadah/status/1353812419911540738) for undergrads (mostly in the US).
 
 - [Himanshu Ahuja](http://himahuja.com/) maintains an [excellent repository with links](https://github.com/himahuja/Research-Internships-for-Undergraduates) to undergraduate research programs in India and around the globe.
 
 - I mention a few more in Email 1 and 4 listed in the [FAQs](#faq) section.
 
-#### Research jobs in India offered to undergrads [top](#topics)
+#### Research jobs in India offered to undergrads [<span style="font-size:0.2em;">[top]</span>](#topics)
 I don't know a lot of product research groups where academic-style research happens, with publications at good venues as one of its goals. 
 The orgs I list below may no longer maintain active research groups/fit the above criteria. 
 You should definitely reach out to the founders directly (these are typically small orgs) and check with them.
@@ -253,7 +253,7 @@ If you come across any more, please do write to me.
 
 [Sharechat](https://sharechat.com/careers) , [Aspiring Minds Research](http://research.aspiringminds.com/) , [Sensara.tv](https://www.sensara.tv/careers.html) , [Gram Vaani](https://gramvaani.org/join-us/) , [Qure.ai](https://www.qure.ai/evidences/) , [Nirmai](https://www.niramai.com/about/thermalytix/) , [Strand life sciences](https://strandls.com/) , [Ati motors](https://www.atimotors.com/careers/)
 
-#### <a name="paper"></a>Publishing your first paper [top](#topics)
+#### <a name="paper"></a>Publishing your first paper [<span style="font-size:0.2em;">[top]</span>](#topics)
 [This excellent blog](https://achuwilson.github.io/post/2017-06-15-icra17/) by [Achu Wilson](https://achuwilson.github.io/) documents what it took him to publish his first research paper in one of the best conferences out there for robotics. 
 Achu did not have typical RA-like opportunities during his undergrad.
 
@@ -271,7 +271,7 @@ These generally encourage student submissions, and have high quality
 peer-review processes.
 If not, a thoughtful blog post or tech-report should work equally well.
 
-#### <a name="faq"></a>FAQs [top](#topics)
+#### <a name="faq"></a>FAQs [<span style="font-size:0.2em;">[top]</span>](#topics)
 My responses to some queries I have received over email and other social media over the years. 
 My responses echo most of the content mentioned on this webpage.
 
@@ -283,7 +283,7 @@ My responses echo most of the content mentioned on this webpage.
 - [[linkedin 2]](/assets/pdf/linkedin2.txt): MS vs. PhD
 - [[email 5]](/assets/pdf/email5.txt): Questions on how I perceive my Ph.D., education; my plans for the future. 
    
-### <a name="background"></a>My background [top](#topics)
+### <a name="background"></a>My background [<span style="font-size:0.2em;">[top]</span>](#topics)
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
 Thereafter, I put in a great deal of effort in finding such opportunities. By the end of my senior year, I was writing horrendous emails to academic research groups I wanted to work in. I was not skilled enough to demonstrate what my value addition would have been to a group that potentially hired me. Despite all of this, I managed to land a [great first job upon graduating](http://research.aspiringminds.com/), where I "made my bones" in research. That's right - I was fortunate to have a job right out of undergrad which had a strong research component to it. I learned to do good research there, and went on to managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this specific job, I'd likely have applied for a full time RA with professors I'd marked out as doing "interesting work". I had offers from other good places for a generic software engineer's role - I knew I did not want to explore those options.
@@ -294,7 +294,7 @@ I am where I am because of a bunch of such people who showed me the way. And I w
 
 Over these years, I've worked on and developed an expertise in problems in machine learning, data science, program analysis, natural language processing, and systems building.
 
-### <a name="ack"></a>Acknowledgement [top](#topics)
+### <a name="ack"></a>Acknowledgement [<span style="font-size:0.2em;">[top]</span>](#topics)
 Thanks to the following for their very helpful feedback on this page.
 
 [Srishti Yadav](https://srishti.dev/) , [Jeevanjyoti Chakraborty](http://www.facweb.iitkgp.ac.in/~jeevanjyoti/) , [Neeldhara Misra](https://neeldhara.com/), [Anna Ivanova](https://neuranna.mit.edu/), [Vivek Seshadri](http://www.cs.cmu.edu/~vseshadr/), [Greta Tuckute](http://www.tuckute.com/), [Kaveri Iychettira](https://spp.iitd.ac.in/faculty-profile/9)
