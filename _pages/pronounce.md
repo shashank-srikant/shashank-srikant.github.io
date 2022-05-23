@@ -4,11 +4,10 @@ title: pronounce
 permalink: /pronounce
 ---
 
-**[IPA](https://en.wikipedia.org/wiki/Help:IPA/English):**  |ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ|
+**[International Phonetic Alphabet](https://en.wikipedia.org/wiki/Help:IPA/English):**  |ʃ&nbsp;'ʃɑːŋk| |ʃ&nbsp;'riːkɑːnθ|
 
 
 **My first name sounds like :** shuh-shank
-
 It's a common Indian male name.
 
 **Mnemonic that people find easy to remember :** "shawshank" from the book/movie Shawshank Redemption.
