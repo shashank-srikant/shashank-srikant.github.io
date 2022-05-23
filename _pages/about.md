@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-            <small>[he/him; <a target="_blank" href="{% link _pages/pronounce.md %}">pronounce my name]</a></small>
+            <small>[he/him; <a target="_blank" href="/pronounce">pronounce my name]</a></small>
             </p>
             
 
@@ -13,7 +13,7 @@ profile:
   image: prof_pic.jpg
   address: >
             <p>firstname.lastname @ gmail </p>
-            <p><a target="_blank" href="/cal.html">[Calendar]</a></p>
+            <p><a target="_blank" href="/cal">[Calendar]</a></p>
             <p><small>PC: Hemanth, on our visit to <a target="_blank" href="https://en.wikipedia.org/wiki/Kuppalli">Kuppalli</a>. December 2019.</small></p>
             <p></p>
 
