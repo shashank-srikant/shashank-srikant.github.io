@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-            <small>[he/him; <a target="_blank" href="{% link _pages/pronounce.md %}">pronounce my name]</a></small>
+            <small>[he/him; <a target="_blank" href="{{ link _pages/pronounce.md }}">pronounce my name]</a></small>
             </p>
             
 
