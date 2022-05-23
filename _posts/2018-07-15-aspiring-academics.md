@@ -7,30 +7,81 @@ tags: aspiring-academics
 
 ---
 
-This webpage is directed at those who entered their undergrad degrees with a bleeding idealism to do great science and engineering.
-Unfortunately, many with that ideaslism lose steam by the time they graduate, and instead pick a "stable" job/other career paths where they may not necessarily get to do the science they once dreamt of doing.
-There's nothing wrong really in exploring these other career paths after your undergrad, but from what I've seen, many who do lose steam and choose these career paths would have perhaps thoroughly enjoyed a career in research.
-It's just that they could not figure out the concrete steps needed to experience high quality science and research early on to get them sufficiently hooked to it.
+This webpage is directed at those who want to learn what a career in research may end up looking like.
+When starting off their undergrad degrees in science and engineering, most are fueled by an idealism to do great science.
+However, very little mechanisms exist in our educational institutions that actually tell us what research is all about, and how one can get tangibly started.
+As a consequence, many just don't end up figuring out these details, have no idea what the journey promises to offer, and as a consequence, move on to other well-documented paths to jobs in the industry.
+While there's nothing wrong really in working in the industry, academia and scholarship loses out on the next potential Curie or Feynman.
+I hope the information in this page helps fast-track the process of learning more about this very niche career choice.
+
 
 **NOTE - The spirit of this document is not really to serve as a collection of resources that will help you figure out how to crack the admissions process of universities in the US/Europe for MS/PhD programs. 
 Rather, please use it as a way to discover what you are truly interested in.
 You don't have to follow a template of doing X research projects, having Y publications, and collecting Z letters from the best profs out there for you to have a great grad school application.
+Neither do you hav eto go to grad school to realize a career in research.
 Rather, it is _infinitely_ more important in my opinion to develop a concrete sense for what it takes to do research.
 In that process, you'll hopefully find a domain which excites you and bothers you at the same time, and which you would want to explore further in a grad school or a research-oriented job. 
-Once you get to this stage of self-awareness, you will find yourself organically having all the ingredients necessary for a successful grad school application.**
+Once you get to this stage of self-awareness, you will find yourself organically having all the ingredients necessary for a successful grad school application.
+It is best to then learn the tricks used when applying to grad schools or research jobs, and play that game right.**
 
+
+<a name="topics"></a>
 I cover the following topics.
-- [Is research for me?](#researchforme)
-- [What research is not](#researchisnot)
-- [Doing research](#doingresearch) - what your research advisor expects from you
-- [If you're an undergrad at a school with a strong research program](#undergrad)
-- [Aspiring researchers from India-like countries](#india) - Has [pointers](#not-tier-1-india) for those not from the top schools in their education systems but who want to do research
-- [Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
+- [The expected journey into research](#journey)
+- [Where the information gaps are](#gaps)
+- [Why research?](#whyresearch)
+- [What: Is research for me?](#researchforme)
+- [What: research is not](#researchisnot)
+- [How: Doing research](#doingresearch) - what your research advisor expects from you
+- [How: If you're an undergrad at a school with a strong research program](#undergrad)
+- [How: Aspiring researchers from India-like countries](#india) - Has [pointers](#not-tier-1-india) for those not from the top schools in their education systems but who want to do research
+- [How - details:](#howdetails)
+- [Post first-research experience: Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
 - [FAQs](#faq) - My responses to email queries sent out by young researchers
 - [My background](#background)
 - [Acknowledgement](#ack)
 
 
+### <a name="journey"></a> The journey <a name="topics">[top]</a>
+Currently, undergrads in science and engineering ought to be exposed to the following milestones in landing on a career in research/a researchy job.
+1. **Why:** why is a career in research worth pursuing? generally motivated by powerful stories in science and innovation; addresses the romantic notion of doing science many imagine while in high school
+2. **What: Big picture:** what does a career in research look like? perspective of getting a job, financial requirements/constraints, life trajectory, etc.
+Careers after an advanced degree--need not be an academic professor. can try out others like science communication, freelancing, etc.
+May not even require an advanced degree.
+3. **How - doing research:** what to expect. what your research mentor would expect of you. what value system to acquire: curiosity driven investigation, not doing research for the sake of prestige value, not hell bent on a publication as an end goal, etc.
+4. **How - details:** skills you will benefit from: learning and gaining expertise in tools relevant to your research area (MATLAB/R, Pytorch, STATA, etc.), critically reading and evaluating current literature, the importance of understanding prior art, thinking of experiment design, determination when experiments fail, writing/articulating your thought process, etc.
+5. **First RA experience:** resources for applying to your first RA experience. Example - could be writing an email to a professor in your university, a pre-doctoral program at different universities/research labs like Microsoft Research or Google.
+6. **Post first-research experience:** enjoyed your first RA experience? Resources for applying to grad school/research jobs.
+
+### <a name="gaps"></a> Information gaps <a name="topics">[top]</a>
+There exist the following twin problems which undergrads face.
+
+- In colleges/universities which do not emphasize research (for example, >99% of the universities in India), majority students have no idea about point 1 and 2 mentioned above.
+The possibility of doing research, and an understanding of what that career may offer is not even in their vocabulary. 
+Consequently, they are just not aware of points 3 onwards.
+
+- A few outliers in such universities are aware of points 1, 2, but have no idea how to operationalize that desire into specific skills which will be valuable to their research trajectory. 
+They are largely unaware of points 3 onwards, will try to reach out to faculty from various other universities by cold-emailing them without appreciating step 4, may end up with weak research stints at local universities, and will likely then rush into step 6--applying to grad schools.
+
+- This problem is definitely persistent in universities with a good research ecosystem as well (say, a few IITs etc. in India).
+Around 60-70% (based on my estimates after having interacted with undergrads at MIT) have no clue about steps 1, 2.
+
+- Further, there's a dual to this problem seen in universities with a good research ecosystem--of those students who largely appreciate points 1, 2 have a broken sense for point 3. There's an overemphasis of "doing research" to pick up those LORs and to add it to one's CVs, so that they can apply to the "best" grad schools. 
+However, the introspective aspect of whether they truly appreciate the nuances their chosen field has to offer, are genuinely excited by some problems, trying out a good breadth of concrete projects, not being cowed down by peer pressure to apply to different grad schools, etc. don't seem to be conveyed/reinforced.
+In India, there's this added peer pressure to apply to "the best universities" outside the country.
+
+- To the best of my knowledge, there doesn't exist any institutional interventions addressing points 3, 4 at the undergrad level. 
+Currently, both 3 and 4 seem to happen _after_ joining grad school/an pre-doctoral program.
+And that is unfortunate.
+
+- Some ad-hoc resources for points 5 and 6 exist, and depending on the quality of these resources, some students currently inductively figure out points 3 and 4.
+
+The aim of this document is to address each of these points in some detail. This document is a work in progress (WIP).
+
+## Why: Why research?
+I am yet to complete this section. WIP.
+
+## What: Big picture
 ### <a name="researchforme"></a> Is research for me?
 If you're generally curious about how the world works, and have an interest in understanding details of how things around you work, you should definitely give research a shot. 
 If you're an undergraduate at a school with a vibrant research community, it is that much easier to give it a go, and to see if you enjoy it. 
@@ -45,7 +96,6 @@ Read [Jason Eisner's article below](#doingresearch) to learn more about this.)
 
 
 ### <a name="researchisnot"></a>What research is not
-
 - _Is a huge commitment_ -- Training yourself in research by doing some advanced degree will likely take you 3-10 years (research intern, masters, Ph.D., post-docs, etc.). 
 We're expected to live for > 60 years. 
 3-10 years of it on this enterprise is not really that significant relatively in my opinion. 
@@ -53,23 +103,22 @@ People do work in jobs for five years, where they get to work on a range of proj
 Training yourself in research is no different.
 But sure - if you have filial, financial circumstances which you cannot avoid, then this may be a sub-optimal life decision.
 - _Is expensive_ -- It's not really. Most graduate programs will in fact pay you a monthly salary, and waive your tuition off. So you essentially are an employee being paid to produce knowledge.
-- _High paying jobs_ -- Advanced degrees need not necessarily pay you significantly than good jobs for undergrads. 
+- _Leads to high paying jobs_ -- Advanced degrees need not necessarily pay you significantly than good jobs for undergrads. 
 If you're into research solely for a high-paying job, then something's not right.
-- _God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  Sure, you'll know a lot about a small field. However, the shelf-life for tangible technical skills you've acquired such as expertise in a library in Python, some specific set of tools, knowing what the state-of-the-art in your domain is, etc. will likely be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
+- _Makes me God's chosen one_ -- It's unlikely you will come out of it being this invincible master of this one subject which you specalize in.  Sure, you'll know a lot about a small field. However, the shelf-life for tangible technical skills you've acquired such as expertise in a library in Python, some specific set of tools, knowing what the state-of-the-art in your domain is, etc. will likely be 5-7 years. Be prepared to constantly skill up once you get out of your Ph.D. studies if you want your skills to remain relevant. What this experience will teach you is perhaps to think, ask questions, break problems down, communicate ideas, etc. - skills that're transferrable to any domain you go on to working on. Technical skills will remain relevant as long as you put in the effort to stay relevant.
 - _Is irrelevant to reality_ -- There may be a grain of truth to this, and many successful entrepreneurs also feel this way [[tweet1]](https://twitter.com/svembu/status/1229193888239210496), I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet.
 In the worst case, you will use this as an opportunity to learn more about yourself. 
 In the best, you push forward the state of science for all of us.
-- _Need not require a Ph.D._ -- Not all research roles/jobs need you to have advanced degrees. 
+- _Requires a Ph.D._ -- Not all research roles/jobs need you to have advanced degrees. 
 However, not many such roles exist. 
 You're likely to experience research at its best in an academic setting.
-- _Need not end in you becoming a professor at some university_ -- While academia is the natural destination for anyone interested in research as a career, a number of industrial jobs which rely on innovation have very strong in-house research programs (e.g. semiconductors, materials, pharma, airlines, auto manufacturing, computer-science based industries).
+- _I end up being a professor at some university_ -- While academia is the natural destination for anyone interested in research as a career, a number of industrial jobs which rely on innovation have very strong in-house research programs (e.g. semiconductors, materials, pharma, airlines, auto manufacturing, computer-science based industries).
 
 
 ### <a name="doingresearch"></a>Doing research
 
-[This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html){:target="_blank"}, is an excellent primer on how you can equip yourself in having a fruitful research experience. 
+[This article, penned by Prof. Jason Eisner at JHU](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html), is an excellent primer on how you can equip yourself in having a fruitful research experience. 
 I strongly urge you to read it, and imbibe the recommended steps in your research stint. 
-
 [In his famous talk 'You and your research'](/assets/pdf/you_and_your_research_hamming.html), Richard Hamming describes the process of doing _good_ research.
 
 This talk transcript I have hosted on this site is a clone of https://www.cs.virginia.edu/~robins/YouAndYourResearch.html
@@ -88,7 +137,7 @@ You stand to learn and gain a lot.
 So, do give it a shot, and see if it works well for you. 
 It is very likely you'll work with someone in their group (as against directly working with them, and that's fine), and that someone can spur your interest in research. 
 
-Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/){:target="_blank"}
+Here's an informative article on how to accommodate research in your otherwise busy undergraduate schedule -- [making the most of an undergrad at CMU](https://willcrichton.net/notes/making-the-most-out-of-cmu/)
 
 The Jason Eisner article in the section above provides great information on what to keep in mind while you start off your research project.
 
@@ -237,7 +286,7 @@ My responses echo most of the content mentioned on this webpage.
 ### <a name="background"></a>My background
 I did not have a great undergrad research experience. I wanted to, but I was too ill-equipped to learn how I could have gained quality experience. I had a scholarship in my junior year to do a research internship at the CS dept. of one of the IITs in India. While I learned a couple of things there, I knew right away it wasn't a "high quality" experience. My undergrad thesis experience was great - I had a great advisor, I learned a ton of things, but it didn't train me to do quality research, and I was painfully aware of this limitation.
 
-Thereafter, I put in a great deal of effort in finding such opportunities. By the end of my senior year, I was writing horrendous emails to academic research groups I wanted to work in. I was not skilled enough to demonstrate what my value addition would have been to a group that potentially hired me. Despite all of this, I managed to land a [great first job upon graduating](http://research.aspiringminds.com/){:target="_blank"}, where I "made my bones" in research. That's right - I was fortunate to have a job right out of undergrad which had a strong research component to it. I learned to do good research there, and went on to managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this specific job, I'd likely have applied for a full time RA with professors I'd marked out as doing "interesting work". I had offers from other good places for a generic software engineer's role - I knew I did not want to explore those options.
+Thereafter, I put in a great deal of effort in finding such opportunities. By the end of my senior year, I was writing horrendous emails to academic research groups I wanted to work in. I was not skilled enough to demonstrate what my value addition would have been to a group that potentially hired me. Despite all of this, I managed to land a [great first job upon graduating](http://research.aspiringminds.com/), where I "made my bones" in research. That's right - I was fortunate to have a job right out of undergrad which had a strong research component to it. I learned to do good research there, and went on to managing a small team of researchers on a variety of interesting and innovative projects. Had I not landed this specific job, I'd likely have applied for a full time RA with professors I'd marked out as doing "interesting work". I had offers from other good places for a generic software engineer's role - I knew I did not want to explore those options.
 
 Looking back, I was an absolute fool at most times in my research journey. I would be stuck on silly things, I would ask trivial questions, I would just not understand certain concepts, I would not see the big-picture until a long time had passed, etc. But I kept at it because I thoroughly enjoyed learning these bits. And importantly, I had a great mentor who was patient enough to show me the ropes and indulge my inadequacies, while being encouraging.
 
