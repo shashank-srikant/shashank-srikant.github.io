@@ -38,7 +38,7 @@ I cover the following topics.
 - [How: Doing research](#doingresearch) - what your research advisor expects from you
 - [How: If you're an undergrad at a school with a strong research program](#undergrad)
 - [How: Aspiring researchers from India-like countries](#india) - Has [pointers](#not-tier-1-india) for those not from the top schools in their education systems but who want to do research
-- [How - details:](#howdetails)
+- [How: Details](#howdetails)
 - [Post first-research experience: Resources](#resources) - Advice on preparing grad school applications; links to useful summer research programs; I've also attached my academic statement from the time I applied to grad schools
 - [FAQs](#faq) - My responses to email queries sent out by young researchers
 - [My background](#background)
