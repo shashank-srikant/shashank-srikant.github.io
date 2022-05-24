@@ -14,6 +14,8 @@ As a consequence, many just don't end up figuring out these details, have no ide
 While there's nothing wrong really in working in the industry, academia and scholarship loses out on the next potential Curie or Feynman.
 I hope the information in this page helps fast-track the process of learning more about this very niche career choice.
 
+While this is most directly useful to students in Computer science (since that's my background), I do believe the general principles I lay out will be relevant to students from other fields as well.
+
 
 **NOTE - The spirit of this document is not really to serve as a collection of resources that will help you figure out how to crack the admissions process of universities in the US/Europe for MS/PhD programs. 
 Rather, please use it as a way to discover what you are truly interested in.
@@ -109,6 +111,7 @@ If you're into research solely for a high-paying job, then something's not right
 - _Is irrelevant to reality_ -- There may be a grain of truth to this, and many successful entrepreneurs also feel this way [[tweet1]](https://twitter.com/svembu/status/1229193888239210496), I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet.
 In the worst case, you will use this as an opportunity to learn more about yourself. 
 In the best, you push forward the state of science for all of us.
+See also how [Dr. Sumit Gulwani](https://www.microsoft.com/en-us/research/publication/shaping-the-future-with-sumit-gulwani/) has grounded his expertise in a narrow area of CS to the very real needs of everyday user needs.
 - _Requires a Ph.D._ -- Not all research roles/jobs need you to have advanced degrees. 
 However, not many such roles exist. 
 You're likely to experience research at its best in an academic setting.
@@ -171,8 +174,10 @@ Hence, your best bet is to do a solid masters degree where you will be exposed t
 
 In this process, figure out what problems in a particular research area really bother you which you see yourself solving, and then consider who are the best researchers in the world who might support you to solve that problem. 
 You should then consider applying to them/their university and doing your Ph.D. with them.
-Don't worry too much about the "name" and "prestige value" of the school you apply to - people matter more. 
+Don't worry too much about the "name" and "prestige value" of the school you apply to - **people matter more.** 
 You are _significantly_ better off doing your Ph.D. with a professor whose research interest matches yours but is at an "okay" university, than doing it with a professor with unrelated interests but who's at an "elite" university.
+[See also this note by Prof. Charles Sutton](http://www.theexclusive.org/2017/11/cs-rankings.html) on how to use websites which rank different universities and departments. 
+He reaffirms some of the points I've summarized above.
 
 **Details. [<span style="font-size:0.6em;">[top]</span>](#topics)** 
 This talk provides more details.
