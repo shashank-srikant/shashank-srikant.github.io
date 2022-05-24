@@ -9,12 +9,13 @@ tags: aspiring-academics
 
 This webpage is directed at those who want to learn what a career in research may end up looking like.
 When starting off their undergrad degrees in science and engineering, most are fueled by an idealism to do great science.
-However, very little mechanisms exist in our educational institutions that actually tell us what research is all about, and how one can get tangibly started.
+However, few mechanisms exist in our educational institutions that actually tell us what research is all about, and how one can get tangibly started.
 As a consequence, many just don't end up figuring out these details, have no idea what the journey promises to offer, and as a consequence, move on to other well-documented paths to jobs in the industry.
 While there's nothing wrong really in working in the industry, academia and scholarship loses out on the next potential Curie or Feynman.
-I hope the information in this page helps fast-track the process of learning more about this very niche career choice.
+I hope the information in this page helps fast-track the process of learning more about this niche career choice.
 
-While this is most directly useful to students in Computer science (since that's my background), I do believe the general principles I lay out will be relevant to students from other fields as well.
+While this is most directly useful to students in Computer science (since that's my background), I do believe the general principles I lay out will be relevant to students from other fields as well. 
+Please do write to my with your thoughts, clarifications, other resources you found helpful, etc. My email: (firstname).(lastname)@gmail.com
 
 
 **NOTE - The spirit of this document is not really to serve as a collection of resources that will help you figure out how to crack the admissions process of universities in the US/Europe for MS/PhD programs. 
