@@ -112,7 +112,7 @@ If you're into research solely for a high-paying job, then something's not right
 - _Is irrelevant to reality_ -- There may be a grain of truth to this, and many successful entrepreneurs also feel this way [[tweet1]](https://twitter.com/svembu/status/1229193888239210496), I still think the time investment will not terribly offset whatever purpose you have defined for yourself on this planet.
 In the worst case, you will use this as an opportunity to learn more about yourself. 
 In the best, you push forward the state of science for all of us.
-See also how [Dr. Sumit Gulwani](https://www.microsoft.com/en-us/research/publication/shaping-the-future-with-sumit-gulwani/) has grounded his expertise in a narrow area of CS to the very real needs of everyday user needs.
+See also how [Dr. Aaditeshwar Seth](https://www.cse.iitd.ac.in/~aseth/), [Dr. Sumit Gulwani](https://www.microsoft.com/en-us/research/publication/shaping-the-future-with-sumit-gulwani/) have grounded their expertise in a fairly narrow area of CS to the very real needs of everyday user needs.
 - _Requires a Ph.D._ -- Not all research roles/jobs need you to have advanced degrees. 
 However, not many such roles exist. 
 You're likely to experience research at its best in an academic setting.
