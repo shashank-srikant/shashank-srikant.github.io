@@ -46,6 +46,7 @@ And that's unfair to everyone involved.
 Once the project had ended, I had a conversation with them explaining the situation. I reproduce here the email I wrote them before having a face to face meeting where we discussed these points. The purpose of reproducing it here is to share with you how I think about this situation.
 
 ---
+
 Subject: Feedback on our project
 
 hey
@@ -85,6 +86,7 @@ please let me know your thoughts. if you're not a fan of typing out replies, i w
 
 my best to you.
 shashank
+
 ---
 
 ## End of term/year review
