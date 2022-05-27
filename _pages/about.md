@@ -22,7 +22,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>ವಂದನೆಗಳು .I'm currently a Ph.D. candidate in computer science at <a href="http://www.csail.mit.edu/">CSAIL, MIT</a>. I'm advised by <a href="https://alfagroup.csail.mit.edu/">Dr. Una-May O'Reilly</a></p>
+<p>ವಂದನೆಗಳು .I! I'm currently a Ph.D. candidate in computer science at <a href="http://www.csail.mit.edu/">CSAIL, MIT</a>. I'm advised by <a href="https://alfagroup.csail.mit.edu/">Dr. Una-May O'Reilly</a></p>
 
 <p>I am interested in the intersection of machine learning, program analysis, and cognitive neuroscience. I want to understand how programs are represented - both by our brains and by machines. 
 <a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">This CSAIL research spotlight</a> provides details on my work and interests. I also provide an overview of my research interest <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">in this conversation</a>. <small><a href="https://shashank-srikant.github.io/bio.txt">[Third person bio]</a></small>
