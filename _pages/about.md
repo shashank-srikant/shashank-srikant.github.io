@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 description: >
-            <small>[he/him; <a href="/pronounce">pronounce my name]</a></small>
+            <small>[he/him; <a href="/pronounce">pronounce my name</a>]</small>
             </p>
             
 
