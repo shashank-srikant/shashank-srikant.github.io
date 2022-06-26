@@ -1,6 +1,6 @@
 <span class="contact-icon text-center">
   {% if site.email %}<a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>{% endif %}
-  {% if site.dblp_id %}<a href="https://dblp.org/52/{{ site.dblp_id }}.html" target="_blank" title="DBLP"><i class="ai ai-google-scholar"></i></a>{% endif %}
+  {% if site.dblp_id %}<a href="https://dblp.org/pid/52/{{ site.dblp_id }}.html" target="_blank" title="DBLP"><i class="ai ai-google-scholar"></i></a>{% endif %}
   {% if site.email %}<a href="mailto:{{ site.email | encode_email }}"><i class="fas fa-envelope"></i></a>{% endif %}
   {% if site.scholar_userid %}<a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" target="_blank" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
   {% if site.publons_id %}<a href="https://publons.com/a/{{ site.publons_id }}/" target="_blank" title="Publons"><i class="ai ai-publons"></i></a>{% endif %}
