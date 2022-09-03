@@ -29,11 +29,11 @@ It is best to then learn the tricks used when applying to grad schools or resear
 
 ## CS Research 101 - A course I have put together
 
-I have put together a short course which introduces the idea of research in CS.
-You can access the link here: [https://csresearch101.netlify.app/](https://csresearch101.netlify.app/)
+I have put together a short course which introduces the idea of research in CS.  
+You can access the link here: [https://csresearch101.netlify.app/](https://csresearch101.netlify.app/)  
 This webpage comprehensively documents the ingridients needed to get started with your first research journey.
 
 ## Old webpage
-The content in the course linked was inspired by a webpage I'd earlier put out.
+The content in the course linked was inspired by a webpage I'd earlier put out.  
 That "older" content [can be accessed here](https://shashank-srikant.github.io/notes/aspiring-academics-old).
 
