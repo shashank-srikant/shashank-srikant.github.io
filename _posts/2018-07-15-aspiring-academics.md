@@ -27,13 +27,13 @@ In that process, you'll hopefully find a domain which excites you and bothers yo
 Once you get to this stage of self-awareness, you will find yourself organically having all the ingredients necessary for a successful grad school application.
 It is best to then learn the tricks used when applying to grad schools or research jobs (SOPs, letters of recommendation, how many schools to apply to, etc.), and play that game right.**
 
-## CS Research 101 - A course I have put together
+## CS Research 101 - A course I have created
 
 I have put together a short course which introduces the idea of research in CS.  
-You can access the link here: [https://csresearch101.netlify.app/](https://csresearch101.netlify.app/)  
+You can access the course page here: [https://csresearch101.netlify.app/](https://csresearch101.netlify.app/)  
 This webpage comprehensively documents the ingridients needed to get started with your first research journey.
 
 ## Old webpage
-The content in the course linked was inspired by a webpage I'd earlier put out.  
+The content in the course page linked above was inspired by a note I'd put out earlier.  
 That "older" content [can be accessed here](https://shashank-srikant.github.io/notes/aspiring-academics-old).
 
