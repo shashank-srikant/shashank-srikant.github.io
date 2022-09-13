@@ -14,9 +14,9 @@ Effective communication can make or break a collaboration.
 And it is oddly against our instincts to have tough conversations, where either we're coming off as being inadequate, or we're pointing some shortcoming in someone else.
 But what works almost always is going ahead and actually communicating it. See an example below where I dwell on this point a little more.
 
-2. **Sincerity with your work** -- I find this important as well. Once you've decided to learn more and invest effort on some work, please start owning it. Do not expect to be followed up and parented on the progress you make. If you think you're stuck, or are unable to appreciate and understand nuances, or are not motivated any more - read point 1. above. Communicate this as early as possible.
+2. **Sincerity with your work** -- I find this important as well. Once you've decided to learn more and invest effort on some work, please start owning it. Do not expect to be followed up and parented on the progress you make. If you think you're stuck, or are unable to appreciate and understand nuances, or are not motivated any more - read point 1. above. Communicate this as early as possible.  
 
-**Please also read [this note by Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html) which concretizes how you can be sincere with your work.**
+**Please also read [this note by Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html) which concretizes how you can be sincere with your work.**  
 
 Having said that, we could be perfectly well motivated but then shirk off work at times. That's fine as well! We all tend to be lazy at times. Heck, I constantly struggle with it myself. The trick again is to convey - convey that you won't be able to make progress on a given week (for whatever reason; I usually don't care), and make sure you make up for it in subsequent weeks.
 If things are being constantly delayed, I'll likely notice it and discuss with you what I've noticed. 
