@@ -6,12 +6,17 @@ Shashank Srikant - homepage.
 
 - Install Ruby and Gems: https://gorails.com/setup/ubuntu/
 
-- Run the following with the the cloned repo being the `pwd`
+- Run the following commands:
 ```bash
+cd shashank-srikant.github.io
+
 rbenv versions
 
->  * 3.1.2 (set by /home/ubuntu/.ebenv/version
+>  * 3.1.2 (set by /home/ubuntu/.ebenv/version)
 ```
+
+This version would be the latest version of Ruby installed in step 1
+
 
 - Install version 2.6.5
 ```
@@ -22,10 +27,10 @@ rbenv versions
 - Install all the gems local to the repo
 ```
 bundle install
-
 ```
+
 - Note: Remove any bundler version that maybe mentioned in `Gemfile.lock`.
-This ensures the latest bundler you install can build the project.
+This ensures the bundler in v2.6.5 can build the project.
 
 ### Compile changes
 ```bash
