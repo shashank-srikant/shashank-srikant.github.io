@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Convergent Representations of Computer Programs in Human and Artificial Neural Networks
+title: Convergent representations of computer programs in human and artificial neural networks
 description: What aspects of computer programs are represented in the human brain during program comprehension?
 date: 2022-10-01
 tags: papers cognitive-neuroscience program-representation ml-for-plse
