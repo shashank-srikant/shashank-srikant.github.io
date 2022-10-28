@@ -8,6 +8,7 @@ Details on his work are available on his webpage - https://shashank-srikant.gith
 =============================
 Long
 =============================
+
 Shashank is currently a Ph.D. candidate in computer science at the CS & AI Lab (CSAIL), in the department of Electrical engineering and Computer science (EECS) at MIT. He is advised by Una-May O'Reilly. His research interests are at the intersection of machine learning, program analysis, and cognitive neuroscience. He has published his work at top-tier academic venues and has authored multiple patents.
 
 Before joining the Ph.D. program, he was a senior researcher at Aspiring Minds' research lab, where he researched, deployed, and managed a number of innovative products involving machine learning. These products are used by >1M job applicants across the world today. In this role, he also helped organize international workshops, led academic collaborations, and helped set up communities in India to participate and engage in ML and data science (http://www.datasciencekids.org, http://ml-india.org).
