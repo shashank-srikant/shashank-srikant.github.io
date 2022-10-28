@@ -8,7 +8,7 @@ Shashank Srikant - homepage.
 
 - Run the following with the the cloned repo being the `pwd`
 ```bash
-rbenv --versions
+rbenv versions
 
 >  * 3.1.2 (set by /home/ubuntu/.ebenv/version
 ```
@@ -16,7 +16,7 @@ rbenv --versions
 - Install version 2.6.5
 ```
 rbenv global 2.6.5
-rbenv --versions
+rbenv versions
 ```
 
 - Install all the gems local to the repo
