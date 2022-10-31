@@ -12,7 +12,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-            <p>firstname.lastname @ gmail </p>
+            <p>shashank.srikant@gmail</p>
             <p><a href="/cal">[Calendar]</a></p>
             <p><small>PC: Hemanth, on our visit to <a href="https://en.wikipedia.org/wiki/Kuppalli">Kuppalli</a>. December 2019.</small></p>
             <p></p>
