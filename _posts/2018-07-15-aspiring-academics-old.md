@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: Aspiring academics
+title: Aspiring academics - older page
 description: If you're an undergraduate/recent undergrad who wants to understand what doing research is all about, resources on this page should help you get a sense for it. 
 date: 2018-07-15
 tags: aspiring-academics
