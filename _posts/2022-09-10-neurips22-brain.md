@@ -21,14 +21,14 @@ We make all the corresponding code, data, and analysis publicly available at htt
 ## Links
 [PDF](/assets/papers/neurips_22.pdf)
 
+[Poster](/assets/papers/neurips_22_poster.pdf)
+
 [Openreviews](https://openreview.net/forum?id=AqexjBWRQFx){:target="blank"}
 
 [Tweet summary](https://twitter.com/ShashankSrikant/status/1592873884100923392)
 
 [Source](https://github.com/ALFA-group/code-representations-ml-brain)
 
-[Slides]()
-
-[Talk video](https://neurips.cc/virtual/2022/poster/53867)
+[Slides, Talk video](https://neurips.cc/virtual/2022/poster/53867)
 
 Press - 
