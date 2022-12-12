@@ -77,3 +77,5 @@ I respect, practice, and expect frank and timely communication. I've written [a 
 I respect and exercise the same set of values in my personal relationships as well.
 
 **Footnote 1:** The intended purpose of fast-tracking this process has failed on the two occasions I've used it :-) Expected, but only kinda.
+
+**Footnote 2:** I'm lucky to have found a partner whom I strongly resonate with on most points I mention above. This document, hence, will now serve an archival purpose.
