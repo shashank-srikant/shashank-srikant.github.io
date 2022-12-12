@@ -55,7 +55,7 @@ This can devolve into all kinds of issues because this comes down to the core of
 Having laid out this grand theory of mine, let me place myself in its context: I think I identify with group B much more than group A. I find these abstract goals to be fundamentally more important to me, which helps me justify the time I spend on this planet. I see activities that perhaps group A folks would cherish--the time we spend enjoying various aspects this life offers--as merely means to accomplish something abstract, something much larger than myself/us. Like a refreshing drink on a long run, if you will; it's essential, but isn't really the focus.
 
 It is important for my partner to thus introspect and identify what their tastes are, and what motivates them.
-Where will they derive their happiness from on a day-to-day basis? Is it in their partner? If yes, will they be okay if their partner (in this case, me) doesn't reciprocate in equal measure? That's something to consider seriously.
+Where will they derive their happiness from on a day-to-day basis? Is it from their partner? If yes, will they be okay if their partner (in this case, me) doesn't reciprocate in equal measure? That's something to consider seriously.
 
 An unfortunate side-effect of such thought exercises is that .a. it's easy to fool oneself by claiming to be okay about something until experiencing it, which would change our minds .b. you (I) may genuinely not know what your (my) preferences are, and .c. your (and my) preferences can change (quite dramatically) over time. So consider this thought experiment with that grain of reality-salt.
 
