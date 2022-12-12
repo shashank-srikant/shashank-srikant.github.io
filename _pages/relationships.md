@@ -73,6 +73,7 @@ I find it hard to idolize and blindly follow another person's footsteps. I ident
 
 **- Communication:** What also comes with humility and kindness is the ability to communicate without ego getting in the way.
 I respect, practice, and expect frank and timely communication. I've written [a note on the importance of communication in a professional setting](https://csresearch101.netlify.app/m4.html#communicating-with-sincerety)
-I respect and exercise the same set of values in my personal space as well.
+
+I respect and exercise the same set of values in my personal relationships as well.
 
 **Footnote 1:** The intended purpose of fast-tracking this process has failed on the two occasions I've used it :-) Expected, but only kinda.
