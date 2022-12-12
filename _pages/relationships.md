@@ -76,6 +76,6 @@ I find it hard to idolize and blindly follow another person's footsteps. I ident
 I respect, practice, and expect frank and timely communication. I've written [a note on the importance of communication in a professional setting](https://csresearch101.netlify.app/m4.html#communicating-with-sincerety).   
 I respect and exercise the same set of values in my personal relationships as well.
 
-**Footnote 1:** The intended purpose of fast-tracking this process has failed on the two occasions I've used it :-) Expected, but only kinda.
+**Footnote 1 (January 2021):** The intended purpose of fast-tracking this process has failed on the two occasions I've used it :-) Expected, but only kinda.
 
-**Footnote 2:** I'm lucky to have found a partner whom I strongly resonate with on most points I mention above. This document, hence, will now serve an archival purpose.
+**Footnote 2 (December 2022):** I'm lucky to have found a partner whom I strongly resonate with on most points I mention above. This document, hence, will now serve an archival purpose.
