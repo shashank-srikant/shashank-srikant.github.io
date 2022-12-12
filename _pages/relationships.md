@@ -60,7 +60,7 @@ Where will they derive their happiness from on a day-to-day basis? Is it in thei
 An unfortunate side-effect of such thought exercises is that .a. it's easy to fool oneself by claiming to be okay but not really being okay with something until experiencing it .b. you may genuinely not know what your preferences are, and .c. your preferences can change (quite dramatically) over time. So consider this thought experiment with that grain of relity-salt.
 
 A related note:
-Over the years, I've also realized that group A likely attracts more creators while group B attracts the consumers.
+Over the years, I've also realized that group A likely attracts more consumers while group B attracts the creators.
 Creators are those who have an urge to create things, be it a song, a painting, a piece of software, a short film: essentially taking a germ of an idea and executing it until they see a finished product in front of them.
 Consumers are those who, sometimes unhealthily, like to consume: information, music, paintings---pretty much anything that the creators create. While there's nothing wrong with being a consumer, I personally feel a strong sense of irritation and discomfort at being "greedily" just consuming without creating anything worthwhile.
  
