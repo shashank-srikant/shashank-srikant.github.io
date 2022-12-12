@@ -36,9 +36,9 @@ One unfortunate side-effect of kindness I notice is that it often co-exists with
 Another (sorta) related trait that I deeply admire: general conscientiousness. I find it hard to connect with people who are apathetic and cynical about the world around them. I detest talkers--who can talk on and on about things, have lofty opinions, generally cynical, on everything from politics to sports, but don't really act on anything.
  
 **- A theory of partners:** I have a theory of partners which also explains more about how I view this world.
-I find people are generally of two kinds: 
+I find people are generally subscribe to one of the two following groups: 
 
-group A: those who find purpose and happiness in the material, and group B: those who find it in the abstract. 
+**group A**: those who find purpose and happiness in the material, and **group B**: those who find it in the abstract. 
 
 group A folks, in my experience, are those who perhaps may not have identified a sense of self yet, are content with pursuing "standard" goals like buying a house, owning fancy stuff, having a reasonably challenging job, etc., and don't generally possess strong hobbies or pursuits.
 
