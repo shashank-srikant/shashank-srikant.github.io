@@ -72,8 +72,7 @@ A corollary (and an unfinished chain of thought at that; will revisit sometime):
 I find it hard to idolize and blindly follow another person's footsteps. I identify and greatly respect creators in an ecosystem (they are a rare species) and I will do my best to encourage as many to be creators themselves and do my best in creating such ecosystems for others. But I can't come to terms with idolizing someone to the extent where I'm following their instructions blindly in achieving a common goal. I will perhaps if it's a goal I deeply resonate with (most tasks I take up are pre-conditioned on me resonating with it), but I'm always a little uneasy. In such cases, I will always have a mind of my own and will constantly evaluate how I'd have achieved that goal had I done it myself and see whether the instructions given to me match my conclusions. Is that an artifact of wanting to be a creator? <shrugs shoulder>
 
 **- Communication:** What also comes with humility and kindness is the ability to communicate without ego getting in the way.
-I respect, practice, and expect frank and timely communication. I've written [a note on the importance of communication in a professional setting](https://csresearch101.netlify.app/m4.html#communicating-with-sincerety)
-
+I respect, practice, and expect frank and timely communication. I've written [a note on the importance of communication in a professional setting](https://csresearch101.netlify.app/m4.html#communicating-with-sincerety).   
 I respect and exercise the same set of values in my personal relationships as well.
 
 **Footnote 1:** The intended purpose of fast-tracking this process has failed on the two occasions I've used it :-) Expected, but only kinda.
