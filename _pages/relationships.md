@@ -37,11 +37,12 @@ Another (sorta) related trait that I deeply admire: general conscientiousness. I
 **- A theory of partners:** I have a theory of partners which also explains more about how I view this world.
 I find people are generally of two kinds: 
 
-group A: those who find purpose and happiness in the abstract, and group B: those who find it in the material. 
+group A: those who find purpose and happiness in the material, and group B: those who find it in the abstract. 
 
-group A folks, in my experience, are those driven by abstract goals, have a set of interests which they keep pursuing, and generally experience a sense of accomplishment and being content in these abstract pursuits. This generally gets translated to ambition as well.
+group A folks, in my experience, are those who perhaps may not have identified a sense of self yet, are content with pursuing "standard" goals like buying a house, owning fancy stuff, having a reasonably challenging job, etc., and don't generally possess strong hobbies or pursuits.
 
-group B folks are those who perhaps may not have identified a sense of self yet, are content with pursuing "standard" goals like buying a house, owning fancy stuff, having a reasonably challenging job, etc., and don't generally possess strong hobbies or pursuits.
+group B folks, on the other hand, are those driven by abstract goals, have a set of interests which they keep pursuing, and generally experience a sense of accomplishment and being content in these abstract pursuits. This generally gets translated to ambition as well.
+
 
 Being in either groups is just fine, and in fact, most of us can identify belonging to both groups to different degrees. I've found folks in both groups to be happy and content--something we should aspire to achieve.
 So far, so good.
