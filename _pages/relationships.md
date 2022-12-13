@@ -17,7 +17,7 @@ If you have written out something like this: I would _love_ to read it--I do gen
 
 Another question to ask: why should you pay any close attention to what's written out in this document. While words have some value, actions speak louder.
 It's very easy to write out well-intentioned descriptions about oneself only to realize that, well, perhaps I am nothing like what my description reads. 
-Without necessarily being disingenuous, there may just exist a large gap between one's perception vs. their reality.   
+Without necessarily being disingenuous, there may just exist a large gap between one's perception of themselves vs. their reality.   
 Further, you may agree with my world-view today but may end up totally opposing it a couple years down the line. Likewise, you may just not have the perspective for what I'm going on about here, may find it obnoxious, but may actually come around to it sometime down the line (I've know folks with whom this has happened).
 All these are valid points; I'm aware of the perils of generalizing with perhaps just one incident that may have occurred to me which made me realize that learning.  
 So use this document how you will. But if you're thinking too much about how you could use this to "assess" whether I stay true to my words: you've already lost me. What I hope for is this document helps *you* think about what *you* want and who *you* are. In my mind, this is as much a tool to look inward and discover yourself as it is to discover me.
