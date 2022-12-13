@@ -12,7 +12,7 @@ Why? Why is it essential for everything to be quick and efficient? Why does dati
 Well, to me, while there are many intangibles to finding a great partner, it is important to share some non-negotiable set of values with them. After the "looks and charm"-phase settles down, I believe a good, functional partnership will boil down to these non-negotiables. And I'd like to let you know what I've discovered about myself over these years. 
 Unfortunately, most people don't recognize the core set of values they possess, and when they do, many are unable to articulate it to others. This incapacity extends to the set of values they expect in a partner. Hopefully, this document conveys such nuances.
 
-In addition to potentially reducing the time it will take to learn some details about me (see footnote 1.), this document is also self-serving: I use it as a tool to document my thoughts on dating, relationships, etc., which in turn helps me think clearly. It should hopefully give you an insight about how I think about these situations, thus helping you gauge how I'd respond to new situations which I may not have encountered before or mentioned here. Will that be useful to you? <shrugs shoulders> I don't know. Maybe? Again, if nothing, this document helps my clarity in thought.
+In addition to potentially reducing the time it will take to learn some details about me (see footnote 1.), this document is also self-serving: I use it as a tool to document my thoughts on dating, relationships, etc., which in turn helps me think clearly. It should hopefully give you an insight about how I think about these situations, thus helping you gauge how I'd respond to new situations which I may not have encountered before or mentioned here. Will that be useful to you? &lt;shrugs shoulders&gt; I don't know. Maybe? Again, if nothing, this document helps my clarity in thought.
 If you have written out something like this: I would _love_ to read it--I do genuinely like to learn how people think.
 
 Another question to ask: why should you pay any close attention to what's written out in this document. While words have some value, actions speak louder.
@@ -23,7 +23,7 @@ So use this document how you will. But if you're thinking too much about how you
 
 Also, to add perspective, I was perhaps 27 years old when these ideas crystallized in my head. I had dated one woman until then. I'm 30+ and I still agree with most of these thoughts.
  
-After a thrilling setup <wears his shades>, here goes--my thoughts on things I value in myself and in a partner:
+After a thrilling setup &lt;wears his shades&gt;, here goes--my thoughts on things I value in myself and in a partner:
 
 **- Decent human being:** This to me is a deal-breaker. I use the word 'decent' applied in its broadest sense. If you're generally a dick, are pretentious, are self-serving, conniving, scheming, or disrespectful: we will not get along. The kinder and more respectful you are to _everyone_ and _everything_ around you _unconditionally_--for the sake of being kind and respectful really--the more you have my respect, which will eventually translate to deep affection. There's a distinct sense of warmth I experience when I interact with folks who're kind and respectful; people also generally characterize such interactions as "being genuine". If that doesn't happen between us, you'll likely just interact with a "formal" me instead.
 
@@ -36,17 +36,18 @@ One unfortunate side-effect of kindness I notice is that it often co-exists with
 Another (sorta) related trait that I deeply admire: general conscientiousness. I find it hard to connect with people who are apathetic and cynical about the world around them. I detest talkers--who can talk on and on about things, have lofty opinions, generally cynical, on everything from politics to sports, but don't really act on anything.
  
 **- A theory of partners:** I have a theory of partners which also explains more about how I view this world.
-I find people are generally subscribe to one of the two following groups: 
+I find people generally subscribe to one of the two following groups: 
 
 **group A**: those who find purpose and happiness in the material, and **group B**: those who find it in the abstract. 
 
 group A folks, in my experience, are those who perhaps may not have identified a sense of self yet, are content with pursuing "standard" goals like buying a house, owning fancy stuff, having a reasonably challenging job, etc., and don't generally possess strong hobbies or pursuits.
 
-group B folks, on the other hand, are those driven by abstract goals, have a set of interests which they keep pursuing, and generally experience a sense of accomplishment and being content in these abstract pursuits. This drive generally also gets translated as ambition in these folks.
+group B folks, on the other hand, are those driven by abstract goals, have a set of interests which they keep pursuing, and generally experience a sense of accomplishment in these abstract pursuits. This drive generally also gets translated as ambition in these folks.
 
 
 Being in either groups is just fine, and in fact, most of us can identify belonging to both groups to different degrees. I've found folks in both groups to be happy and content--something we should aspire to achieve.
 So far, so good.
+
 However, when it comes to partners, I have noticed the following:
 1. if both partners are from group A, they will likely be quite happy and content.
 2. if both partners are from group B, there will be friction on who gets to "trade-off more" for the relationship to function healthily. This will likely happen because both would value their work/activities more, and as a consequence, will find it hard to manage their relationships. If they are both empathetic individuals, they'll likely figure out what sacrifices each has to make, and when communicated right, will likely find a way out.
@@ -58,9 +59,9 @@ Having laid out this grand theory of mine, let me place myself in its context: I
 It is important for my partner to thus introspect and identify what their tastes are, and what motivates them.
 Where will they derive their happiness from on a day-to-day basis? Is it from their partner? If yes, will they be okay if their partner (in this case, me) doesn't reciprocate in equal measure? That's something to consider seriously.
 
-An unfortunate side-effect of such thought exercises is that .a. it's easy to fool oneself by claiming to be okay about something until experiencing it, which would change our minds .b. you (I) may genuinely not know what your (my) preferences are, and .c. your (and my) preferences can change (quite dramatically) over time. So consider this thought experiment with that grain of reality-salt.
+An unfortunate reality of such thought exercises is that .a. it's easy to fool oneself by claiming to be okay about something until experiencing it, which would change our minds .b. you (I) may genuinely not know what your (my) preferences are, and .c. your (and my) preferences can change (quite dramatically) over time. So consider this thought experiment with that grain of reality-salt.
 
-A related note:
+A related note:   
 Over the years, I've also realized that group A likely attracts more consumers while group B attracts the creators.
 Creators are those who have an urge to create things, be it a song, a painting, a piece of software, a short film: essentially taking a germ of an idea and executing it until they see a finished product in front of them.
 Consumers are those who, sometimes unhealthily, like to consume: information, music, paintings---pretty much anything that the creators create. While there's nothing wrong with being a consumer, I personally feel a strong sense of irritation and discomfort at being "greedily" just consuming without creating anything worthwhile.
@@ -70,12 +71,16 @@ Being a consumer is definitely fun, but it is easy. We rely on creators for our 
 
 Side note - I sometimes see "enjoying" the benefits of material comforts also as a form of consumption, which I hence very quickly find repulsive. There's of course a balance there--I'm not a machine, and neither am I perfect. I do enjoy my fair dose of consumption. But generally, this is what's playing at the back of my mind when I'm consuming for a while, after which I'll look inward and be tempted to quickly act on it and compensate for that consumption streak.
 
-A corollary (and an unfinished chain of thought at that; will revisit sometime): 
-I find it hard to idolize and blindly follow another person's footsteps. I identify and greatly respect creators in an ecosystem (they are a rare species) and I will do my best to encourage as many to be creators themselves and do my best in creating such ecosystems for others. But I can't come to terms with idolizing someone to the extent where I'm following their instructions blindly in achieving a common goal. I will perhaps if it's a goal I deeply resonate with (most tasks I take up are pre-conditioned on me resonating with it), but I'm always a little uneasy. In such cases, I will always have a mind of my own and will constantly evaluate how I'd have achieved that goal had I done it myself and see whether the instructions given to me match my conclusions. Is that an artifact of wanting to be a creator? <shrugs shoulder>
+A corollary (and an unfinished chain of thought at that; will revisit sometime):   
+I find it hard to idolize and blindly follow another person's footsteps. I identify and greatly respect creators in an ecosystem (they are a rare species) and I will do my best to encourage as many to be creators themselves and do my best in creating such ecosystems for others. But I can't come to terms with idolizing someone to the extent where I'm following their instructions blindly in achieving a common goal. I will perhaps if it's a goal I deeply resonate with (most tasks I take up are pre-conditioned on me resonating with it), but I'm always a little uneasy. In such cases, I will always have a mind of my own and will constantly evaluate how I'd have achieved that goal had I done it myself and see whether the instructions given to me match my conclusions. Is that an artifact of wanting to be a creator? &lt;shrugs shoulder&gt;
 
 **- Communication:** What also comes with humility and kindness is the ability to communicate without ego getting in the way.
 I respect, practice, and expect frank and timely communication. I've written [a note on the importance of communication in a professional setting](https://csresearch101.netlify.app/m4.html#communicating-with-sincerety).   
 I respect and exercise the same set of values in my personal relationships as well.
+
+These three values to me are essential. Everything else can be worked out. 
+
+---
 
 **Footnote 1 (January 2021):** The intended purpose of fast-tracking this process has failed on the two occasions I've used it :-) Expected, but only kinda.
 
