@@ -59,7 +59,7 @@ Having laid out this grand theory of mine, let me place myself in its context: I
 It is important for my partner to thus introspect and identify what their tastes are, and what motivates them.
 Where will they derive their happiness from on a day-to-day basis? Is it from their partner? If yes, will they be okay if their partner (in this case, me) doesn't reciprocate in equal measure? That's something to consider seriously.
 
-An unfortunate reality of such thought exercises is that .a. it's easy to fool oneself by claiming to be okay about something until experiencing it, which would change our minds .b. you (I) may genuinely not know what your (my) preferences are, and .c. your (and my) preferences can change (quite dramatically) over time. So consider this thought experiment with that grain of reality-salt.
+An unfortunate reality of such thought exercises is that .a. it's easy to fool oneself by claiming to be okay about something while the reality is the opposite .b. you (I) may genuinely not know what your (my) preferences are, and .c. your (and my) preferences can change (quite dramatically) over time. So consider this thought experiment with that grain of reality-salt.
 
 A related note:   
 Over the years, I've also realized that group A likely attracts more consumers while group B attracts the creators.
