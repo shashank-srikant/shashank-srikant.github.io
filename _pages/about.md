@@ -36,4 +36,4 @@ I also spent a year understanding how a state government delivers its <a href="h
 
 - <p> <a href="https://shashank-srikant.github.io/tag/papers/">My papers</a></p>
 
-- <p>If you are getting started with research in CS, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/">see my notes on it</a></p>.
+- <p>If you are getting started with research in CS, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/">see my notes on it</a></p>
