@@ -79,7 +79,7 @@ Is that an artifact of wanting to be a creator? &lt;shrugs shoulder&gt;
 I respect, practice, and expect frank and timely communication. I've written [a note on the importance of communication in a professional setting](https://csresearch101.netlify.app/m4.html#communicating-with-sincerety).   
 I respect and exercise the same set of values in my personal relationships as well.
 
-These three values to me are essential. Everything else can be worked out. 
+These three values---being a decent human being, realizing one's inner motivations, and communication---to me are essential. Everything else can be worked out. 
 
 ---
 
