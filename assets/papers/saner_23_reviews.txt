@@ -1,0 +1,146 @@
+
+SUBMISSION: 3243
+TITLE: CLAWSAT: Towards Both Robust and Accurate Code Models
+
+-------------------------  METAREVIEW  ------------------------
+Dear authors, thank you for submitting to SANER.
+
+All reviewers agree that this is an interesting work. However, they also raise some concerns, which are expected to be addressed in the camera-ready version:
+
+- The overall metrics are not clearly described.
+- Insufficient comparison in the experiment, in particular, no comparison to natural attack with pre-trained models.
+- The evaluation is suggested to be restructured into Research Questions.
+- The novelty is relatively plain, since the applied techniques are all from ML/NLP areas. But because of the good performance, this work still provides acceptable contributions.
+
+
+
+----------------------- REVIEW 1 ---------------------
+SUBMISSION: 3243
+TITLE: CLAWSAT: Towards Both Robust and Accurate Code Models
+AUTHORS: Jinghan Jia, Shashank Srikant, Tamara Mitrovska, Chuang Gan, Shiyu Chang, Sijia Liu and Una-May O'Reilly
+
+----------- Overall evaluation -----------
+SCORE: 2 (accept)
+----- TEXT:
+This paper aims to tackle a problem of self-supervision code model, namely, the poor robustness under adversarial attacking. Specifically, the authors proposed CLAWSAT, which integrates contrastive learning (CL) with adversarial learning, such that the robustness and accuracy of code models are expected to be co-improved. CLAWSAT uses adversarially-obfuscating codes as positive views of CL in order to enhance the robustness, and adopts staggered adversarial training (SAT) to preserve the robustness of the model.
+
+Comprehensive experimental study shows that CLAWSAT consistently outperform the baselines in terms of the robustness  and accuracy in three different downstream tasks.
+
+
+
+Pros and Cons
+----------------
+
+Pros:
+
++ A novel and intuitive idea that aims to achieve both the robustness and accuracy of code model at the same time
++ The comprehensive experiment shows promising performance of the proposed approach
+
+Cons:
+
+- The overall metrics are not clearly described
+
+
+Detailed Comments
+----------------------
+
+In general, this paper has relatively good significance, novelty, soundness, and presentation.
+
+* Significance: Contrastive learning (CL) based self-supervision has shown promising performance in deep learning code models, in terms of its relatively good accuracy. However, the robustness is not considered by these methods. It is true that vulnerable models under adversarial attacking will lead to unreliable results, and hence this problem should be taking into account.
+
+* Novelty: The paper is novel in terms of the integration of two tasks, namely, contrastive learning and adversarial learning, in order to improve the accuracy and robustness at the same time. But the adopted solutions are not new.
+* Soundness: Overall, the proposed method looks sound. The experiment design is reasonable, which not only compares the robustness with the baseline CL method, but also demonstrates advantage in the accuracy. And the three different tasks show relatively good generality of CLAWSAT. Apart from the above comment, I have one suggestion on Section V: In paragraph 1, the authors wrote "Speciffcally, for each of our models, we reuse the two F1 scores metrics: GEN-F1- the model’s generalization performance on a task, and ROB-F1-the model’s performance on the task when semantics-preserving, adversarially-transformed obfuscated codes are input to it; see details below." However, it is not clear where exactly the details of these metrics are. 
+
+* Presentation: Overall, the paper is easy to follow.
+
+
+
+----------------------- REVIEW 2 ---------------------
+SUBMISSION: 3243
+TITLE: CLAWSAT: Towards Both Robust and Accurate Code Models
+AUTHORS: Jinghan Jia, Shashank Srikant, Tamara Mitrovska, Chuang Gan, Shiyu Chang, Sijia Liu and Una-May O'Reilly
+
+----------- Overall evaluation -----------
+SCORE: 1 (weak accept)
+----- TEXT:
+Summary:
+
+        The main goal of this paper is to study the robustness and accuracy benefits of code obfuscation in code models. To do this the authors develop a novel self-supervised learning framework for code where they integrate contrastive learning with adversarial views and staggered adversarial training. The overall approach is designed around two main steps, i) adopting adversarial codes in contrastive learning at the self-supervised pre-training phase and ii) at the supervised fine-tuning stage, conducting adversarial training by using a staggered schedule for adversarial code generation so that it can further improve the robustness and accuracy of the pretrained stage. The authors designed the evaluation to study the generalizability & robustness of the approach. Evaluation results show that, for the three considered downstream tasks on Python and Java datasets, the proposed approach yields the best robustness and accuracy.
+
+
+Comments:
+
+Originality and Importance of Contribution:
+
+•       This paper studies the potential benefits to both robustness and accuracy of neural models of code, when adversarial techniques are incorporated in to the pre-training and fine-tuning phases. This paper largely adopts techniques introduced in the ML/NLP communities and applies them in a software engineering context. If these results do improve the accuracy/robustness of code models this represents an important contribution.
+
+Soundness:
+
+•       In general, I found the proposed approach and study carried out by the authors to be sound, particularly given that the proposed techniques are largely adapted from other domains and applied to code.
+
+Comparison with Related Work:
+
+•       In general, the authors do a good job surveying related work and differentiating their research.
+
+•       It should be noted that the main novelty of this paper is related to the staggered adversarial training for fine-tuning, as the authors have noted, contrastive learning for code has been investigated previously.
+
+Evaluation of Proposed Technique:
+
+•       The authors focus mainly on F-1 score across their tasks, but past work on contrastive learning [5], examine multiple metrics across different tasks. Additional metrics would have given a more complete view of the overall performance of the proposed training techniques.
+
+•       The evaluation could be much better structured if the authors centered the discussion around a set of research questions.
+
+•       The experiments are quite detailed and investigate several facets of the approach, including its complementarity to an existing contrastive learning technique. This is well done overall!
+
+Quality of Presentation:
+
+•       In general, I found the presentation of this paper to be well done.
+
+Availability of Code/Data:
+
+•       The authors make their code available as supplementary material.
+
+
+Overall Positives:
+
++ Important topic
++ Proposed Approach is sound
++ Extremely Thorough Evaluation
+
+Overall Negatives:
+
+- The work is somewhat incremental, and only illustrates marginal improvement over ContraCode.
+
+
+
+----------------------- REVIEW 3 ---------------------
+SUBMISSION: 3243
+TITLE: CLAWSAT: Towards Both Robust and Accurate Code Models
+AUTHORS: Jinghan Jia, Shashank Srikant, Tamara Mitrovska, Chuang Gan, Shiyu Chang, Sijia Liu and Una-May O'Reilly
+
+----------- Overall evaluation -----------
+SCORE: 2 (accept)
+----- TEXT:
+The paper investigates robustness against adversarial attacks with contrastive learning in a pre-training/fine-tuning setting (i.e., self-supervised learning).
+
+[Soundness]
+
+The paper seems generally sound, although the technical contribution is rather small: Both the introduced perturbations -- called obfuscations in the paper -- as well as the optimizations applied have already been in existing work. However, the studied setting is unique enough and the evaluation rigorous enough to warrant a contribution.
+
+There is one major point wrt. soundness I want to comment on:
+
+  - No comparison to natural attack with pre-trained models: There is a recent paper "Natural Attack for Pre-trained Models of Code", ICSE'22 that, while following a different attack methodology, also investigates the adversarial robustness of pre-trained models. Ideally, there would be a comparison in the experiments of this paper, but at the very least, the papers should be conceptually compared in the related work.
+
+[Significance, Novelty]
+
+I think this particular research question, i.e., code model adversarial robustness in pre-trained vs. fine-tuned models is a unique contribution to software engineering research.
+
+As mentioned in soundness, I think there needs to be at least a thorough discussion of how this paper compares to the paper on natural attacks on pre-trained models.
+
+[Replication/Reproducibility]
+
+The paper provides a replication package as part of the submission. I hope the authors will also make the package available on an archival repository
+
+[Presetnation]
+
+The approach and overall empirical investigation were very well presented (well written, good structure, good use of figures and tables). I am a big fan of self-contained captions. So even though it seems like they are a bit on the longer side here, I like it!
