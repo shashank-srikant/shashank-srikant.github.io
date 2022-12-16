@@ -7,7 +7,7 @@ tags: papers ml-for-plse program-representation minmax-optimization
 
 ---
 <div class="publications">
-    {% bibliography -f papers -q @*[key=jiasrikant2023clawsat]* %}
+    {% bibliography -f papers -q @*[key=srikant2022clawsat]* %}
 </div>
 
 ## Abstract 
