@@ -31,4 +31,4 @@ We make all the corresponding code, data, and analysis publicly available at htt
 
 [Slides, Talk video](https://neurips.cc/virtual/2022/poster/53867)
 
-Press - 
+Press - [MIT News](https://news.mit.edu/2022/your-brain-your-brain-code-1221)
