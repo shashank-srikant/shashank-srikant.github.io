@@ -1,0 +1,88 @@
+Review #1
+
+What is this paper about and what contributions does it make?
+This paper presents a tool for generating sets of stimuli for use in psycholinguistic and neurolinguistic experiments.
+Reasons to accept
+·        Augmenting "hand-crafted" stimulus creation would be valuable across the cognitive science of language
+·        Demonstrated applications in crafting counterfactual minimal pairs of sentences designed to optimized fMRI response for language
+·        Potential for incorporating a variety of constraints into sentence generation
+Reasons to reject
+·        I am a bit concerned that the demonstrated applications are a bit over-simplified. One reason linguistic stimulus creation is challenging in the large majority of cases is that experimental demands place multiple constraints on sentence creation simultaneously; these constraints are typically symbolic ("object position with an inanimate noun modified by a subsequent adverbial" or "subject-relative clause with embedded animate noun" etc.). It was not clear to me how symbolic constraints of the relevant class can be imposed on the proposed model.
+·        I believe that the proposed software stack is English-only, which would limit the use of this as a tool
+Questions for the Author(s)
+I did not understand the fMRI-based sentence generation example. (The cited paper aims to identify a "language network" using coarse-grained language vs non-language contrasts). Examples of loss functions that are specific to more granular psycholinguistic/neurolinguistic comparisons might be valuable.
+Soundness:
+3
+Excitement (Long paper):
+3.5
+Reviewer Confidence:
+4
+Recommendation for Best Paper Award:
+No
+Reproducibility:
+3
+Ethical Concerns:
+No
+
+ -----------------------------------------
+
+Review #2
+
+What is this paper about and what contributions does it make?
+This paper proposes GOLI, a method for automatically generating stimuli for psycholinguistics and cognitive neuroscience experiments. Given an objective for the stimuli (for example, make the stimuli positive valence while matching other characteristics), GOLI efficiently searches for text sequences which optimize this objective. The paper evaluates GOLI on a counterfactual minimal-pair task and an fMRI-related task.
+Reasons to accept
+-The motivation for the paper is very strong. It would be useful to have methods that can automatically psycholinguistic stimuli, and GOLI seems well-designed for this task. Many experiments that psycholinguists want to perform could be straightforwardly fit into this framework.
+-The experiments are interesting, and while I have some concerns about Experiment 2, I am generally convinced by the results of Experiment 1. These results are strong enough to make it worth investigating GOLI more, to determine how well it generalizes in practice. Publishing the paper will further incentivize these valuable investigations.
+Reasons to reject
+-The method appears to be nearly identical to prior methods used for constructing adversarial examples for text. See HotFlip (Ebrahimi et al., 2018), and a substantial amount of follow-up work. It's fine for the paper to use this method for a new goal, but it should not claim novelty as it currently does.
+-The standard deviations in Table 1 are confusing (and are important, since they are used to compare the different methods). First, I believe the authors are describing standard errors rather than standard deviations? Second, how are SEs as low as 0.01 being achieved with a sample size of only 2245? It would be useful to clarify what the calculations were here.
+-The paper claims that GOLI improves over human generation of psycholinguistic stimuli because it is data-driven and therefore unbiased. This does not seem like a strong argument. The biases of neural models are more poorly understood than those of humans, but this does not mean that they are unbiased. It is possible that GOLI produces less biased stimuli than humans do, but this is something that would need to be experimentally assessed.
+-It would be useful to compare GOLI to a baseline in which an LLM is prompted to produce experimental stimuli with desired characteristics. The paper compares to a related baseline from Gururangan et al. (2020), but this used GPT-2 rather than a modern LLM.
+-Experiment 2 is fascinating, but the sentences generated for the high-response condition are concerning. They mostly seem like gibberish to me -- maybe an artifact of overoptimization rather than a fact about fMRI responses. It is of course possible that these sentences will cause high fMRI responses. If the prediction is verified in actual fMRI data, this will be very strong evidence for the usefulness of GOLI. However, as it stands, I do not think Experiment 2 provides evidence for GOLI.
+Soundness:
+3
+Excitement (Long paper):
+3.5
+Reviewer Confidence:
+3
+Recommendation for Best Paper Award:
+No
+Reproducibility:
+3
+Ethical Concerns:
+No
+
+-----------------------------------------
+
+Review #3
+
+What is this paper about and what contributions does it make?
+This paper proposed Goal-Optimized Linguistic Stimuli (GOLI) which automatically generates linguistic stimuli with desired properties for psycholinguistics and cognitive neuroscience in a data-driven fashion. The authors then evaluated the effectiveness of GOLI based on two different experiments such as counterfactual stimuli and linguistic stimuli predictive of high and low brain responses.
+
+Reasons to accept
+·        GOLI should be extremely useful for psycholinguists and cognitive neuroscientists, given that I understand how time-consuming the stimuli creation process is.
+·        The effectiveness of GOLI is empirically validated in both domains of psycholinguistics and cognitive neuroscience.
+
+Reasons to reject
+·        As correctly pointed out by the authors themselves, I don't think that GOLI cannot satisfy all the complex desired properties which psycholinguists and cognitive neuroscientists may require. For example, I wonder whether GOLI can be employed to automatically generate minimal pairs which theoretical linguists usually create.
+·        I don't understand the reason why those two different experiments (counterfactual stimuli and linguistic stimuli predictive of high and low brain responses) are empirical validations of the effectiveness of GOLI in the first place.
+·        The arguments become circular if linguistic stimuli should exist beforehand to measure brain responses and train GOLI to automatically create linguistic stimuli.
+
+Questions for the Author(s)
+Question A: Can GOLI be employed to satisfy all the complex desired properties which psycholinguists and cognitive neuroscientists may require and automatically generate minimal pairs which theoretical linguists usually create?
+Question B: Why are those two different experiments (counterfactual stimuli and linguistic stimuli predictive of high and low brain responses) are empirical validations of the effectiveness of GOLI in the first place?
+Question C: Should linguistic stimuli exist beforehand to measure brain responses and train GOLI to automatically create linguistic stimuli?
+Typos, Grammar, Style, and Presentation Improvements
+·        l.3: "with either specific linguistic properties or which target specific cognitive processes" -> "either with specific linguistic properties or which target specific cognitive processes"
+Soundness:
+2
+Excitement (Long paper):
+4.5
+Reviewer Confidence:
+4
+Recommendation for Best Paper Award:
+No
+Reproducibility:
+5
+Ethical Concerns:
+No
