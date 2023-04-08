@@ -1,6 +1,6 @@
 ---
 layout: distill
-title: RaceInjector: Injecting Races To Evaluate And Learn Dynamic Race Detection Algorithms
+title: RaceInjector - Injecting Races To Evaluate And Learn Dynamic Race Detection Algorithms
 description: Evaluating race detection algorithms proposed over the last four decades
 date: 2023-03-20
 tags: papers program-representation concurrency-bug-detection
