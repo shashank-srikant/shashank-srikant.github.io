@@ -20,7 +20,7 @@ git push --set-upstream origin master --force
 
 sleep 1
 
-git push origin --all
+git push --force origin --all
 
 git checkout source
 
