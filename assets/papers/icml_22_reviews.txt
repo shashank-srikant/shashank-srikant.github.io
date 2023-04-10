@@ -1,0 +1,115 @@
+Reviewer #1
+Questions
+1. Summarize the contributions made in the paper with your own words
+I thank the authors for their responses. R2 and I had a similar concern about the scientific question and relevance to the ICML audience. The authors attempt to address this, but much of what they say is the standard response to why work that examines relationships between the brain and ML models is important. I wholeheartedly agree that it is important (this is also one of my main areas of research), but I really wanted to see a stronger motivation for why they are studying code comprehension specifically. Their response to R2 tries to get at this question by saying that code comprehension in the brain is poorly understood. The rebuttal states that previous work has shown that code comprehension in the brain is different from natural language comprehension in the brain. But ML models for code comprehension are based on deep NLP models, and deep NLP models have already been shown repeatedly to predict brain activity recorded during natural language comprehension. So I am still unsure of the scientific motivation. I believe there is one but it needs to be clarified and motivated much more strongly. The relevance to the ICML community is strongly tied to the clarity of the motivation. If the motivation is not clear, I am not sure people will get much out of this work.
+
+I also had a second main concern regarding several of the statistics reported in the work. The authors responded to some of these concerns, but I don't find the rebuttal satisfactory regarding this question. For example, I still don't understand how the pvalues in Fig 3 were computed.
+
+I also strongly disagree with R4's assessment of the paper. This work is very much in line with recent work on aligning ML models with brain recordings (both in terms of methodology and results), which have been well received. I believe the current work is very close to publishable at an ML venue, once the scientific question and motivation are clarified.
+
+^^^^^^^^^^^^^^^^ POST-REBUTTAL ^^^^^^^^^^^^^^^^
+
+This work examines the relationship between fMRI recordings of people who read short programs and different properties and representations of the programming code. The aim of the work is to understand what properties of code are encoded by different brain systems, and to understand how similar the representations of code in the brain are to those encoded by self-supervised language models that are pretrained to encode programming code. The authors find that several program properties can be significantly decoded from 2 brain systems (the multiple demand system and the language system). They further find that representations of the programs extracted from several machine learning models of varying complexity can also be significantly related to these brain systems.
+
+2. Novelty, relevance, significance
+Relevance & Significance:
+The authors can do more to motivate the question of interest to the ICML audience. Currently it's not clear why it's important to understand why these specific properties of code that the authors examine, or the self-supervised model representations, are aligned with the brain representations of code. In its current form, the paper is perhaps better suited for a venue that specifically focuses on software engineering.
+
+Novelty:
+This work uses previously established methods for brain decoding, and it is not clear that there are significant advances either in the methodology or in the interpretation of existing methodology. By itself, this is not a fatal flaw (a paper can have value to the community without such novelty).
+3. Soundness
+Good
+4. Quality of writing/presentation
+Excellent. This paper is very well written, though the research questions can be better motivated. There are just a few minor typos (see miscellaneous minor issues below)
+5. Literature
+The paper cites most of the important related works regarding the neural basis of program comprehension.
+6. Basis of review (how much of the paper did you read)?
+I read the whole paper
+7. Summary
+Questions and comments for authors:
+
+Interpretation of results:
+- L265 Left: "we do not decode any meaningful information from the Auditory system". Fig 3 shows that the code vs sentence classification can be significantly done using the Auditory system. The authors need to discuss the implications of this and amend their statement in L265.
+- ~L239 Right column: "suggest that these brain systems do not seem to rely on variable names as a meaningful feature". Are the variable names important for understanding the meaning of the program? The programs are very short to begin with so it's not clear to me that making note of the variable names would be important for understanding the program. In other words, the systems may not be relying on the variable names because the task does not require it, and not because the systems generally do not rely on variable names. The authors should clarify this.
+- ~L270 Right column: "we do find that the two brain systems individually encode these properties, which is a new result." Several works in natural language comprehension have shown that both the traditionally left-lateralized language system and its right hemisphere equivalent + some medial regions are well predicted by the semantics of the observed stimulus (Toneva and Wehbe, NeurIPS 2019; Toneva, Mitchell, and Wehbe, bioRxiv 2020). The MD system seems to overlap with some of these right hemisphere regions that have been previously reported. It would be good if the authors can put their results in perspective with these previous findings in natural language comprehension.
+- The authors also find that the alignment between code representations from models and their investigated brain systems can be explained in large part by token-level information. I would like to point the authors to the work from Toneva, Mitchell, and Wehbe, bioRxiv 2020 which also report that the alignment between the bilateral language network and some medial regions and representations from language models (for natural language) is largely due to word-level information. They further find that the bilateral ATL and PTL capture supra-word information. Understanding the differences between brain alignment with natural language vs code comprehension models is an interesting direction for future work, but the authors' current findings seem to align with the previously reported results in the natural language literature.
+
+Analysis:
+- decoding from Visual System vs Visual System + Language/MD system: can the performances be compared directly since the number of input features in the two models is different?
+
+Statistics:
+- Fig 3/4: is the chance performance (dotted line) really calculated using permutation tests? If that's the case, it seems odd that it would be exactly the same as the theoretical chance performance and also the same across all brain systems. I would like the authors to clarify this. In my experience, the chance performance from a permutation test varies when changing the input and output variables in the decoding/encoding.
+- I don't understand how the p-values were computed for Fig 3. The authors train one decoding/encoding model per subject and it's not clear how these models are combined. The authors need to specify the hypothesis test used to compute the pvalues, as well as the type of FDR correction that they do.
+- For the pairwise differences between systems, should the hypothesis test be a 2 sample t-test, or a paired t-test? It's not clear whether the samples that the authors are comparing are from the same subject or not. If they are, then they should be compared using a paired t-test because the two samples they are comparing are not independent.
+- Fig 5: shouldn't the lang token projection also have a distribution of accuracies across subjects? It seems that there should be a mean and a confidence interval associated with that number, and then the authors should test for a significant difference between the samples for the same subject using a paired t-test. Also, the tests for differences between LS and MD should be done via paired t-tests (it's not clear what the authors used, the appendix says "pairwise t-tests between regions").
+8. Miscellaneous minor issues
+Typo: L9, page 1, right column "to systematic" -> "no systematic"
+Fig 2 is too small. I also don't find it particularly helpful but perhaps others who are less familiar with decoding/encoding would.
+How were the visual and auditory systems localized?
+L381: "We significance test.." -> "we test .. for significance"
+10. [R] Phase 1 recommendation. Should the paper progress to phase 2?
+Yes
+
+===================================================================================
+
+Reviewer #2
+Questions
+1. Summarize the contributions made in the paper with your own words
+This paper answers very interesting questions whether human brains can encode programming codes, and it further investigates the relationships between ML-trained models and human brain. Regression and classification with Ridge models are performed to analyze fMRI signals with a task of reading computer codes, and the results show evidences that there are certain aspects that human brain and ML-based models behave in a similar way.
+2. Novelty, relevance, significance
+This work is novel such that it connects the dots between human learning and ML. It shows interesting results and some hints that the learning mechanisms of human and ML models may be similar.
+3. Soundness
+The curation of experiments are sound.
+4. Quality of writing/presentation
+Clearly written, but it was difficult to imagine exact experimental design and justification of the setup until I got to certain pages of the text.
+Also, many important details are given in the supplementary instead of the main text.
+5. Literature
+Okay.
+6. Basis of review (how much of the paper did you read)?
+I read the entire paper and partially from the appendix.
+7. Summary
+Pros:
+Please see section 1-3 above.
+
+Questions:
+- Why is it important to analyze how the human brain encodes computer codes? Is this supposed to be a more difficult and useful task than encoding images/sound/text? Yes, studies have been done in these aspects but what ML related contributions is this work making?
+
+- Are the participants in the study (dataset) familiar with computer programming? I think the subjects should be programmers for information to be encoded in the brain otherwise codes will be seen as some random text.
+
+- The authors are using 4 brain systems. Are they defined by separate experts or data-driven manner? Are they well understood in the neuroscience community? Are these systems independent from each other? Why was the Auditory system included when the authors did not expect to see any activity? It is important to justify these systems as they are the basis to understand how human brain codes computer codes.
+
+- Ridge regression will merely identify if there is a relationship. Was there any effort to try other models with better interpretability?
+
+- The experiments are performed at the system level, but how about at the ROI level? As the authors mentioned in the text, primary target of previous studies were to locate ROIs in the brain related to certain activities. The systems used in this paper is much more in a high level than the ROIs and this type of analysis at the ROI level should be able to explain the result better. Was there any limitation for doing it?
+
+----- After the rebuttal-----
+Although the authors have addressed some of my concerns, there still are many doubts to be resolved.
+The motivation should be better addressed: simply saying little have been done may not be convincing and doesn't tell why one should care. Also, the manuscript should be carefully revised to target specific community; I feel like this manuscript has been around for a while to address several concerns raised from different communities.
+10. [R] Phase 1 recommendation. Should the paper progress to phase 2?
+Yes
+
+===================================================================================
+
+Reviewer #4
+Questions
+1. Summarize the contributions made in the paper with your own words
+The authors present a somewhat controversial collection of ideas related to Python code comprehension with claims related to human brain activity. Although a long "notebook style" introduction and background have been presented, those sections seem to be summaries of a cited paper from eLife entitled "Comprehension of computer code relies primarily on domain-general executive brain regions," so are the majority of recycled references from that paper. The authors shall clearly state from the beginning that they use open-source data and code from that publication and skip summarizing (notebook style) of that publication. That eLife publication is already controversial, as the presented research design was very tricky, comparing natural language comprehension (reading) with a computer code analysis (visuospatial task, since generally human programmers never read computer code sequentially). Additionally, that eLife manuscript included a tiny neuroimaging study number of participants (please check the following publication for guidance: Marek, S., Tervo-Clemmens, B., Calabro, F.J. et al. Reproducible brain-wide association studies require thousands of individuals. Nature 603, 654–660 (2022). https://doi.org/10.1038/s41586-022-04492-9).
+Another problem is with the choice of fMRI, which has a terrible temporal resolution for a language comprehension study, so the results "light up" half of the cortex (language areas for text and executive for visuospatial code scanning). Somehow much better modalists are not considered (EEG, ECoG, etc.), an additional weakness.
+Based on the above weaknesses, the authors further analyze a subset of the above eLife study resulting in "just above chance level" accuracies in a single subject (obviously, everybody was scanning code with different visuospatial strategies) and cross-validation strategies.
+2. Novelty, relevance, significance
+Unforutatetely not much. No new experiment to gather original data was conducted; the authors used a small part of a questionable dataset from another study and applied off-the-shelf available machine learning methods with just above chance level results—everything from a tiny, as for neuroimaging standards, dataset.
+3. Soundness
+A very hard-to-read manuscript with neuroscience ideas and references recycled from another manuscript. No new discussion related to required and better temporal resolution methods (EEG, ECoG, etc.) was included. Relatively standard machine models apply with little experimental evidence due to the tiny subject sample and questionable experimental design of the data source. The authors claim human brain activity is related to text analysis by clearly overfitting their models on small datasets.
+4. Quality of writing/presentation
+A very hard-to-read manuscript and surprisingly missing details of the standard machine learning models application.
+5. Literature
+Recycled from the original eLife publication (data source) and missing more appropriate studies related to proper temporal resolution methods. Even if the authors disagree that the temporal aspect of speech comprehension could be ignored, such statements and references shall be included.
+6. Basis of review (how much of the paper did you read)?
+I did my best to read the whole manuscript.
+7. Summary
+It is tough to summarize the manuscript. The authors start from many claims that brain language comprehension is similar to Python code reading, but as stated in my comments above, the original experimental design was very questionable (text reading versus code visuospatial scanning). The authors use part of the data from a previous open-access study and further divide the analysis into smaller segments resulting in chance level accuracies from a tiny neuroimaging study (24 subjects). fMRI is only a proxy of brain activity, thus requiring more extensive studies to avoid non-reproducible results.
+8. Miscellaneous minor issues
+UPDATE AFTER AUTHOR FEEDBACK:
+The reviewer appreciates the feedback.
+The reviewer apologizes for the slippery "notebook-style" metaphor relating to recycling knowledge and partial methods' reuse from a previous publication, which shall be avoided for review clarity.
+Unfortunately, that reviewer did not find convincing arguments to change the initial decision. The paper shall be rejected based on a small subject sample and questionable experimental paradigm, lack of novelty in machine learning methods, and close to a chance level final "within-subject" results.
