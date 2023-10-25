@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>ವಂದನೆಗಳು! I consult with startups and organizations to design and deploy products that utilize machine learning/AI, generative ML, program analysis techniques, and data analysis. I have a PhD in AI/ML, and my extensive research background has equipped me with the skills to simplify complex jargon and convert vague problem descriptions into precise requirements and specifications. With more than a decade of experience, I specialize in seamlessly integrating AI/ML into enterprise-grade software products. I have worked with Fortune 500 orgs like Amazon, Microsoft, JD, Tencent, where I've integrated AI products into their workflows. <small><a href="https://shashank-srikant.github.io/bio.txt">[Third person bio]</a></small>
+<p>ವಂದನೆಗಳು! I consult with startups and organizations to design and deploy products that utilize machine learning/AI, generative ML, program analysis techniques, and data analysis. I have a PhD in AI/ML, and my extensive research background has equipped me with the skills to simplify complex jargon and convert vague problem descriptions into precise requirements and specifications. With over a decade of experience, I specialize in seamlessly integrating AI/ML into enterprise-grade software products. I have worked with Global 500 organizations such as Amazon, Microsoft, JD, and Tencent, where I integrated AI products into their workflows. <small><a href="https://shashank-srikant.github.io/bio.txt">[Third person bio]</a></small>
 </p>
 
 <p>
