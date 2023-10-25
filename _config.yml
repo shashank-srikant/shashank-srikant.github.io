@@ -6,7 +6,7 @@ title: Shashank # the website title (if blank, full name will be used instead)
 first_name: Shashank
 middle_name: 
 last_name: Srikant
-email: shashank.srikant+web@gmail.com
+email: shashank.consult.work+web@gmail.com
 description: Home | Shashank # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
