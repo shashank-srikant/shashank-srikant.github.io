@@ -13,6 +13,5 @@ It's a common Indian male name.
 
 Call me "shash" if that's convenient.
 
-My surname **Srikant** is my father's first name.
-
+My surname **Srikant** is my father's first name.  
 It is a [patronym](https://en.wikipedia.org/wiki/Patronymic#India), prevalent in the Indian sub-continent.
