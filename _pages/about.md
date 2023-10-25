@@ -21,12 +21,12 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-<p>ವಂದನೆಗಳು! I consult with startups and organizations to design and deploy products that utilize machine learning/AI, generative ML, program analysis techniques, and data analysis. I have a PhD in AI/ML which has trained me rigorously to cut through a lot of jargon and hazy descriptions and distill them into concrete requirements and specifications. I have over a decade's experience in integrating AI/ML into enterprise-grade software products. I have worked with Fortune 500 orgs like Amazon, Microsoft, JD, Tencent, where I've integrated AI products into their workflows.
+<p>ವಂದನೆಗಳು! I consult with startups and organizations to design and deploy products that utilize machine learning/AI, generative ML, program analysis techniques, and data analysis. I have a PhD in AI/ML, and my extensive research background has equipped me with the skills to simplify complex jargon and convert vague problem descriptions into precise requirements and specifications. With more than a decade of experience, I specialize in seamlessly integrating AI/ML into enterprise-grade software products. I have worked with Fortune 500 orgs like Amazon, Microsoft, JD, Tencent, where I've integrated AI products into their workflows. <small><a href="https://shashank-srikant.github.io/bio.txt">[Third person bio]</a></small>
 </p>
 
 <p>
 During my PhD, I explored problems at the intersection of machine learning, program analysis, and cognitive neuroscience. I wanted to understand how programs are represented - both by our brains and by machines. 
-<a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">This CSAIL research spotlight</a> described my work and interests.  <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">This conversation</a> also provided an overview of my research interests. <small><a href="https://shashank-srikant.github.io/bio.txt">[Third person bio]</a></small>
+<a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">This CSAIL research spotlight</a> described my work and interests.  <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">This conversation</a> also provided an overview of my research interests.
 </p>
 
 <p>Before my PhD, I was a senior research engineer at Aspiring Minds' <a href="http://research.aspiringminds.com">research lab</a>.

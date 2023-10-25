@@ -1,20 +1,9 @@
-=============================
-Short
-=============================
 
-Shashank is currently a Ph.D. candidate in computer science at the CS & AI Lab (CSAIL), in the department of EECS at MIT. He is advised by Una-May O'Reilly. His research interests are at the intersection of machine learning, program analysis, and cognitive neuroscience. Prior to grad school, he managed a research group at a startup innovating in ML-based tools for skill assessments.
+Shashank consults with startups and organizations to design and deploy products that utilize machine learning/AI, generative ML, program analysis techniques, and data analysis. His extensive research background has equipped him with the skills to simplify complex jargon, and convert vague problem descriptions into precise requirements and specifications. With more than a decade of experience, he specializes in seamlessly integrating AI/ML into enterprise-grade software products. He has worked with Fortune 500 orgs like Amazon, Microsoft, JD, Tencent, where he has integrated AI products into their workflows.
 
-Details on his work are available on his webpage - https://shashank-srikant.github.io/
+Shashank has a Ph.D. in computer science from the department of electrical engineering and computer science at MIT. His PhD focused on topics at the intersection of machine learning, program analysis, and cognitive neuroscience. Prior to grad school, he managed a research group at a startup innovating in ML-based tools for skill assessments.
 
-=============================
-Long
-=============================
+He is also interested in governance. To understand the nuances of how state governments deliver benefits to people, he worked for a year in rural Bihar in India with Seva Setu, an organization which helped people avail government welfare services. He is also interested in, and actively contributes to, local civic administration.
 
-Shashank is currently a Ph.D. candidate in computer science at the CS & AI Lab (CSAIL), in the department of Electrical engineering and Computer science (EECS) at MIT. He is advised by Una-May O'Reilly. His research interests are at the intersection of machine learning, program analysis, and cognitive neuroscience. He has published his work at top-tier academic venues and has authored multiple patents.
-
-Before joining the Ph.D. program, he was a senior researcher at Aspiring Minds' research lab, where he researched, deployed, and managed a number of innovative products involving machine learning. These products are used by >1M job applicants across the world today. In this role, he also helped organize international workshops, led academic collaborations, and helped set up communities in India to participate and engage in ML and data science (http://www.datasciencekids.org, http://ml-india.org).
-
-He is also interested in governance. To understand the nuances of how state governments deliver benefits to the last-mile, he worked with Seva Setu, an organization which aims to bridge the gap between governments and people, for a year in rural Bihar in India.
-
-Details on his work can be found on his webpage - https://shashank-srikant.github.io/
+You can find more information about his work on his webpage: https://shashank-srikant.github.io/
 
