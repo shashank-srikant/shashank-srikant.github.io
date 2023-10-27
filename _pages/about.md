@@ -35,6 +35,8 @@ I also spent a year understanding how a state government delivers its <a href="h
 
 #### Links
 
-- <p> <a href="https://shashank-srikant.github.io/tag/papers/">My papers</a></p>
+- <p> <a href="https://shashank-srikant.github.io/tag/papers/">My academic papers on ML, program analysis, cognitive neuroscience</a></p>
 
-- <p>If you are getting started with research in CS, <a href="https://shashank-srikant.github.io/notes/aspiring-academics/">see my notes on it</a></p>
+- <p><a href="https://shashank-srikant.github.io/notes/thesis/">My PhD thesis</a></p>
+
+- <p><a href="https://shashank-srikant.github.io/notes/aspiring-academics/">My short course</a> on getting started with research in CS (particularly applicable to undergraduates).</p>
