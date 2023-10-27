@@ -26,7 +26,7 @@ social: false # includes social icons at the bottom of the page
 
 <p>
 During my PhD, I explored problems at the intersection of machine learning, program analysis, and cognitive neuroscience. I wanted to understand how programs are represented - both by our brains and by machines. 
-<a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">This CSAIL research spotlight</a> described my work and interests.  <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">This conversation</a> also provided an overview of my research interests.
+<a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">This CSAIL research spotlight from 2021</a> described my work and interests.  <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">This conversation from 2021</a> also provided an overview of my research interests.
 </p>
 
 <p>Before my PhD, I was a senior research engineer at Aspiring Minds' <a href="http://research.aspiringminds.com">research lab</a>.
