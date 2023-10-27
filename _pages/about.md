@@ -25,7 +25,7 @@ social: false # includes social icons at the bottom of the page
 </p>
 
 <p>
-During my PhD, I explored problems at the intersection of three areas that at first glace will seem very different and disconnected---machine learning, program analysis, and cognitive neuroscience. I wanted to understand how programs are represented - both by our brains and by machines. I was one of the very few studying problems at this intersection---it requires an expertise in all three areas. Read my <a href="https://shashank-srikant.github.io/assets/pdf/srikant-shash-phd-eecs-2023-thesis-ack-intro.pdf">thesis acknowledgement and introduction chapters</a> to know more about what got me started in this space.  
+During my PhD, I explored problems at the intersection of three areas that at first glace will seem very different and disconnected---machine learning, program analysis, and cognitive neuroscience. I wanted to understand how programs are represented - both by our brains and by machines. Not many PhD students have the opportunity to study the overlap of two fields, but I had the chance to investigate three different areas and establish connections between them. This involved unlearning and relearning several topics within each of these three areas. Read my <a href="https://shashank-srikant.github.io/assets/pdf/srikant-shash-phd-eecs-2023-thesis-ack-intro.pdf">thesis acknowledgement and introduction chapters</a> to know more about what got me started in this space.  
 <a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">This CSAIL research spotlight from 2021</a> described my work and interests.  <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">This conversation from 2021</a> also provided an overview of my research interests.
 </p>
 
