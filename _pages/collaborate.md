@@ -16,14 +16,11 @@ But what works almost always is going ahead and actually communicating it. See a
 
 2. **Sincerity with your work** -- I find this important as well. Once you've decided to learn more and invest effort on some work, please start owning it. Do not expect to be followed up and parented on the progress you make. 
 I respect and will expect you to **be fiercly proud of the quality of the work you produce---another way to exercise sincerity in the work you do**.
-Do not settle for mediocrity in your output. Care for every little detail in your work. Naturally, achieving such rigor in your work will take a lot of effort---it will require you to work hard, think hard, and be fully engaged with your work. It will also demand a high degree of tenacity when faced with problems which initially may seem hard. I will expect you to demonstrate these traits---doing so will train you to be a world-class engineer or researcher, which is the bar I will hold you to.
-
+Do not settle for mediocrity in your output. Care for every little detail in your work. Naturally, achieving such rigor in your work will take a lot of effort---it will require you to work hard, think hard, and be fully engaged with your work. It will also demand a high degree of tenacity when faced with problems which initially may seem hard. I will expect you to demonstrate these traits---doing so will train you to be a world-class engineer or researcher, which is the bar I will hold you to.  
 Again, in this process, if you think you're stuck, or are unable to appreciate and understand nuances, or are not motivated any more - read point 1. above. Communicate this as early as possible.  
-  
-**Please also read [this note by Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html) which concretizes how you can be sincere with your work.**  
-  
-  Having said that, we could be perfectly well motivated but then shirk off work at times. That's fine as well! We all tend to be lazy at times. Heck, I constantly struggle with it myself. The trick again is to convey - convey that you won't be able to make progress on a given week (for whatever reason; I usually don't care), and make sure you make up for it in subsequent weeks.
-  If things are being constantly delayed, I'll likely notice it and discuss with you what I've noticed. 
+**Please also read [this note by Prof. Jason Eisner](https://www.cs.jhu.edu/~jason/advice/how-to-work-with-a-professor.html) which concretizes how you can be sincere with your work.**    
+Having said that, we could be perfectly well motivated but then shirk off work at times. That's fine as well! We all tend to be lazy at times. Heck, I constantly struggle with it myself. The trick again is to convey - convey that you won't be able to make progress on a given week (for whatever reason; I usually don't care), and make sure you make up for it in subsequent weeks.  
+If things are being constantly delayed, I'll likely notice it and will bring this up in a conversation with you. 
 
 3. **Be nice** -- no one likes to work with jerks. If you believe that you really know and understand the world a lot better than most of us, and are proud of it and would like to show this off at every instance - good luck! Unlikely we'll work together.
 
