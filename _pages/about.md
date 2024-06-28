@@ -25,6 +25,10 @@ social: false # includes social icons at the bottom of the page
 </p>
 
 <p>
+I run <a href="https://mlexperts.ai/">MLExperts.ai</a>, a boutique consulting group in AI-related deep tech. We help software product teams integrate machine learning and AI into their products. These teams, often experts in their own fields, struggle to build dedicated AI/ML teams. At MLExperts, we prevent them from reinventing the wheel. Series-A and B stage companies particularly like us for our ability to work within their budgets and tight timelines while exploring advanced product features.
+</p>
+
+<p>
 During my PhD, I explored how machine learning, program analysis, and cognitive neuroscience intersect. I studied how programs are represented by both our brains and machines. Unlike a typical PhD which explores at most two disparate fields, I connected three, which involved relearning many topics---an intellecturally rewarding process. To learn how I was drawn to studying these topics, <a href="https://shashank-srikant.github.io/assets/pdf/srikant-shash-phd-eecs-2023-thesis-ack-intro.pdf">check my thesis acknowledgment and introduction chapters</a>, or see this <a href="https://cap.csail.mit.edu/engage/spotlights/shashank-srikant">2021 research spotlight by CSAIL, MIT</a> and <a href="https://www.youtube.com/watch?v=3tuhyQR2L0I">this 2021 conversation</a> about my work.
 </p>
 
