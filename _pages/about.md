@@ -22,7 +22,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 <p>
-ವಂದನೆಗಳು! I run <a href="https://mlexperts.ai/">MLExperts.ai</a>, a boutique consulting group specializing in AI and deep tech. We assist software product teams in integrating machine learning and AI into their products. Typically, product companies face the challenge of a long list of desired features and a single data science team to handle their ML/AI efforts. They often rely on interns to prototype solutions but lack the engineering bandwidth to move these prototypes into production. At MLExperts, we address this issue by providing an expert team of AI/ML scientists and product engineers, working as an extension of the client's team to deliver that crucial feature. Our team includes scientists and product engineers with experience from top institutions like MIT, IISc, IIT, and companies like Amazon, Google, and Meta.
+ವಂದನೆಗಳು! I run <a href="https://mleananalabs.ai/">MLEanana Labs</a>, a boutique consulting group specializing in AI and deep tech. We assist software product teams in integrating machine learning and AI into their products. Typically, product companies face the challenge of a long list of desired features and a single data science team to handle their ML/AI efforts. They often rely on interns to prototype solutions but lack the engineering bandwidth to move these prototypes into production. At MLExperts, we address this issue by providing an expert team of AI/ML scientists and product engineers, working as an extension of the client's team to deliver that crucial feature. Our team includes scientists and product engineers with experience from top institutions like MIT, IISc, IIT, and companies like Amazon, Google, and Meta.
 </p>
 
 <p>
