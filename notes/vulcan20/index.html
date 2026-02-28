@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<title>Shashank  Srikant | Dependency-based neural representations for classifying lines of programs</title>
+<meta name="description" content="Home | Shashank">
+
+<!-- Open Graph -->
+
+
+<!-- Bootstrap & MDB -->
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet" integrity="sha512-MoRNloxbStBcD8z3M/2BmnT+rg4IsMxPkXaGh2zD6LGNNFE80W3onsAhRcMAMrSoyWL9xD7Ert0men7vR8LUZg==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" integrity="sha512-RO38pBRxYH3SoOprtPTD86JFOclM51/XTIdEPh5j8sj4tp8jmQIx26twG52UaLi//hQldfrh7e51WzP9wuP32Q==" crossorigin="anonymous" />
+
+<!-- Fonts & Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css"  integrity="sha512-1PKOgIY59xJ8Co8+NE6FZ+LOAZKjy+KY8iq0G4B3CyeY6wYHN3yt9PW0XpSriVlkMXe40PTKnXrLnZ9+fkDaog==" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
+
+<!-- Code Syntax Highlighting -->
+
+<!-- Styles -->
+<!-- <link rel="shortcut icon" href="/assets/img/favicon.ico"> -->
+<link rel="stylesheet" href="/assets/css/main.css">
+
+<link rel="canonical" href="/notes/vulcan20/">
+
+<!-- JQuery -->
+<!-- jQuery -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha512-bLT0Qm9VnAYZDflyKcBaQ2gg0hSYNQrJ8RilYldYQ1FxQYoCLtUjuuRuZo+fjqhx/qtq/1itJ0C2ejDxltZVFg==" crossorigin="anonymous"></script>
+
+
+<!-- Theming-->
+
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-85984737-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+
+    gtag('config', 'UA-85984737-1');
+  </script>
+
+
+
+
+<!-- Site tags -->
+
+  
+
+
+
+
+
+
+
+
+    
+<!-- MathJax -->
+<script type="text/javascript">
+  window.MathJax = {
+    tex: {
+      tags: 'ams'
+    }
+  };
+</script>
+<script defer type="text/javascript" id="MathJax-script" src="https://cdn.jsdelivr.net/npm/mathjax@3.1.2/es5/tex-mml-chtml.js"></script>
+<script defer src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+
+    <script src="/assets/js/distillpub/template.v2.js"></script>
+    <script src="/assets/js/distillpub/transforms.v2.js"></script>
+    
+  </head>
+
+  <!--
+  <d-front-matter>
+    <script async type="text/json">{
+      "title": "Dependency-based neural representations for classifying lines of programs",
+      "description": "How can ML models be used to represent lines of programs? We design a dependency-graph based neural representation of programs, which evaluates whether a given line of code has a vulnerability in it or not.",
+      "published": "2020-02-15 00:00:00 +0000",
+        }
+      ],
+      "katex": {
+        "delimiters": [
+          {
+            "left": "$",
+            "right": "$",
+            "display": false
+          },
+          {
+            "left": "$$",
+            "right": "$$",
+            "display": true
+          }
+        ]
+      }
+    }</script>
+  </d-front-matter>
+    -->
+  <body class=" sticky-bottom-footer">
+
+    <!-- Header -->
+
+    <header>
+
+    <!-- Nav Bar -->
+    <nav id="navbar" class="navbar navbar-light navbar-expand-sm sticky-top">
+    <div class="container">
+      
+      <a class="navbar-brand title font-weight-lighter" href="/">
+       <span class="font-weight-bold">Shashank</span>   Srikant
+      </a>
+      
+      <!-- Navbar Toggle -->
+      <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar top-bar"></span>
+        <span class="icon-bar middle-bar"></span>
+        <span class="icon-bar bottom-bar"></span>
+      </button>
+      <div class="collapse navbar-collapse text-right" id="navbarNav">
+        <ul class="navbar-nav ml-auto flex-nowrap">
+          <!-- About -->
+          <li class="nav-item ">
+            <a class="nav-link" href="/">
+              about
+              
+            </a>
+          </li>
+          
+          <!-- Other pages -->
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+            
+          <li class="nav-item active">
+            <a class="nav-link" href="/notes/">
+              notes
+              
+            </a>
+          </li>
+          
+          
+          <a class="nav-link" href="/assets/pdf/cv.pdf">CV</a>
+          
+          
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+</header>
+
+
+
+    <!-- Content -->
+    <div class="post distill">
+
+      <d-title>
+        <h1>Dependency-based neural representations for classifying lines of programs</h1>
+        <p>How can ML models be used to represent lines of programs? We design a dependency-graph based neural representation of programs, which evaluates whether a given line of code has a vulnerability in it or not.</p>
+        <!-- Tags -->
+        <p>
+        <b> Tags: </b>
+        <span>
+  	    	
+	        
+        	<a href="/tag/papers"><code class="highligher-rouge"><nobr>papers</nobr></code>,&nbsp;</a>
+			
+	        
+        	<a href="/tag/ml-for-plse"><code class="highligher-rouge"><nobr>ml-for-plse</nobr></code>,&nbsp;</a>
+			
+	        
+        	<a href="/tag/program-representation"><code class="highligher-rouge"><nobr>program-representation</nobr></code>&nbsp;</a>
+			
+    	</span>
+        </p>
+ 
+      </d-title>
+
+      <d-article>
+        <div class="publications">
+    <ol class="bibliography"><li><div class="row">
+  <div class="col-sm-2 abbr">
+  
+    
+    <abbr class="badge">arXiv-2020</abbr>
+    
+  
+  </div>
+
+  <div id="srikant2020dependency" class="col-sm-8">
+    
+      <div class="title">Dependency-Based Neural Representations for Classifying Lines of Programs</div>
+      <div class="author">
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Srikant, Shashank,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  Lesimple, Nicolas,
+                
+              
+            
+          
+        
+          
+          
+          
+          
+          
+          
+            
+              
+                
+                  and O’Reilly, Una-May
+                
+              
+            
+          
+        
+      </div>
+
+      <div class="periodical">
+      
+        <em>arXiv preprint arXiv:2004.10166</em>
+      
+      
+        2020
+      
+      </div>
+    
+
+    <div class="links">
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    </div>
+
+    <!-- Hidden abstract block -->
+    
+  </div>
+</div>
+</li></ol>
+</div>
+
+<h2 id="abstract">Abstract</h2>
+<p>We investigate the problem of classifying a line of program as containing a vulnerability or not using machine learning. Such a line-level classification task calls for a program representation which goes beyond reasoning from the tokens present in the line. We seek a distributed representation in a latent feature space which can capture the control and data dependencies of tokens appearing on a line of program, while also ensuring lines of similar meaning have similar features.</p>
+
+<p>We present a neural architecture, Vulcan, that successfully demonstrates both these requirements. It extracts contextual information about tokens in a line and inputs them as Abstract Syntax Tree (AST) paths to a bi-directional LSTM with an attention mechanism. It concurrently represents the meanings of tokens in a line by recursively embedding the lines where they are most recently defined.</p>
+
+<p>In our experiments, Vulcan compares favorably with a state-of-the-art classifier, which requires significant preprocessing of programs, suggesting the utility of using deep learning to model program dependence information.</p>
+
+<h2 id="links">Links</h2>
+<p><a href="https://arxiv.org/pdf/2004.10166.pdf" target="blank">PDF</a></p>
+
+<p><a href="/assets/papers/arxiv_20.pdf">PDF - Local copy</a></p>
+
+
+      </d-article>
+
+      <d-appendix>
+        <d-footnote-list></d-footnote-list>
+        <d-citation-list></d-citation-list>
+      </d-appendix>
+
+    </div>
+
+    <!-- Footer -->
+
+    
+<footer class="sticky-bottom mt-5">
+  <div class="container">
+    &copy; Copyright 2026 Shashank  Srikant.
+    Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+    
+    
+    Last updated: February 28, 2026.
+    
+  </div>
+</footer>
+
+
+
+  </body>
+
+  <d-bibliography src="/assets/bibliography/">
+  </d-bibliography>
+
+</html>
