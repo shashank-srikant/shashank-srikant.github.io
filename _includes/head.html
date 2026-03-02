@@ -3,7 +3,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>{% if site.title == blank %}{{ site.title }}{% else %}{{ site.first_name }} {{ site.middle_name }} {{ site.last_name }}{% endif %}{% if page.title and page.url != "/" %} | {{ page.title }}{% endif %}</title>
-<meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+<meta name="description" content="{{ site.description | strip_html | escape }}">
 <meta name="author" content="{{ site.first_name }} {{ site.last_name }}">
 <meta name="keywords" content="Shashank Srikant, AI researcher, ML researcher, AI PhD, ML PhD, MIT PhD, machine learning expert, artificial intelligence expert, generative AI, program analysis, deep tech, NLP, LLM, deep learning, AI consulting, computer science researcher">
 
@@ -11,9 +11,9 @@
 {% if site.serve_og_meta %}
 <meta property="og:site_name" content="{{ site.first_name }} {{ site.last_name }}" />
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}" />
-<meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.first_name }} {{ site.last_name }}{% else %}{{ site.first_name }} {{ site.last_name }}{% endif %}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title | strip_html | escape }} | {{ site.first_name }} {{ site.last_name }}{% else %}{{ site.first_name }} {{ site.last_name }}{% endif %}" />
 <meta property="og:url" content="{{ page.url | prepend: site.baseurl | prepend: site.url }}" />
-<meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta property="og:description" content="{{ site.description | strip_html | escape }}" />
 {% assign og_img = site.og_image %}
 {% if page.og_image %}{% assign og_img = page.og_image %}{% endif %}
 <meta property="og:image" content="{{ og_img | prepend: site.baseurl | prepend: site.url }}" />
@@ -21,8 +21,8 @@
 
 <!-- X / Twitter Card (twitter: prefix still required by X) -->
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }} | {{ site.first_name }} {{ site.last_name }}{% else %}{{ site.first_name }} {{ site.last_name }}{% endif %}" />
-<meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" />
+<meta name="twitter:title" content="{% if page.title %}{{ page.title | strip_html | escape }} | {{ site.first_name }} {{ site.last_name }}{% else %}{{ site.first_name }} {{ site.last_name }}{% endif %}" />
+<meta name="twitter:description" content="{{ site.description | strip_html | escape }}" />
 {% if site.twitter_username %}
 <meta name="twitter:site" content="@{{ site.twitter_username }}" />
 <meta name="twitter:creator" content="@{{ site.twitter_username }}" />
