@@ -118,7 +118,7 @@ nav: false
   <a href="#mail" class="hg-qlink"><span class="ql-icon">&#128236;</span>Mail &amp; Deliveries</a>
   <a href="#living" class="hg-qlink"><span class="ql-icon">&#128247;</span>Living Area</a>
   <a href="#kitchen" class="hg-qlink"><span class="ql-icon">&#127859;</span>Kitchen</a>
-  <a href="#pantry" class="hg-qlink"><span class="ql-icon">&#127859;</span>Pantry</a>
+  <a href="#pantry" class="hg-qlink"><span class="ql-icon">&#129474;</span>Pantry</a>
   <a href="#primary-bedroom" class="hg-qlink"><span class="ql-icon">&#128716;</span>Primary Bedroom</a>
   <a href="#guest-room" class="hg-qlink"><span class="ql-icon">&#128716;</span>Guest Room</a>
   <a href="#bathroom" class="hg-qlink"><span class="ql-icon">&#128703;</span>Bathroom</a>
