@@ -131,7 +131,7 @@ nav: false
   <h2>WiFi</h2>
   <div class="hg-infobox">
     <p><strong>Network:</strong> NM-Guest</p>
-    <p><strong>Password:</strong> <code>279bwayas</code> + the 5-letter word on the router label</p>
+    <p><strong>Password:</strong> <code>cambridgemaas</code> + the 5-letter word on the router label</p>
     <p><small>The router is in the living room cabinet. The word is on the label on the back or base of the router.</small></p>
   </div>
 </div>
