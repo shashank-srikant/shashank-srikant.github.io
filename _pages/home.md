@@ -110,6 +110,7 @@ nav: false
 
 <!-- Quick Navigation -->
 <div class="hg-quicknav">
+  <a href="#checkin" class="hg-qlink"><span class="ql-icon">&#128273;</span>Check-in</a>
   <a href="#wifi" class="hg-qlink"><span class="ql-icon">&#128246;</span>WiFi</a>
   <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>First Use Box</a>
   <a href="#rules" class="hg-qlink"><span class="ql-icon">&#128218;</span>House Rules</a>
@@ -125,6 +126,16 @@ nav: false
 </div>
 
 <hr class="hg-divider">
+
+<!-- Check-in -->
+<div class="hg-section" id="checkin">
+  <h2>Check-in</h2>
+  <ol>
+    <li>Send us copies of your identity documents via email to confirm your booking.</li>
+    <li>Pay the first month's rent to secure your stay — we'll share payment details on the group chat.</li>
+    <li>Once confirmed, we'll coordinate with you directly to hand over the keys.</li>
+  </ol>
+</div>
 
 <!-- WiFi -->
 <div class="hg-section" id="wifi">
@@ -163,7 +174,7 @@ nav: false
   <h3>General</h3>
   <ul>
     <li>Keep the space clean — sweep and mop the kitchen floor occasionally.</li>
-    <li>Dishes washed or in the dishwasher after cooking.</li>
+    <li>Dishes washed and left on the drying rack after cooking.</li>
     <li>No smoking inside the apartment.</li>
     <li>Keys: [details to be added]</li>
   </ul>
@@ -236,6 +247,10 @@ nav: false
   <div class="hg-warn">
     No garbage disposal — do not wash food scraps down the sink. Wipe plates clean before rinsing.
   </div>
+  <ul>
+    <li>Hot water kettle available — no coffee machine.</li>
+    <li>Dishes go on the drying rack next to the sink — there is no dishwasher.</li>
+  </ul>
 </div>
 
 <!-- Pantry -->
@@ -299,7 +314,7 @@ nav: false
 
   <h3>Kitchen</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Dishes washed or loaded in the dishwasher (run it if full)</label></li>
+    <li><label><input type="checkbox"> Dishes washed and left on the drying rack</label></li>
     <li><label><input type="checkbox"> Stovetop and counters wiped down</label></li>
     <li><label><input type="checkbox"> Floor swept and mopped</label></li>
     <li><label><input type="checkbox"> Refrigerator cleared of any food you brought</label></li>
