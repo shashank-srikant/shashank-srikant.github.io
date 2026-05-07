@@ -37,7 +37,7 @@ nav: false
 
 .hg-section { margin: 2.5rem 0; scroll-margin-top: 75px; }
 .hg-section h2 { font-size: 1.25rem; border-bottom: 1px solid #eee; padding-bottom: 0.4rem; margin-bottom: 1rem; }
-.hg-section h3 { font-size: 1rem; margin-top: 1.5rem; margin-bottom: 0.4rem; }
+.hg-section h3 { font-size: 1rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #444; }
 
 .hg-infobox {
   background: #f9f9f9;
@@ -49,6 +49,26 @@ nav: false
 }
 .hg-infobox p { margin-bottom: 0.35rem; }
 .hg-infobox p:last-child { margin-bottom: 0; }
+
+.hg-warn {
+  background: #fff8f0;
+  border-left: 3px solid #e8a87c;
+  padding: 0.75rem 1.1rem;
+  border-radius: 0 6px 6px 0;
+  margin: 0.75rem 0;
+  font-size: 0.9rem;
+}
+
+.hg-box {
+  background: #f4f8f2;
+  border: 1px solid #c8dfc0;
+  border-radius: 8px;
+  padding: 1rem 1.2rem;
+  margin: 0.75rem 0;
+  font-size: 0.9rem;
+}
+.hg-box ul { margin-bottom: 0; padding-left: 1.25rem; }
+.hg-box li { margin-bottom: 0.3rem; }
 
 .hg-photos {
   display: grid;
@@ -91,8 +111,10 @@ nav: false
 <!-- Quick Navigation -->
 <div class="hg-quicknav">
   <a href="#wifi" class="hg-qlink"><span class="ql-icon">&#128246;</span>WiFi</a>
+  <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>First Use Box</a>
   <a href="#rules" class="hg-qlink"><span class="ql-icon">&#128218;</span>House Rules</a>
   <a href="#laundry" class="hg-qlink"><span class="ql-icon">&#129693;</span>Laundry</a>
+  <a href="#mail" class="hg-qlink"><span class="ql-icon">&#128236;</span>Mail &amp; Deliveries</a>
   <a href="#living" class="hg-qlink"><span class="ql-icon">&#128247;</span>Living Area</a>
   <a href="#kitchen" class="hg-qlink"><span class="ql-icon">&#127859;</span>Kitchen</a>
   <a href="#pantry" class="hg-qlink"><span class="ql-icon">&#127859;</span>Pantry</a>
@@ -114,26 +136,82 @@ nav: false
   </div>
 </div>
 
+<!-- First Use Box -->
+<div class="hg-section" id="firstuse">
+  <h2>First Use Box</h2>
+  <p>
+    On the main cabinet in the living room you'll find a box of essentials to get you started.
+    These are for your first use — <strong>no need to replenish</strong> any of it.
+  </p>
+  <div class="hg-box">
+    <ul>
+      <li>Quarters — $6.50 (enough for one wash + two dry cycles)</li>
+      <li>2 laundry detergent pods <small>(also in the laundry basket)</small></li>
+      <li>A few toilet rolls</li>
+      <li>1 kitchen roll</li>
+      <li>Box of tissues</li>
+      <li>Bowl cleaner liquid</li>
+    </ul>
+  </div>
+  <p><small>For everything else — toilet paper, dish soap, and other consumables — see the <a href="#consumables">Consumables</a> note below.</small></p>
+</div>
+
 <!-- House Rules -->
 <div class="hg-section" id="rules">
   <h2>House Rules</h2>
+
+  <h3>General</h3>
   <ul>
     <li>Keep the space clean — sweep and mop the kitchen floor occasionally.</li>
     <li>Dishes washed or in the dishwasher after cooking.</li>
     <li>No smoking inside the apartment.</li>
     <li>Keys: [details to be added]</li>
   </ul>
-  <p>If anything is unclear or feels off, just reach out on the group chat.</p>
+
+  <h3>Garbage</h3>
+  <p>[Where to take trash bags — e.g., trash chute on the floor / bins in the basement. Add collection days or any recycling notes here.]</p>
+  <ul>
+    <li>Use the trash bags provided and replace them when full.</li>
+    <li>Separate recycling if the building requires it — [details].</li>
+  </ul>
+
+  <h3>Kitchen sink</h3>
+  <div class="hg-warn">
+    There is no garbage disposal in the sink. <strong>Do not wash food scraps or food residue down the drain</strong> — it will clog the pipes. Wipe plates clean before rinsing.
+  </div>
+
+  <div id="consumables" style="margin-top: 1.5rem;">
+  <h3>Consumables</h3>
+  <p>
+    Toilet paper, dish soap, and other daily-use items have been stocked as found.
+    Over 2–3 months these will deplete — please replenish the <strong>same brand</strong> when they run low.
+    If you're unsure what to get, check with us on the group chat.
+  </p>
+  </div>
+
+  <p style="margin-top: 1rem;">If anything is unclear or feels off, just reach out on the group chat.</p>
 </div>
 
 <!-- Laundry -->
 <div class="hg-section" id="laundry">
   <h2>Laundry</h2>
   <p>The washer and dryer are in the <strong>basement</strong> and run on quarters.</p>
+  <div class="hg-infobox">
+    <p><strong>Wash:</strong> $2.50 per load</p>
+    <p><strong>Dry:</strong> $2.00 per cycle (most loads need two cycles)</p>
+    <p><strong>Detergent pods:</strong> in the laundry basket — 2 pods have been left for your first use.</p>
+  </div>
   <p>
-    Quarters are available at the <strong>Whole Foods</strong> or the <strong>convenience store at the end of the road</strong>.
-    For your first wash, we've left <strong>$6 in quarters</strong> in a bowl at the entrance lamp — help yourself.
+    For your first wash, $6.50 in quarters is in the <a href="#firstuse">First Use Box</a> on the living room cabinet.
+    After that, quarters are available at the <strong>Whole Foods</strong> or the <strong>convenience store at the end of the road</strong>.
   </p>
+</div>
+
+<!-- Mail & Deliveries -->
+<div class="hg-section" id="mail">
+  <h2>Mail &amp; Deliveries</h2>
+  <p>[Instructions for collecting mail — e.g., mailbox number, key location, lobby mailroom.]</p>
+  <p>[Amazon and other deliveries — e.g., left at the front door, held at the front desk, delivered to the mailroom. Let us know if a package arrives for us and we'll arrange collection.]</p>
 </div>
 
 <hr class="hg-divider">
@@ -154,6 +232,9 @@ nav: false
   <div class="hg-photos">
     <div class="hg-photo-placeholder">photo</div>
     <div class="hg-photo-placeholder">photo</div>
+  </div>
+  <div class="hg-warn">
+    No garbage disposal — do not wash food scraps down the sink. Wipe plates clean before rinsing.
   </div>
 </div>
 
@@ -194,6 +275,11 @@ nav: false
     <li>Towels in the cabinet under the sink — help yourself.</li>
     <li>Extra toilet paper under the sink.</li>
     <li>Shampoo and shower gel provided — please top them up before you leave if you've used a good amount.</li>
+  </ul>
+  <h3>Drain &amp; toilet upkeep</h3>
+  <ul>
+    <li><strong>Shower drain:</strong> hair and hairballs collect in the drain over time. Please clear them out occasionally — there's a drain cover that lifts out easily.</li>
+    <li><strong>Toilet bowl:</strong> use the bowl cleaner liquid (in the <a href="#firstuse">First Use Box</a>) to clean periodically.</li>
   </ul>
 </div>
 
@@ -243,6 +329,8 @@ nav: false
 
   <h3>Bathroom</h3>
   <ul class="hg-checklist">
+    <li><label><input type="checkbox"> Shower drain cleared of any hairballs</label></li>
+    <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
     <li><label><input type="checkbox"> Used towels left on the rack or in the laundry basket</label></li>
     <li><label><input type="checkbox"> Sink and counter wiped down</label></li>
     <li><label><input type="checkbox"> Shower rinsed</label></li>
