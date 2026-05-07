@@ -114,7 +114,7 @@ nav: false
   <a href="#wifi" class="hg-qlink"><span class="ql-icon">&#128246;</span>WiFi</a>
   <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>First Use Box</a>
   <a href="#rules" class="hg-qlink"><span class="ql-icon">&#128218;</span>House Rules</a>
-  <a href="#laundry" class="hg-qlink"><span class="ql-icon">&#129693;</span>Laundry</a>
+  <a href="#laundry" class="hg-qlink"><span class="ql-icon">&#128085;</span>Laundry</a>
   <a href="#mail" class="hg-qlink"><span class="ql-icon">&#128236;</span>Mail &amp; Deliveries</a>
   <a href="#living" class="hg-qlink"><span class="ql-icon">&#128247;</span>Living Area</a>
   <a href="#kitchen" class="hg-qlink"><span class="ql-icon">&#127859;</span>Kitchen</a>
@@ -157,11 +157,11 @@ nav: false
   <div class="hg-box">
     <ul>
       <li>Quarters — $6.50 (enough for one wash + two dry cycles)</li>
-      <li>2 laundry detergent pods <small>(also in the laundry basket)</small></li>
+      <li>A few laundry detergent pods <small>(also in the laundry basket)</small></li>
       <li>A few toilet rolls</li>
       <li>1 kitchen roll</li>
       <li>Box of tissues</li>
-      <li>Bowl cleaner liquid</li>
+      <li>Small first-aid box with basic items (ibuprofen, bandages, etc.)</li>
     </ul>
   </div>
   <p><small>For everything else — toilet paper, dish soap, and other consumables — see the <a href="#consumables">Consumables</a> note below.</small></p>
@@ -210,7 +210,7 @@ nav: false
   <div class="hg-infobox">
     <p><strong>Wash:</strong> $2.50 per load</p>
     <p><strong>Dry:</strong> $2.00 per cycle (most loads need two cycles)</p>
-    <p><strong>Detergent pods:</strong> in the laundry basket — 2 pods have been left for your first use.</p>
+    <p><strong>Detergent pods:</strong> a few have been left in the laundry basket for your first use.</p>
   </div>
   <p>
     For your first wash, $6.50 in quarters is in the <a href="#firstuse">First Use Box</a> on the living room cabinet.
@@ -294,7 +294,7 @@ nav: false
   <h3>Drain &amp; toilet upkeep</h3>
   <ul>
     <li><strong>Shower drain:</strong> hair and hairballs collect in the drain over time. Please clear them out occasionally — there's a drain cover that lifts out easily.</li>
-    <li><strong>Toilet bowl:</strong> use the bowl cleaner liquid (in the <a href="#firstuse">First Use Box</a>) to clean periodically.</li>
+    <li><strong>Toilet bowl:</strong> use the bowl cleaner liquid kept under the sink to clean periodically.</li>
   </ul>
 </div>
 
