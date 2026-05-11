@@ -7,7 +7,7 @@ nav: false
 
 <div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap; margin-top: 1rem;">
   <img src="/assets/img/prof_pic_headshot.png" alt="Shashank Srikant" style="width: 180px; border-radius: 6px; flex-shrink: 0;">
-  <div>
+  <div class="bio-text">
 
 <p>Shashank consults with organizations to design and deploy software products that leverage AI, large-scale data systems, and program analysis. With over a decade of experience leading both engineering and business teams, he specializes in translating ambiguous problem spaces into clear product and technical strategies, and integrating AI capabilities into enterprise-grade software platforms. He has worked with Global 500 organizations including Amazon, Microsoft, JD.com, and Tencent to embed AI-driven products and workflows at scale.</p>
 
@@ -18,3 +18,16 @@ nav: false
 <p>You can find more information about his work on his webpage: <a href="https://shashank-srikant.github.io/">https://shashank-srikant.github.io/</a></p>
   </div>
 </div>
+
+<button id="copy-bio-btn" onclick="copyBio()" style="margin-top: 1.25rem; padding: 0.4rem 1rem; font-size: 0.85rem; cursor: pointer; border: 1px solid #bbb; border-radius: 5px; background: #f5f5f5;">Copy bio</button>
+
+<script>
+function copyBio() {
+  var text = document.querySelector('.bio-text').innerText;
+  navigator.clipboard.writeText(text).then(function() {
+    var btn = document.getElementById('copy-bio-btn');
+    btn.textContent = 'Copied!';
+    setTimeout(function() { btn.textContent = 'Copy bio'; }, 2000);
+  });
+}
+</script>
