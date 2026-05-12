@@ -178,7 +178,7 @@ nav: false
     <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink. <span class="hg-tag">long stays only</span></li>
     <li>Please Swiffer the bathroom floor as well when you mop the rest of the house. <span class="hg-tag">long stays only</span></li>
     <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty. <span class="hg-tag">long stays only</span></li>
-    <li>Shower drain: hair and hairballs collect in the drain over time. Please clear them out occasionally — the drain cover lifts out easily.</li>
+    <li>Shower drain: hair and hairballs collect in the drain over time. Please clear them out occasionally — the drain cover lifts out easily. Trash them in the bathroom bin.</li>
   </ol>
 
   <h3>6.3 Kitchen</h3>
@@ -286,6 +286,8 @@ nav: false
     <li><label><input type="checkbox"> Dishes washed and left on the drying rack</label></li>
     <li><label><input type="checkbox"> Refrigerator cleared of any food you brought</label></li>
     <li><label><input type="checkbox"> Trash bags cleared out and replaced with empty bags</label></li>
+    <li><label><input type="checkbox"> Living room paper bin emptied</label></li>
+    <li><label><input type="checkbox"> Guest room trash bag binned and replaced with a fresh one</label></li>
     <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
@@ -294,7 +296,8 @@ nav: false
     <li><label><input type="checkbox"> Bathroom floor Swiffered <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Toilet bowl cleaned <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Sink cleaned <span class="hg-tag">long stays only</span></label></li>
-    <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs</label></li>
+    <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs — trashed in the bathroom bin</label></li>
+    <li><label><input type="checkbox"> Bathroom bin bag cleared out and replaced with a fresh one</label></li>
     <li><label><input type="checkbox"> Foot mats washed if due <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Used towels, toothbrush, combs, and sanitary items — disposed of in a trash bag</label></li>
     <li><label><input type="checkbox"> Partially used toothpaste, shampoo, and body wash — leave as-is</label></li>
@@ -312,7 +315,6 @@ nav: false
 
   <h3>14.6 Before You Head Out</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> One last walk-through — nothing left behind</label></li>
     <li><label><input type="checkbox"> Video call with us before leaving</label></li>
     <li><label><input type="checkbox"> Let us know on the group chat that you're checked out</label></li>
   </ul>
