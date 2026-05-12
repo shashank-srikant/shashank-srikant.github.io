@@ -177,7 +177,8 @@ nav: false
   <ol>
     <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink. <span class="hg-tag">long stays only</span></li>
     <li>Please Swiffer the bathroom floor as well when you mop the rest of the house. <span class="hg-tag">long stays only</span></li>
-    <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty.</li>
+    <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty. <span class="hg-tag">long stays only</span></li>
+    <li>Shower drain: hair and hairballs collect in the drain over time. Please clear them out occasionally — the drain cover lifts out easily.</li>
   </ol>
 
   <h3>6.3 Kitchen</h3>
@@ -214,6 +215,7 @@ nav: false
   <h2>9. Mail &amp; Deliveries</h2>
   <ol>
     <li>The key to the mailbox is placed on top of the buzzer at the entrance of the apartment. Use it to retrieve any mail.</li>
+    <li>Any mail addressed to us — please leave it untouched in the living room cabinet, next to the router.</li>
     <li>Amazon packages are generally placed outside the entrance to the building. Make sure you provide enough delivery instructions — otherwise they tend to leave packages at the entrance on Broadway.</li>
   </ol>
 </div>
@@ -273,7 +275,7 @@ nav: false
 
   <h3>14.2 Floors</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> All floors swept and mopped <span class="hg-tag">long stays only</span></label></li>
+    <li><label><input type="checkbox"> All floors Swiffered <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Bathroom floor Swiffered <span class="hg-tag">long stays only</span></label></li>
   </ul>
 
@@ -283,7 +285,7 @@ nav: false
     <li><label><input type="checkbox"> Stovetop wiped down — no crusted food</label></li>
     <li><label><input type="checkbox"> Dishes washed and left on the drying rack</label></li>
     <li><label><input type="checkbox"> Refrigerator cleared of any food you brought</label></li>
-    <li><label><input type="checkbox"> Trash bags cleared out</label></li>
+    <li><label><input type="checkbox"> Trash bags cleared out and replaced with empty bags</label></li>
     <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
@@ -293,7 +295,7 @@ nav: false
     <li><label><input type="checkbox"> Toilet bowl cleaned <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Sink cleaned <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs</label></li>
-    <li><label><input type="checkbox"> Foot mats washed if due</label></li>
+    <li><label><input type="checkbox"> Foot mats washed if due <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Used towels, toothbrush, combs, and sanitary items — disposed of in a trash bag</label></li>
     <li><label><input type="checkbox"> Partially used toothpaste, shampoo, and body wash — leave as-is</label></li>
     <li><label><input type="checkbox"> Toilet lid closed</label></li>
