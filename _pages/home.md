@@ -37,7 +37,7 @@ nav: false
 
 .hg-section { margin: 2.5rem 0; scroll-margin-top: 75px; }
 .hg-section h2 { font-size: 1.25rem; border-bottom: 1px solid #eee; padding-bottom: 0.4rem; margin-bottom: 1rem; }
-.hg-section h3 { font-size: 1rem; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #444; }
+.hg-section h3 { font-size: 1rem; font-weight: bold; margin-top: 1.5rem; margin-bottom: 0.5rem; color: #444; }
 
 .hg-infobox {
   background: #f9f9f9;
@@ -49,15 +49,6 @@ nav: false
 }
 .hg-infobox p { margin-bottom: 0.35rem; }
 .hg-infobox p:last-child { margin-bottom: 0; }
-
-.hg-warn {
-  background: #fff8f0;
-  border-left: 3px solid #e8a87c;
-  padding: 0.75rem 1.1rem;
-  border-radius: 0 6px 6px 0;
-  margin: 0.75rem 0;
-  font-size: 0.9rem;
-}
 
 .hg-box {
   background: #f4f8f2;
@@ -86,18 +77,20 @@ nav: false
 
 <!-- Quick Navigation -->
 <div class="hg-quicknav">
-  <a href="#checkin" class="hg-qlink"><span class="ql-icon">&#128273;</span>Check-in</a>
   <a href="#wifi" class="hg-qlink"><span class="ql-icon">&#128246;</span>WiFi</a>
   <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>First Use Box</a>
-  <a href="#rules" class="hg-qlink"><span class="ql-icon">&#128218;</span>House Rules</a>
-  <a href="#checkout" class="hg-qlink"><span class="ql-icon">&#9989;</span>Checkout Checklist</a>
+  <a href="#cleaning" class="hg-qlink"><span class="ql-icon">&#129529;</span>Cleaning</a>
+  <a href="#trash" class="hg-qlink"><span class="ql-icon">&#128465;</span>Trash</a>
+  <a href="#laundry" class="hg-qlink"><span class="ql-icon">&#128085;</span>Laundry</a>
+  <a href="#checkout" class="hg-qlink"><span class="ql-icon">&#9989;</span>Checkout</a>
+  <a href="#contact" class="hg-qlink"><span class="ql-icon">&#128222;</span>Contact</a>
 </div>
 
 <hr class="hg-divider">
 
 <!-- Check-in -->
 <div class="hg-section" id="checkin">
-  <h2>Check-in</h2>
+  <h2>1. Check-in</h2>
   <ol>
     <li>Send us copies of your identity documents via email to confirm your booking.</li>
     <li>Pay the first month's rent to secure your stay — we'll share payment details on the group chat.</li>
@@ -107,7 +100,7 @@ nav: false
 
 <!-- WiFi -->
 <div class="hg-section" id="wifi">
-  <h2>WiFi</h2>
+  <h2>2. WiFi</h2>
   <div class="hg-infobox">
     <p><strong>Network:</strong> NM-Guest</p>
     <p><strong>Password:</strong> <code>cambridgemaas</code> + the 5-letter word on the router label</p>
@@ -117,7 +110,7 @@ nav: false
 
 <!-- First Use Box -->
 <div class="hg-section" id="firstuse">
-  <h2>First Use Box</h2>
+  <h2>3. First Use Box</h2>
   <p>
     On the main cabinet in the living room you'll find a box of essentials to get you started.
     These are for your first use — <strong>no need to replenish</strong> any of it.
@@ -139,100 +132,124 @@ nav: false
 
 <hr class="hg-divider">
 
-<!-- House Rules -->
-<div class="hg-section" id="rules">
-  <h2>House Rules</h2>
-
-  <h3>Shoes at the Door</h3>
+<!-- Shoes -->
+<div class="hg-section" id="shoes">
+  <h2>4. Shoes at the Door</h2>
   <ol>
     <li>Please leave your shoes at the door. Cambridge is a dusty place — you'll notice how quickly the floor accumulates dust. Leave your shoes inside the apartment, right at the entrance.</li>
   </ol>
+</div>
 
-  <h3>Smoking</h3>
+<!-- Smoking -->
+<div class="hg-section" id="smoking">
+  <h2>5. No Smoking</h2>
   <ol>
     <li>Absolutely no smoking of any substance in the house. Please.</li>
   </ol>
+</div>
 
-  <h3>Cleaning — General</h3>
+<!-- Cleaning -->
+<div class="hg-section" id="cleaning">
+  <h2>6. Cleaning</h2>
+
+  <h3>6.1 General</h3>
   <ol>
     <li>Please make it a point to keep the place clean.</li>
     <li>There's a broom with a pan next to the fridge.</li>
     <li>There's a Swiffer mop rod next to the fridge. The Swiffer pads are in the pantry. If you're not familiar with how to use a Swiffer wet mop, please google it. We recommend mopping down the floors once a week.</li>
   </ol>
 
-  <h3>Cleaning — Bathroom</h3>
+  <h3>6.2 Bathroom</h3>
   <ol>
     <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink.</li>
     <li>Please Swiffer the bathroom floor as well when you mop the rest of the house.</li>
     <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty.</li>
   </ol>
 
-  <h3>Cleaning — Kitchen</h3>
-  <div class="hg-warn">
-    There is no garbage disposal in the sink. <strong>Do not wash food scraps or food residue down the drain</strong> — it will clog the pipes. Wipe plates clean before rinsing.
-  </div>
+  <h3>6.3 Kitchen</h3>
   <ol>
+    <li><strong>No garbage disposal:</strong> Do not wash food scraps or food residue down the drain — it will clog the pipes. Wipe plates clean before rinsing.</li>
     <li><strong>Assorted rags:</strong> We use assorted rags for different purposes — wiping down countertops and stovetops, placing under the drying rack when drying dishes. Please use them. They're in the top left drawer next to the kitchen sink.</li>
     <li><strong>Dish scrubber and soap:</strong> Supplies are in the cabinet below the kitchen sink.</li>
     <li><strong>Chain-metal cleaner:</strong> For the cast iron pans, we prefer cleaning off the grease using the chain-metal cleaner. They are hung on hooks on the left-side edge of the kitchen sink — not immediately visible, you'll have to duck down to find them.</li>
     <li><strong>Kitchen table and stovetop:</strong> Please use the spray kept under the cabinet below the kitchen sink. Clean these surfaces periodically and do not allow food to crust.</li>
   </ol>
+</div>
 
-  <h3>Pantry &amp; Condiments</h3>
+<!-- Pantry -->
+<div class="hg-section" id="pantry">
+  <h2>7. Pantry &amp; Condiments</h2>
   <ol>
     <li>There's some pasta, rice, and assorted lentils in the pantry. There's cooking oil and assorted spices and condiments on the kitchen counter, in the fridge, and in the freezer (e.g. frozen coconut, frozen curry leaves). It's fine to use modest amounts. But please replenish if you use a considerable amount. If you're unable to, that's okay — please let us know, and we'll charge your security deposit accordingly.</li>
   </ol>
+</div>
 
-  <h3>Trash</h3>
+<!-- Trash -->
+<div class="hg-section" id="trash">
+  <h2>8. Trash</h2>
   <ol>
     <li>There's a large bin right at the kitchen entrance. There's an orange bag where we put recyclables.</li>
     <li>The garbage bag for the kitchen bin is under the kitchen cabinet — look for Simple Human bags.</li>
     <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are also under the kitchen cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
     <li>Bins are cleared every Thursday by the city. You just have to drop your bags and recyclables in the bins kept outside (the bins closer to Broadway — the ones you see when you take a left after exiting the entrance to the building). You do <strong>not</strong> have to wheel the bins to the curbside — that's taken care of.</li>
   </ol>
+</div>
 
-  <h3>Mail &amp; Deliveries</h3>
+<!-- Mail -->
+<div class="hg-section" id="mail">
+  <h2>9. Mail &amp; Deliveries</h2>
   <ol>
     <li>The key to the mailbox is placed on top of the buzzer at the entrance of the apartment. Use it to retrieve any mail.</li>
     <li>Amazon packages are generally placed outside the entrance to the building. Make sure you provide enough delivery instructions — otherwise they tend to leave packages at the entrance on Broadway.</li>
   </ol>
+</div>
 
-  <h3>Keys</h3>
+<!-- Keys -->
+<div class="hg-section" id="keys">
+  <h2>10. Keys</h2>
   <ol>
     <li>You have been given one set of keys. There is another set of keys in the bowl on the lampstand at the entrance. If you use the spare keys, please ensure you place them back in the bowl when done.</li>
   </ol>
+</div>
 
-  <h3>Bedrooms</h3>
+<!-- Bedrooms -->
+<div class="hg-section" id="bedrooms">
+  <h2>11. Bedrooms</h2>
   <ol>
     <li>The main bedroom has a queen bed.</li>
     <li>The guest room has a futon, which doubles as a comfortable bed for one person.</li>
     <li>The living room couch can be pulled out to laze around and catch a nap.</li>
     <li>The closet in the guest room contains our belongings — please do not access or use it. Use the free-standing closet in the living room for your clothes.</li>
   </ol>
+</div>
 
-  <h3>Laundry</h3>
+<!-- Laundry -->
+<div class="hg-section" id="laundry">
+  <h2>12. Laundry</h2>
   <ol>
     <li>There's a washer and dryer in the basement.</li>
     <li>The door to the right after entering the apartment (right opposite the living room) leads to the rear of the building. The basement door is next to the rear exit.</li>
     <li>The washer costs $2.50 per wash. The dryer costs $2.00 per cycle. You will need quarters. The convenience store at the street corner or Whole Foods provides quarter-rolls for $10.</li>
     <li>Please arrange for your own washing pods.</li>
   </ol>
+</div>
 
-  <h3>Security Cameras</h3>
+<!-- Security Cameras -->
+<div class="hg-section" id="cameras">
+  <h2>13. Security Cameras</h2>
   <ol>
     <li>There are cameras pointing to each of the two entrances. We have never accessed the footage — they're there for what they do best: security. There are no other cameras anywhere inside the house.</li>
   </ol>
-
 </div>
 
 <hr class="hg-divider">
 
 <!-- Checkout Checklist -->
 <div class="hg-section" id="checkout">
-  <h2>Checkout Checklist</h2>
+  <h2>14. Checkout Checklist</h2>
   <p>Before you leave, please take a few minutes to go through these. The goal is to leave things roughly as you found them.</p>
 
-  <h3>Keys &amp; Entry</h3>
+  <h3>14.1 Keys &amp; Entry</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Spare keys returned to the bowl on the lampstand at the entrance</label></li>
     <li><label><input type="checkbox"> Main keys returned as agreed</label></li>
@@ -240,13 +257,13 @@ nav: false
     <li><label><input type="checkbox"> AC / heating turned off</label></li>
   </ul>
 
-  <h3>Floors</h3>
+  <h3>14.2 Floors</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> All floors swept and mopped</label></li>
     <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
   </ul>
 
-  <h3>Kitchen</h3>
+  <h3>14.3 Kitchen</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> All countertops scrubbed clean</label></li>
     <li><label><input type="checkbox"> Stovetop wiped down — no crusted food</label></li>
@@ -256,7 +273,7 @@ nav: false
     <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
-  <h3>Bathroom</h3>
+  <h3>14.4 Bathroom</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
     <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
@@ -268,7 +285,7 @@ nav: false
     <li><label><input type="checkbox"> Toilet lid closed</label></li>
   </ul>
 
-  <h3>Bedrooms &amp; Living Area</h3>
+  <h3>14.5 Bedrooms &amp; Living Area</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Sheets and pillowcases left on the bed (we'll launder them)</label></li>
     <li><label><input type="checkbox"> Closet and drawers checked — no personal items left behind</label></li>
@@ -277,7 +294,7 @@ nav: false
     <li><label><input type="checkbox"> Electronics and lights off</label></li>
   </ul>
 
-  <h3>Before You Head Out</h3>
+  <h3>14.6 Before You Head Out</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> One last walk-through — nothing left behind</label></li>
     <li><label><input type="checkbox"> Let us know on the group chat that you're checked out</label></li>
@@ -288,13 +305,13 @@ nav: false
 
 <!-- Contact -->
 <div class="hg-section" id="contact">
-  <h2>Contact &amp; Emergencies</h2>
+  <h2>15. Contact &amp; Emergencies</h2>
   <p>
     Please keep all communication in the <strong>group chat</strong> already started with us — that way we're both in the loop.
     Avoid direct messages so nothing slips through.
   </p>
   <p>
-    <strong>Locked out?</strong> Send a message in the group chat and we'll work it out — hasn't happened yet, so we'll figure it out together.
+    <strong>Locked out?</strong> Send a message in the group chat and we'll work it out.
   </p>
   <p>
     <strong>Emergency?</strong> Call 911 first. Then let us know in the chat.
