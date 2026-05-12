@@ -215,7 +215,7 @@ nav: false
 <div class="hg-section" id="trash">
   <h2>8. Trash</h2>
   <ol>
-    <li>There's a large bin right at the kitchen entrance. There's an orange bag where we put recyclables.</li>
+    <li>There's a large bin right at the kitchen entrance. There's an orange bag right next to the trash bin where we put recyclables.</li>
     <li>The garbage bag for the kitchen bin is under the kitchen cabinet — look for Simple Human bags.</li>
     <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are also under the kitchen cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
     <li>Bins are cleared every Thursday by the city. You just have to drop your bags and recyclables in the bins kept outside (the bins closer to Broadway — the ones you see when you take a left after exiting the entrance to the building). You do <strong>not</strong> have to wheel the bins to the curbside — that's taken care of.</li>
@@ -309,11 +309,9 @@ nav: false
     <li><label><input type="checkbox"> Bathroom bin bag cleared out and replaced with a fresh one</label></li>
     <li><label><input type="checkbox"> Used towels, toothbrush, combs, and sanitary items — disposed of in a trash bag</label></li>
     <li><label><input type="checkbox"> Partially used toothpaste, shampoo, and body wash — leave as-is</label></li>
-    <li><label><input type="checkbox"> Toilet lid closed</label></li>
-  </ul>
-  <ul class="hg-checklist" style="margin-top:0.25rem;">
     <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
     <li><label><input type="checkbox"> Sink cleaned</label></li>
+    <li><label><input type="checkbox"> Toilet lid closed</label></li>
   </ul>
   <p class="hg-group-label">Long stays only</p>
   <ul class="hg-checklist">
