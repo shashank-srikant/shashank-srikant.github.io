@@ -68,6 +68,20 @@ nav: false
 .hg-checklist input[type=checkbox] { margin-right: 0.5rem; accent-color: #555; vertical-align: middle; }
 
 .hg-divider { border: none; border-top: 1px solid #ececec; margin: 2rem 0; }
+
+.hg-tag {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 600;
+  background: #fef3cd;
+  color: #856404;
+  border: 1px solid #fde68a;
+  border-radius: 4px;
+  padding: 0.1rem 0.45rem;
+  margin-left: 0.45rem;
+  vertical-align: middle;
+  white-space: nowrap;
+}
 </style>
 
 <div class="hg-hero">
@@ -156,13 +170,13 @@ nav: false
   <ol>
     <li>Please make it a point to keep the place clean.</li>
     <li>There's a broom with a pan next to the fridge.</li>
-    <li>There's a Swiffer mop rod next to the fridge. The Swiffer pads are in the pantry. If you're not familiar with how to use a Swiffer wet mop, please google it. We recommend mopping down the floors once a week.</li>
+    <li>There's a Swiffer mop rod next to the fridge. The Swiffer pads are in the pantry. If you're not familiar with how to use a Swiffer wet mop, please google it. We recommend mopping down the floors once a week. <span class="hg-tag">long stays only</span></li>
   </ol>
 
   <h3>6.2 Bathroom</h3>
   <ol>
-    <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink.</li>
-    <li>Please Swiffer the bathroom floor as well when you mop the rest of the house.</li>
+    <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink. <span class="hg-tag">long stays only</span></li>
+    <li>Please Swiffer the bathroom floor as well when you mop the rest of the house. <span class="hg-tag">long stays only</span></li>
     <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty.</li>
   </ol>
 
