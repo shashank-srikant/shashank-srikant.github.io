@@ -82,6 +82,18 @@ nav: false
   vertical-align: middle;
   white-space: nowrap;
 }
+
+.hg-group-label {
+  display: inline-block;
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: #856404;
+  background: #fef3cd;
+  border: 1px solid #fde68a;
+  border-radius: 4px;
+  padding: 0.15rem 0.55rem;
+  margin: 1rem 0 0.4rem;
+}
 </style>
 
 <div class="hg-hero">
@@ -273,10 +285,10 @@ nav: false
     <li><label><input type="checkbox"> AC / heating turned off</label></li>
   </ul>
 
-  <h3>14.2 Floors</h3>
+  <h3>14.2 Floors <span class="hg-tag">long stays only</span></h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> All floors Swiffered <span class="hg-tag">long stays only</span></label></li>
-    <li><label><input type="checkbox"> Bathroom floor Swiffered <span class="hg-tag">long stays only</span></label></li>
+    <li><label><input type="checkbox"> All floors Swiffered</label></li>
+    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
   </ul>
 
   <h3>14.3 Kitchen</h3>
@@ -293,15 +305,20 @@ nav: false
 
   <h3>14.4 Bathroom</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Bathroom floor Swiffered <span class="hg-tag">long stays only</span></label></li>
-    <li><label><input type="checkbox"> Toilet bowl cleaned <span class="hg-tag">long stays only</span></label></li>
-    <li><label><input type="checkbox"> Sink cleaned <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs — trashed in the bathroom bin</label></li>
     <li><label><input type="checkbox"> Bathroom bin bag cleared out and replaced with a fresh one</label></li>
-    <li><label><input type="checkbox"> Foot mats washed if due <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Used towels, toothbrush, combs, and sanitary items — disposed of in a trash bag</label></li>
     <li><label><input type="checkbox"> Partially used toothpaste, shampoo, and body wash — leave as-is</label></li>
     <li><label><input type="checkbox"> Toilet lid closed</label></li>
+  </ul>
+  <ul class="hg-checklist" style="margin-top:0.25rem;">
+    <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
+    <li><label><input type="checkbox"> Sink cleaned</label></li>
+  </ul>
+  <p class="hg-group-label">Long stays only</p>
+  <ul class="hg-checklist">
+    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
+    <li><label><input type="checkbox"> Foot mats washed</label></li>
   </ul>
 
   <h3>14.5 Bedrooms &amp; Living Area</h3>
