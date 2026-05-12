@@ -138,7 +138,7 @@ nav: false
       <li>Box of tissues in each room</li>
       <li>A new comb and toothbrushes</li>
       <li>Small first-aid box — in the cabinet next to the WiFi router</li>
-      <li>Body wash and shampoo — in the bathroom</li>
+      <li>Body wash, shampoo, and toothpaste — in the bathroom</li>
     </ol>
   </div>
   <p><small>For everything else — dish soap and other consumables — please purchase and replenish as needed.</small></p>
@@ -182,7 +182,7 @@ nav: false
 
   <h3>6.3 Kitchen</h3>
   <ol>
-    <li><strong>No garbage disposal:</strong> Do not wash food scraps or food residue down the drain — it will clog the pipes. Wipe plates clean before rinsing.</li>
+    <li><strong>No garbage disposal:</strong> Do not wash food scraps or food residue down the drain — it will clog the pipes. Wipe plates clean into the trash bin before rinsing.</li>
     <li><strong>Assorted rags:</strong> We use assorted rags for different purposes — wiping down countertops and stovetops, placing under the drying rack when drying dishes. Please use them. They're in the top left drawer next to the kitchen sink.</li>
     <li><strong>Dish scrubber and soap:</strong> Supplies are in the cabinet below the kitchen sink.</li>
     <li><strong>Chain-metal cleaner:</strong> For the cast iron pans, we prefer cleaning off the grease using the chain-metal cleaner. They are hung on hooks on the left-side edge of the kitchen sink — not immediately visible, you'll have to duck down to find them.</li>
@@ -233,7 +233,7 @@ nav: false
     <li>The main bedroom has a queen bed.</li>
     <li>The guest room has a futon, which doubles as a comfortable bed for one person.</li>
     <li>The living room couch can be pulled out to laze around and catch a nap.</li>
-    <li>The closet in the guest room contains our belongings — please do not access or use it. Use the free-standing closet in the living room for your clothes.</li>
+    <li>The closet in the guest room contains our belongings — please do not access or use it. Use the free-standing closet in the main bedroom for your clothes.</li>
   </ol>
 </div>
 
@@ -273,8 +273,8 @@ nav: false
 
   <h3>14.2 Floors</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> All floors swept and mopped</label></li>
-    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
+    <li><label><input type="checkbox"> All floors swept and mopped <span class="hg-tag">long stays only</span></label></li>
+    <li><label><input type="checkbox"> Bathroom floor Swiffered <span class="hg-tag">long stays only</span></label></li>
   </ul>
 
   <h3>14.3 Kitchen</h3>
@@ -283,25 +283,25 @@ nav: false
     <li><label><input type="checkbox"> Stovetop wiped down — no crusted food</label></li>
     <li><label><input type="checkbox"> Dishes washed and left on the drying rack</label></li>
     <li><label><input type="checkbox"> Refrigerator cleared of any food you brought</label></li>
-    <li><label><input type="checkbox"> Trash bag replaced if full</label></li>
+    <li><label><input type="checkbox"> Trash bags cleared out</label></li>
     <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
   <h3>14.4 Bathroom</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
-    <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
-    <li><label><input type="checkbox"> Sink cleaned</label></li>
+    <li><label><input type="checkbox"> Bathroom floor Swiffered <span class="hg-tag">long stays only</span></label></li>
+    <li><label><input type="checkbox"> Toilet bowl cleaned <span class="hg-tag">long stays only</span></label></li>
+    <li><label><input type="checkbox"> Sink cleaned <span class="hg-tag">long stays only</span></label></li>
     <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs</label></li>
     <li><label><input type="checkbox"> Foot mats washed if due</label></li>
-    <li><label><input type="checkbox"> Used towels left on the rack or in the laundry basket</label></li>
-    <li><label><input type="checkbox"> Personal toiletries taken with you</label></li>
+    <li><label><input type="checkbox"> Used towels, toothbrush, combs, and sanitary items — disposed of in a trash bag</label></li>
+    <li><label><input type="checkbox"> Partially used toothpaste, shampoo, and body wash — leave as-is</label></li>
     <li><label><input type="checkbox"> Toilet lid closed</label></li>
   </ul>
 
   <h3>14.5 Bedrooms &amp; Living Area</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Sheets and pillowcases left on the bed (we'll launder them)</label></li>
+    <li><label><input type="checkbox"> Sheets and pillowcases placed in a trash bag and left inside the closet near the entrance</label></li>
     <li><label><input type="checkbox"> Closet and drawers checked — no personal items left behind</label></li>
     <li><label><input type="checkbox"> Cushions back in place on the couch</label></li>
     <li><label><input type="checkbox"> Any trash cleared from all rooms</label></li>
@@ -311,6 +311,7 @@ nav: false
   <h3>14.6 Before You Head Out</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> One last walk-through — nothing left behind</label></li>
+    <li><label><input type="checkbox"> Video call with us before leaving</label></li>
     <li><label><input type="checkbox"> Let us know on the group chat that you're checked out</label></li>
   </ul>
 </div>
