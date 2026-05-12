@@ -67,33 +67,9 @@ nav: false
   margin: 0.75rem 0;
   font-size: 0.9rem;
 }
+.hg-box ol { margin-bottom: 0; padding-left: 1.25rem; }
 .hg-box ul { margin-bottom: 0; padding-left: 1.25rem; }
 .hg-box li { margin-bottom: 0.3rem; }
-
-.hg-photos {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-  gap: 0.6rem;
-  margin: 0.75rem 0 1rem;
-}
-.hg-photo {
-  width: 100%;
-  height: 155px;
-  object-fit: cover;
-  border-radius: 6px;
-  display: block;
-}
-.hg-photo-placeholder {
-  width: 100%;
-  height: 155px;
-  background: #eee;
-  border-radius: 6px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 0.75rem;
-  color: #999;
-}
 
 .hg-checklist { list-style: none; padding-left: 0; margin: 0.5rem 0 1.25rem; }
 .hg-checklist li { margin-bottom: 0.4rem; }
@@ -114,14 +90,6 @@ nav: false
   <a href="#wifi" class="hg-qlink"><span class="ql-icon">&#128246;</span>WiFi</a>
   <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>First Use Box</a>
   <a href="#rules" class="hg-qlink"><span class="ql-icon">&#128218;</span>House Rules</a>
-  <a href="#laundry" class="hg-qlink"><span class="ql-icon">&#128085;</span>Laundry</a>
-  <a href="#mail" class="hg-qlink"><span class="ql-icon">&#128236;</span>Mail &amp; Deliveries</a>
-  <a href="#living" class="hg-qlink"><span class="ql-icon">&#128247;</span>Living Area</a>
-  <a href="#kitchen" class="hg-qlink"><span class="ql-icon">&#127859;</span>Kitchen</a>
-  <a href="#pantry" class="hg-qlink"><span class="ql-icon">&#129474;</span>Pantry</a>
-  <a href="#primary-bedroom" class="hg-qlink"><span class="ql-icon">&#128716;</span>Primary Bedroom</a>
-  <a href="#guest-room" class="hg-qlink"><span class="ql-icon">&#128716;</span>Guest Room</a>
-  <a href="#bathroom" class="hg-qlink"><span class="ql-icon">&#128703;</span>Bathroom</a>
   <a href="#checkout" class="hg-qlink"><span class="ql-icon">&#9989;</span>Checkout Checklist</a>
 </div>
 
@@ -143,7 +111,7 @@ nav: false
   <div class="hg-infobox">
     <p><strong>Network:</strong> NM-Guest</p>
     <p><strong>Password:</strong> <code>cambridgemaas</code> + the 5-letter word on the router label</p>
-    <p><small>The router is in the living room cabinet. The word is on the label on the back or base of the router.</small></p>
+    <p><small>The router is in the living room cabinet. The word is on the label on the side of the router.</small></p>
   </div>
 </div>
 
@@ -155,147 +123,106 @@ nav: false
     These are for your first use — <strong>no need to replenish</strong> any of it.
   </p>
   <div class="hg-box">
-    <ul>
-      <li>Quarters — $6.50 (enough for one wash + two dry cycles)</li>
-      <li>A few laundry detergent pods <small>(also in the laundry basket)</small></li>
-      <li>A few toilet rolls</li>
+    <ol>
+      <li>Quarters — $5 (enough for one wash + one dry cycle)</li>
+      <li>Laundry detergent pods <small>(also in the laundry basket in the main bedroom)</small></li>
       <li>1 kitchen roll</li>
-      <li>Box of tissues</li>
-      <li>Small first-aid box with basic items (ibuprofen, bandages, etc.)</li>
-    </ul>
+      <li>A few toilet rolls</li>
+      <li>Box of tissues in each room</li>
+      <li>A new comb and toothbrushes</li>
+      <li>Small first-aid box — in the cabinet next to the WiFi router</li>
+      <li>Body wash and shampoo — in the bathroom</li>
+    </ol>
   </div>
-  <p><small>For everything else — toilet paper, dish soap, and other consumables — see the <a href="#consumables">Consumables</a> note below.</small></p>
+  <p><small>For everything else — dish soap and other consumables — please purchase and replenish as needed.</small></p>
 </div>
+
+<hr class="hg-divider">
 
 <!-- House Rules -->
 <div class="hg-section" id="rules">
   <h2>House Rules</h2>
 
-  <h3>General</h3>
-  <ul>
-    <li>Keep the space clean — sweep and mop the kitchen floor occasionally.</li>
-    <li>Dishes washed and left on the drying rack after cooking.</li>
-    <li>No smoking inside the apartment.</li>
-    <li>Keys: [details to be added]</li>
-  </ul>
+  <h3>Shoes at the Door</h3>
+  <ol>
+    <li>Please leave your shoes at the door. Cambridge is a dusty place — you'll notice how quickly the floor accumulates dust. Leave your shoes inside the apartment, right at the entrance.</li>
+  </ol>
 
-  <h3>Garbage</h3>
-  <p>[Where to take trash bags — e.g., trash chute on the floor / bins in the basement. Add collection days or any recycling notes here.]</p>
-  <ul>
-    <li>Use the trash bags provided and replace them when full.</li>
-    <li>Separate recycling if the building requires it — [details].</li>
-  </ul>
+  <h3>Smoking</h3>
+  <ol>
+    <li>Absolutely no smoking of any substance in the house. Please.</li>
+  </ol>
 
-  <h3>Kitchen sink</h3>
+  <h3>Cleaning — General</h3>
+  <ol>
+    <li>Please make it a point to keep the place clean.</li>
+    <li>There's a broom with a pan next to the fridge.</li>
+    <li>There's a Swiffer mop rod next to the fridge. The Swiffer pads are in the pantry. If you're not familiar with how to use a Swiffer wet mop, please google it. We recommend mopping down the floors once a week.</li>
+  </ol>
+
+  <h3>Cleaning — Bathroom</h3>
+  <ol>
+    <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink.</li>
+    <li>Please Swiffer the bathroom floor as well when you mop the rest of the house.</li>
+    <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty.</li>
+  </ol>
+
+  <h3>Cleaning — Kitchen</h3>
   <div class="hg-warn">
     There is no garbage disposal in the sink. <strong>Do not wash food scraps or food residue down the drain</strong> — it will clog the pipes. Wipe plates clean before rinsing.
   </div>
+  <ol>
+    <li><strong>Assorted rags:</strong> We use assorted rags for different purposes — wiping down countertops and stovetops, placing under the drying rack when drying dishes. Please use them. They're in the top left drawer next to the kitchen sink.</li>
+    <li><strong>Dish scrubber and soap:</strong> Supplies are in the cabinet below the kitchen sink.</li>
+    <li><strong>Chain-metal cleaner:</strong> For the cast iron pans, we prefer cleaning off the grease using the chain-metal cleaner. They are hung on hooks on the left-side edge of the kitchen sink — not immediately visible, you'll have to duck down to find them.</li>
+    <li><strong>Kitchen table and stovetop:</strong> Please use the spray kept under the cabinet below the kitchen sink. Clean these surfaces periodically and do not allow food to crust.</li>
+  </ol>
 
-  <div id="consumables" style="margin-top: 1.5rem;">
-  <h3>Consumables</h3>
-  <p>
-    Toilet paper, dish soap, and other daily-use items have been stocked as found.
-    Over 2–3 months these will deplete — please replenish the <strong>same brand</strong> when they run low.
-    If you're unsure what to get, check with us on the group chat.
-  </p>
-  </div>
+  <h3>Pantry &amp; Condiments</h3>
+  <ol>
+    <li>There's some pasta, rice, and assorted lentils in the pantry. There's cooking oil and assorted spices and condiments on the kitchen counter, in the fridge, and in the freezer (e.g. frozen coconut, frozen curry leaves). It's fine to use modest amounts. But please replenish if you use a considerable amount. If you're unable to, that's okay — please let us know, and we'll charge your security deposit accordingly.</li>
+  </ol>
 
-  <p style="margin-top: 1rem;">If anything is unclear or feels off, just reach out on the group chat.</p>
-</div>
+  <h3>Trash</h3>
+  <ol>
+    <li>There's a large bin right at the kitchen entrance. There's an orange bag where we put recyclables.</li>
+    <li>The garbage bag for the kitchen bin is under the kitchen cabinet — look for Simple Human bags.</li>
+    <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are also under the kitchen cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
+    <li>Bins are cleared every Thursday by the city. You just have to drop your bags and recyclables in the bins kept outside (the bins closer to Broadway — the ones you see when you take a left after exiting the entrance to the building). You do <strong>not</strong> have to wheel the bins to the curbside — that's taken care of.</li>
+  </ol>
 
-<!-- Laundry -->
-<div class="hg-section" id="laundry">
-  <h2>Laundry</h2>
-  <p>The washer and dryer are in the <strong>basement</strong> and run on quarters.</p>
-  <div class="hg-infobox">
-    <p><strong>Wash:</strong> $2.50 per load</p>
-    <p><strong>Dry:</strong> $2.00 per cycle (most loads need two cycles)</p>
-    <p><strong>Detergent pods:</strong> a few have been left in the laundry basket for your first use.</p>
-  </div>
-  <p>
-    For your first wash, $6.50 in quarters is in the <a href="#firstuse">First Use Box</a> on the living room cabinet.
-    After that, quarters are available at the <strong>Whole Foods</strong> or the <strong>convenience store at the end of the road</strong>.
-  </p>
-</div>
+  <h3>Mail &amp; Deliveries</h3>
+  <ol>
+    <li>The key to the mailbox is placed on top of the buzzer at the entrance of the apartment. Use it to retrieve any mail.</li>
+    <li>Amazon packages are generally placed outside the entrance to the building. Make sure you provide enough delivery instructions — otherwise they tend to leave packages at the entrance on Broadway.</li>
+  </ol>
 
-<!-- Mail & Deliveries -->
-<div class="hg-section" id="mail">
-  <h2>Mail &amp; Deliveries</h2>
-  <p>[Instructions for collecting mail — e.g., mailbox number, key location, lobby mailroom.]</p>
-  <p>[Amazon and other deliveries — e.g., left at the front door, held at the front desk, delivered to the mailroom. Let us know if a package arrives for us and we'll arrange collection.]</p>
-</div>
+  <h3>Keys</h3>
+  <ol>
+    <li>You have been given one set of keys. There is another set of keys in the bowl on the lampstand at the entrance. If you use the spare keys, please ensure you place them back in the bowl when done.</li>
+  </ol>
 
-<hr class="hg-divider">
+  <h3>Bedrooms</h3>
+  <ol>
+    <li>The main bedroom has a queen bed.</li>
+    <li>The guest room has a futon, which doubles as a comfortable bed for one person.</li>
+    <li>The living room couch can be pulled out to laze around and catch a nap.</li>
+    <li>The closet in the guest room contains our belongings — please do not access or use it. Use the free-standing closet in the living room for your clothes.</li>
+  </ol>
 
-<!-- Living Area -->
-<div class="hg-section" id="living">
-  <h2>Living Area</h2>
-  <div class="hg-photos">
-    <!-- Replace with: <img class="hg-photo" src="/assets/img/home/living-1.jpg" alt="Living area"> -->
-    <div class="hg-photo-placeholder">photo</div>
-    <div class="hg-photo-placeholder">photo</div>
-  </div>
-</div>
+  <h3>Laundry</h3>
+  <ol>
+    <li>There's a washer and dryer in the basement.</li>
+    <li>The door to the right after entering the apartment (right opposite the living room) leads to the rear of the building. The basement door is next to the rear exit.</li>
+    <li>The washer costs $2.50 per wash. The dryer costs $2.00 per cycle. You will need quarters. The convenience store at the street corner or Whole Foods provides quarter-rolls for $10.</li>
+    <li>Please arrange for your own washing pods.</li>
+  </ol>
 
-<!-- Kitchen -->
-<div class="hg-section" id="kitchen">
-  <h2>Kitchen</h2>
-  <div class="hg-photos">
-    <div class="hg-photo-placeholder">photo</div>
-    <div class="hg-photo-placeholder">photo</div>
-  </div>
-  <div class="hg-warn">
-    No garbage disposal — do not wash food scraps down the sink. Wipe plates clean before rinsing.
-  </div>
-  <ul>
-    <li>Hot water kettle available — no coffee machine.</li>
-    <li>Dishes go on the drying rack next to the sink — there is no dishwasher.</li>
-  </ul>
-</div>
+  <h3>Security Cameras</h3>
+  <ol>
+    <li>There are cameras pointing to each of the two entrances. We have never accessed the footage — they're there for what they do best: security. There are no other cameras anywhere inside the house.</li>
+  </ol>
 
-<!-- Pantry -->
-<div class="hg-section" id="pantry">
-  <h2>Pantry</h2>
-  <div class="hg-photos">
-    <div class="hg-photo-placeholder">photo</div>
-  </div>
-  <p>Feel free to use anything in the pantry. Small amounts are fine, but if you've gone through a good portion of something, please restock it before you leave.</p>
-</div>
-
-<!-- Primary Bedroom -->
-<div class="hg-section" id="primary-bedroom">
-  <h2>Primary Bedroom</h2>
-  <div class="hg-photos">
-    <div class="hg-photo-placeholder">photo</div>
-    <div class="hg-photo-placeholder">photo</div>
-  </div>
-</div>
-
-<!-- Guest Room -->
-<div class="hg-section" id="guest-room">
-  <h2>Guest Room</h2>
-  <div class="hg-photos">
-    <div class="hg-photo-placeholder">photo</div>
-    <div class="hg-photo-placeholder">photo</div>
-  </div>
-</div>
-
-<!-- Bathroom -->
-<div class="hg-section" id="bathroom">
-  <h2>Bathroom</h2>
-  <div class="hg-photos">
-    <div class="hg-photo-placeholder">photo</div>
-  </div>
-  <ul>
-    <li>Towels in the cabinet under the sink — help yourself.</li>
-    <li>Extra toilet paper under the sink.</li>
-    <li>Shampoo and shower gel provided — please top them up before you leave if you've used a good amount.</li>
-  </ul>
-  <h3>Drain &amp; toilet upkeep</h3>
-  <ul>
-    <li><strong>Shower drain:</strong> hair and hairballs collect in the drain over time. Please clear them out occasionally — there's a drain cover that lifts out easily.</li>
-    <li><strong>Toilet bowl:</strong> use the bowl cleaner liquid kept under the sink to clean periodically.</li>
-  </ul>
 </div>
 
 <hr class="hg-divider">
@@ -305,61 +232,55 @@ nav: false
   <h2>Checkout Checklist</h2>
   <p>Before you leave, please take a few minutes to go through these. The goal is to leave things roughly as you found them.</p>
 
-  <h3>Living Area</h3>
+  <h3>Keys &amp; Entry</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Cushions back in place on the couch</label></li>
-    <li><label><input type="checkbox"> Any trash cleared</label></li>
-    <li><label><input type="checkbox"> Electronics and lights off</label></li>
+    <li><label><input type="checkbox"> Spare keys returned to the bowl on the lampstand at the entrance</label></li>
+    <li><label><input type="checkbox"> Main keys returned as agreed</label></li>
+    <li><label><input type="checkbox"> All windows and doors locked</label></li>
+    <li><label><input type="checkbox"> AC / heating turned off</label></li>
+  </ul>
+
+  <h3>Floors</h3>
+  <ul class="hg-checklist">
+    <li><label><input type="checkbox"> All floors swept and mopped</label></li>
+    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
   </ul>
 
   <h3>Kitchen</h3>
   <ul class="hg-checklist">
+    <li><label><input type="checkbox"> All countertops scrubbed clean</label></li>
+    <li><label><input type="checkbox"> Stovetop wiped down — no crusted food</label></li>
     <li><label><input type="checkbox"> Dishes washed and left on the drying rack</label></li>
-    <li><label><input type="checkbox"> Stovetop and counters wiped down</label></li>
-    <li><label><input type="checkbox"> Floor swept and mopped</label></li>
     <li><label><input type="checkbox"> Refrigerator cleared of any food you brought</label></li>
     <li><label><input type="checkbox"> Trash bag replaced if full</label></li>
-  </ul>
-
-  <h3>Pantry</h3>
-  <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Items back on their shelves</label></li>
-    <li><label><input type="checkbox"> Open packages sealed</label></li>
-    <li><label><input type="checkbox"> Anything substantially used has been restocked</label></li>
-  </ul>
-
-  <h3>Primary Bedroom</h3>
-  <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Sheets and pillowcases left on the bed (we'll launder them)</label></li>
-    <li><label><input type="checkbox"> Closet and drawers checked — no personal items left behind</label></li>
-    <li><label><input type="checkbox"> Windows closed and lights off</label></li>
-  </ul>
-
-  <h3>Guest Room</h3>
-  <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Sheets and pillowcases left on the bed</label></li>
-    <li><label><input type="checkbox"> Any personal items removed</label></li>
-    <li><label><input type="checkbox"> Windows closed and lights off</label></li>
+    <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
   <h3>Bathroom</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Shower drain cleared of any hairballs</label></li>
+    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
     <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
+    <li><label><input type="checkbox"> Sink cleaned</label></li>
+    <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs</label></li>
+    <li><label><input type="checkbox"> Foot mats washed if due</label></li>
     <li><label><input type="checkbox"> Used towels left on the rack or in the laundry basket</label></li>
-    <li><label><input type="checkbox"> Sink and counter wiped down</label></li>
-    <li><label><input type="checkbox"> Shower rinsed</label></li>
-    <li><label><input type="checkbox"> Shampoo and shower gel topped up if substantially used</label></li>
     <li><label><input type="checkbox"> Personal toiletries taken with you</label></li>
     <li><label><input type="checkbox"> Toilet lid closed</label></li>
   </ul>
 
+  <h3>Bedrooms &amp; Living Area</h3>
+  <ul class="hg-checklist">
+    <li><label><input type="checkbox"> Sheets and pillowcases left on the bed (we'll launder them)</label></li>
+    <li><label><input type="checkbox"> Closet and drawers checked — no personal items left behind</label></li>
+    <li><label><input type="checkbox"> Cushions back in place on the couch</label></li>
+    <li><label><input type="checkbox"> Any trash cleared from all rooms</label></li>
+    <li><label><input type="checkbox"> Electronics and lights off</label></li>
+  </ul>
+
   <h3>Before You Head Out</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> All windows and doors locked</label></li>
-    <li><label><input type="checkbox"> AC / heating turned off</label></li>
-    <li><label><input type="checkbox"> Keys returned to [location]</label></li>
     <li><label><input type="checkbox"> One last walk-through — nothing left behind</label></li>
+    <li><label><input type="checkbox"> Let us know on the group chat that you're checked out</label></li>
   </ul>
 </div>
 
