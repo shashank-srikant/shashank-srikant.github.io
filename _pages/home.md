@@ -138,8 +138,7 @@ nav: false
 <div class="hg-section" id="firstuse">
   <h2>3. First Use Box</h2>
   <p>
-    On the main cabinet in the living room you'll find a box of essentials to get you started.
-    These are for your first use — <strong>no need to replenish</strong> any of it.
+    On the main cabinet in the living room you'll find a box of first-use essentials — <strong>no need to replenish</strong> any of it.
   </p>
   <div class="hg-box">
     <ol>
@@ -181,13 +180,13 @@ nav: false
   <h3>6.1 General</h3>
   <ol>
     <li>Please make it a point to keep the place clean.</li>
-    <li>There's a broom with a dustpan next to the fridge.</li>
-    <li>There's a Swiffer mop rod next to the fridge. The Swiffer pads are in the pantry. If you're not familiar with how to use a Swiffer wet mop, please google it. We recommend mopping down the floors once a week. <span class="hg-tag">long stays only</span></li>
+    <li>Broom and dustpan next to the fridge.</li>
+    <li>Swiffer mop rod also next to the fridge — pads are in the pantry. Mop once a week. <span class="hg-tag">long stays only</span></li>
   </ol>
 
   <h3>6.2 Bathroom</h3>
   <ol>
-    <li>Toilet bowl and sink cleaner is placed under the cabinet in the bathroom. Please clean the bowl and sink once a week using the cleaner. Rubber gloves and a scrubber are also kept in the cabinet under the sink. <span class="hg-tag">long stays only</span></li>
+    <li>Toilet bowl and sink cleaner, rubber gloves, and a scrubber are all under the sink cabinet. Clean bowl and sink once a week. <span class="hg-tag">long stays only</span></li>
     <li>Please Swiffer the bathroom floor as well when you mop the rest of the house. <span class="hg-tag">long stays only</span></li>
     <li>The foot mats in the bathroom — please wash them once every 1–2 weeks. They tend to get fairly dirty. <span class="hg-tag">long stays only</span></li>
     <li>Shower drain: hair and hairballs collect in the drain over time. Please clear them out occasionally — the drain cover lifts out easily. Trash them in the bathroom bin.</li>
@@ -196,7 +195,7 @@ nav: false
   <h3>6.3 Kitchen</h3>
   <ol>
     <li><strong>No garbage disposal:</strong> Do not wash food scraps or food residue down the drain — it will clog the pipes. Wipe plates clean into the trash bin before rinsing.</li>
-    <li><strong>Assorted rags:</strong> We use assorted rags for different purposes — wiping down countertops and stovetops, placing under the drying rack when drying dishes. Please use them. They're in the top left drawer next to the kitchen sink.</li>
+    <li><strong>Assorted rags:</strong> We use assorted rags for different purposes — wiping down countertops and stovetops, placing under the drying rack when drying dishes. They're in the top left drawer next to the kitchen sink.</li>
     <li><strong>Dish scrubber and soap:</strong> Supplies are in the cabinet below the kitchen sink.</li>
     <li><strong>Chain mail scrubber:</strong> For the cast iron pans, we use a chain mail scrubber to clean off grease. It hangs on a hook right on top of the orange recyclables bag — to the left of the sink when facing it.</li>
     <li><strong>Kitchen table and stovetop:</strong> Please use the spray kept under the cabinet below the kitchen sink. Clean these surfaces periodically and do not allow food to crust.</li>
@@ -207,7 +206,7 @@ nav: false
 <div class="hg-section" id="pantry">
   <h2>7. Pantry &amp; Condiments</h2>
   <ol>
-    <li>There's some pasta, rice, and assorted lentils in the pantry. There's cooking oil and assorted spices and condiments on the kitchen counter, in the fridge, and in the freezer (e.g. frozen coconut, frozen curry leaves). It's fine to use modest amounts. But please replenish if you use a considerable amount. If you're unable to, that's okay — please let us know, and we'll charge your security deposit accordingly.</li>
+    <li>There's pasta, rice, lentils, cooking oil, and assorted spices and condiments on the counter, in the fridge, and in the freezer (e.g. frozen coconut, frozen curry leaves). Feel free to use modest amounts — please replenish if you go through a considerable amount.</li>
   </ol>
 </div>
 
@@ -226,7 +225,7 @@ nav: false
 <div class="hg-section" id="mail">
   <h2>9. Mail &amp; Deliveries</h2>
   <ol>
-    <li>The key to the mailbox is placed on top of the buzzer at the entrance of the apartment. Use it to retrieve any mail.</li>
+    <li>The mailbox key is on top of the buzzer at the apartment entrance. The mailbox is by the communal bins near Broadway.</li>
     <li>Any mail addressed to us — please leave it untouched in the living room cabinet, next to the router.</li>
     <li>Amazon packages are generally placed outside the entrance to the building. Make sure you provide enough delivery instructions — otherwise they tend to leave packages at the entrance on Broadway.</li>
   </ol>
@@ -236,7 +235,7 @@ nav: false
 <div class="hg-section" id="keys">
   <h2>10. Keys</h2>
   <ol>
-    <li>You have been given one set of keys. There is another set of keys in the bowl on the lampstand at the entrance. If you use the spare keys, please ensure you place them back in the bowl when done.</li>
+    <li>There's a spare set of keys in the bowl on the lampstand at the entrance — put them back after use.</li>
   </ol>
 </div>
 
@@ -255,8 +254,7 @@ nav: false
 <div class="hg-section" id="laundry">
   <h2>12. Laundry</h2>
   <ol>
-    <li>There's a washer and dryer in the basement.</li>
-    <li>After entering through the front door, take the door to the right — it's opposite the living room and leads to the rear of the building. The basement door is right next to that rear exit.</li>
+    <li>Washer and dryer are in the basement. After entering through the front door, take the door to the right (opposite the living room) — it leads to the rear of the building, where the basement door is.</li>
     <li>The washer costs $2.50 per wash. The dryer costs $2.00 per cycle. You will need quarters. The convenience store at the street corner or Whole Foods provides quarter-rolls for $10.</li>
     <li>Please arrange for your own washing pods.</li>
   </ol>
@@ -266,7 +264,7 @@ nav: false
 <div class="hg-section" id="cameras">
   <h2>13. Security Cameras</h2>
   <ol>
-    <li>There are cameras pointing to each of the two entrances. We have never accessed the footage — they're there for what they do best: security. There are no other cameras anywhere inside the house.</li>
+    <li>Cameras at each of the two entrances — we have never accessed the footage. No cameras inside the house.</li>
   </ol>
 </div>
 
@@ -287,8 +285,7 @@ nav: false
 
   <h3>14.2 Floors <span class="hg-tag">long stays only</span></h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> All floors Swiffered</label></li>
-    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
+    <li><label><input type="checkbox"> All floors Swiffered, including bathroom</label></li>
   </ul>
 
   <h3>14.3 Kitchen</h3>
