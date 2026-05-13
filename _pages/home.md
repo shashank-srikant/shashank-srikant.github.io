@@ -181,7 +181,7 @@ nav: false
   <h3>6.1 General</h3>
   <ol>
     <li>Please make it a point to keep the place clean.</li>
-    <li>There's a broom with a pan next to the fridge.</li>
+    <li>There's a broom with a dustpan next to the fridge.</li>
     <li>There's a Swiffer mop rod next to the fridge. The Swiffer pads are in the pantry. If you're not familiar with how to use a Swiffer wet mop, please google it. We recommend mopping down the floors once a week. <span class="hg-tag">long stays only</span></li>
   </ol>
 
@@ -198,7 +198,7 @@ nav: false
     <li><strong>No garbage disposal:</strong> Do not wash food scraps or food residue down the drain — it will clog the pipes. Wipe plates clean into the trash bin before rinsing.</li>
     <li><strong>Assorted rags:</strong> We use assorted rags for different purposes — wiping down countertops and stovetops, placing under the drying rack when drying dishes. Please use them. They're in the top left drawer next to the kitchen sink.</li>
     <li><strong>Dish scrubber and soap:</strong> Supplies are in the cabinet below the kitchen sink.</li>
-    <li><strong>Chain-metal cleaner:</strong> For the cast iron pans, we prefer cleaning off the grease using the chain-metal cleaner. They are hung on hooks on the left-side edge of the kitchen sink — not immediately visible, you'll have to duck down to find them.</li>
+    <li><strong>Chain mail scrubber:</strong> For the cast iron pans, we use a chain mail scrubber to clean off grease. It hangs on a hook right on top of the orange recyclables bag — to the left of the sink when facing it.</li>
     <li><strong>Kitchen table and stovetop:</strong> Please use the spray kept under the cabinet below the kitchen sink. Clean these surfaces periodically and do not allow food to crust.</li>
   </ol>
 </div>
@@ -215,10 +215,10 @@ nav: false
 <div class="hg-section" id="trash">
   <h2>8. Trash</h2>
   <ol>
-    <li>There's a large bin right at the kitchen entrance. There's an orange bag right next to the trash bin where we put recyclables.</li>
-    <li>The garbage bag for the kitchen bin is under the kitchen cabinet — look for Simple Human bags.</li>
-    <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are also under the kitchen cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
-    <li>Bins are cleared every Thursday by the city. You just have to drop your bags and recyclables in the bins kept outside (the bins closer to Broadway — the ones you see when you take a left after exiting the entrance to the building). You do <strong>not</strong> have to wheel the bins to the curbside — that's taken care of.</li>
+    <li>The large kitchen bin and the orange recyclables bag are to the left of the kitchen sink when facing it.</li>
+    <li>The garbage bag for the kitchen bin is under the kitchen sink cabinet — look for Simple Human bags.</li>
+    <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are also under the kitchen sink cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
+    <li>The building's communal outdoor bins are cleared every Thursday by the city. Just drop your bags and recyclables into those bins — the ones closer to Broadway that you see when taking a left after exiting the building. You do <strong>not</strong> have to wheel them to the curbside — that's taken care of.</li>
   </ol>
 </div>
 
@@ -256,7 +256,7 @@ nav: false
   <h2>12. Laundry</h2>
   <ol>
     <li>There's a washer and dryer in the basement.</li>
-    <li>The door to the right after entering the apartment (right opposite the living room) leads to the rear of the building. The basement door is next to the rear exit.</li>
+    <li>After entering through the front door, take the door to the right — it's opposite the living room and leads to the rear of the building. The basement door is right next to that rear exit.</li>
     <li>The washer costs $2.50 per wash. The dryer costs $2.00 per cycle. You will need quarters. The convenience store at the street corner or Whole Foods provides quarter-rolls for $10.</li>
     <li>Please arrange for your own washing pods.</li>
   </ol>
@@ -280,7 +280,7 @@ nav: false
   <h3>14.1 Keys &amp; Entry</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Spare keys returned to the bowl on the lampstand at the entrance</label></li>
-    <li><label><input type="checkbox"> Main keys returned as agreed</label></li>
+    <li><label><input type="checkbox"> Main keys returned to us — coordinate handover on the group chat</label></li>
     <li><label><input type="checkbox"> All windows and doors locked</label></li>
     <li><label><input type="checkbox"> AC / heating turned off</label></li>
   </ul>
@@ -297,9 +297,7 @@ nav: false
     <li><label><input type="checkbox"> Stovetop wiped down — no crusted food</label></li>
     <li><label><input type="checkbox"> Dishes washed and left on the drying rack</label></li>
     <li><label><input type="checkbox"> Refrigerator cleared of any food you brought</label></li>
-    <li><label><input type="checkbox"> Trash bags cleared out and replaced with empty bags</label></li>
-    <li><label><input type="checkbox"> Living room paper bin emptied</label></li>
-    <li><label><input type="checkbox"> Guest room trash bag binned and replaced with a fresh one</label></li>
+    <li><label><input type="checkbox"> Kitchen bin bag cleared out and replaced with a fresh one</label></li>
     <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
@@ -315,23 +313,24 @@ nav: false
   </ul>
   <p class="hg-group-label">Long stays only</p>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Bathroom floor Swiffered</label></li>
     <li><label><input type="checkbox"> Foot mats washed</label></li>
   </ul>
 
   <h3>14.5 Bedrooms &amp; Living Area</h3>
   <ul class="hg-checklist">
-    <li><label><input type="checkbox"> Sheets and pillowcases placed in a trash bag and left inside the closet near the entrance</label></li>
-    <li><label><input type="checkbox"> Closet and drawers checked — no personal items left behind</label></li>
+    <li><label><input type="checkbox"> Sheets and pillowcases placed in a bin bag and left inside the closet near the entrance</label></li>
+    <li><label><input type="checkbox"> Free-standing closet in the main bedroom checked — no personal items left behind</label></li>
+    <li><label><input type="checkbox"> Living room paper bin emptied</label></li>
+    <li><label><input type="checkbox"> Guest room bin bag cleared out and replaced with a fresh one</label></li>
     <li><label><input type="checkbox"> Cushions back in place on the couch</label></li>
-    <li><label><input type="checkbox"> Any trash cleared from all rooms</label></li>
+    <li><label><input type="checkbox"> Any loose trash on tables and surfaces cleared</label></li>
     <li><label><input type="checkbox"> Electronics and lights off</label></li>
   </ul>
 
   <h3>14.6 Before You Head Out</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Video call with us before leaving</label></li>
-    <li><label><input type="checkbox"> Let us know on the group chat that you're checked out</label></li>
+    <li><label><input type="checkbox"> Drop a message on the group chat confirming checkout</label></li>
   </ul>
 </div>
 
