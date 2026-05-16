@@ -210,9 +210,29 @@ nav: false
   </ol>
 </div>
 
+<!-- Apartment Items -->
+<div class="hg-section" id="items">
+  <h2>8. What Stays Here</h2>
+  <p>
+    Think of it like <a href="https://www.youtube.com/watch?v=NdSrtHJUXbs" target="_blank">Ross and Chandler at the hotel</a> — except please don't do what they did.
+    Everything in the apartment is yours to use freely during your stay; it just needs to still be here when you leave.
+    Crockery, water bottles, cookware, condiments, kitchen tools — all of it lives here permanently.
+  </p>
+
+  <h3>Security Deposit</h3>
+  <p>We charge a refundable security deposit, which covers situations like:</p>
+  <ul>
+    <li>Pantry items or condiments substantially used and not restocked</li>
+    <li>Apartment items that leave with you</li>
+    <li>Damage beyond normal wear</li>
+    <li>Cleaning required beyond the checkout checklist</li>
+  </ul>
+  <p>We'll always have a conversation before anything is deducted — no surprises.</p>
+</div>
+
 <!-- Trash -->
 <div class="hg-section" id="trash">
-  <h2>8. Trash</h2>
+  <h2>9. Trash</h2>
   <ol>
     <li>The large kitchen bin and the orange recyclables bag are to the left of the kitchen sink when facing it.</li>
     <li>The garbage bag for the kitchen bin is under the kitchen sink cabinet — look for Simple Human bags.</li>
@@ -223,7 +243,7 @@ nav: false
 
 <!-- Mail -->
 <div class="hg-section" id="mail">
-  <h2>9. Mail &amp; Deliveries</h2>
+  <h2>10. Mail &amp; Deliveries</h2>
   <ol>
     <li>The mailbox key is on top of the buzzer at the apartment entrance. The mailbox is by the communal bins near Broadway.</li>
     <li>Any mail addressed to us — please leave it untouched in the living room cabinet, next to the router.</li>
@@ -233,7 +253,7 @@ nav: false
 
 <!-- Keys -->
 <div class="hg-section" id="keys">
-  <h2>10. Keys</h2>
+  <h2>11. Keys</h2>
   <ol>
     <li>There's a spare set of keys in the bowl on the lampstand at the entrance — put them back after use.</li>
   </ol>
@@ -241,18 +261,19 @@ nav: false
 
 <!-- Bedrooms -->
 <div class="hg-section" id="bedrooms">
-  <h2>11. Bedrooms</h2>
+  <h2>12. Bedrooms</h2>
   <ol>
     <li>The main bedroom has a queen bed.</li>
     <li>The guest room has a futon, which doubles as a comfortable bed for one person.</li>
     <li>The living room couch can be pulled out to laze around and catch a nap.</li>
     <li>The closet in the guest room contains our belongings — please do not access or use it. Use the free-standing closet in the main bedroom for your clothes.</li>
+    <li>Spare sheets are in the open closet in the main bedroom — help yourself if you need a fresh set.</li>
   </ol>
 </div>
 
 <!-- Laundry -->
 <div class="hg-section" id="laundry">
-  <h2>12. Laundry</h2>
+  <h2>13. Laundry</h2>
   <ol>
     <li>Washer and dryer are in the basement. After entering through the front door, take the door to the right (opposite the living room) — it leads to the rear of the building, where the basement door is.</li>
     <li>The washer costs $2.50 per wash. The dryer costs $2.00 per cycle. You will need quarters. The convenience store at the street corner or Whole Foods provides quarter-rolls for $10.</li>
@@ -262,7 +283,7 @@ nav: false
 
 <!-- Security Cameras -->
 <div class="hg-section" id="cameras">
-  <h2>13. Security Cameras</h2>
+  <h2>14. Security Cameras</h2>
   <ol>
     <li>Cameras at each of the two entrances — we have never accessed the footage. No cameras inside the house.</li>
   </ol>
@@ -272,10 +293,10 @@ nav: false
 
 <!-- Checkout Checklist -->
 <div class="hg-section" id="checkout">
-  <h2>14. Checkout Checklist</h2>
+  <h2>15. Checkout Checklist</h2>
   <p>Before you leave, please take a few minutes to go through these. The goal is to leave things roughly as you found them.</p>
 
-  <h3>14.1 Keys &amp; Entry</h3>
+  <h3>15.1 Keys &amp; Entry</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Spare keys returned to the bowl on the lampstand at the entrance</label></li>
     <li><label><input type="checkbox"> Main keys returned to us — coordinate handover on the group chat</label></li>
@@ -283,12 +304,12 @@ nav: false
     <li><label><input type="checkbox"> AC / heating turned off</label></li>
   </ul>
 
-  <h3>14.2 Floors <span class="hg-tag">long stays only</span></h3>
+  <h3>15.2 Floors <span class="hg-tag">long stays only</span></h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> All floors Swiffered, including bathroom</label></li>
   </ul>
 
-  <h3>14.3 Kitchen</h3>
+  <h3>15.3 Kitchen</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> All countertops scrubbed clean</label></li>
     <li><label><input type="checkbox"> Stovetop wiped down — no crusted food</label></li>
@@ -298,7 +319,7 @@ nav: false
     <li><label><input type="checkbox"> Pantry items restocked if substantially used</label></li>
   </ul>
 
-  <h3>14.4 Bathroom</h3>
+  <h3>15.4 Bathroom</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs — trashed in the bathroom bin</label></li>
     <li><label><input type="checkbox"> Bathroom bin bag cleared out and replaced with a fresh one</label></li>
@@ -313,7 +334,7 @@ nav: false
     <li><label><input type="checkbox"> Foot mats washed</label></li>
   </ul>
 
-  <h3>14.5 Bedrooms &amp; Living Area</h3>
+  <h3>15.5 Bedrooms &amp; Living Area</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Sheets and pillowcases placed in a bin bag and left inside the closet near the entrance</label></li>
     <li><label><input type="checkbox"> Free-standing closet in the main bedroom checked — no personal items left behind</label></li>
@@ -324,7 +345,7 @@ nav: false
     <li><label><input type="checkbox"> Electronics and lights off</label></li>
   </ul>
 
-  <h3>14.6 Before You Head Out</h3>
+  <h3>15.6 Before You Head Out</h3>
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Video call with us before leaving</label></li>
     <li><label><input type="checkbox"> Drop a message on the group chat confirming checkout</label></li>
@@ -335,7 +356,7 @@ nav: false
 
 <!-- Contact -->
 <div class="hg-section" id="contact">
-  <h2>15. Contact &amp; Emergencies</h2>
+  <h2>16. Contact &amp; Emergencies</h2>
   <p>
     Please keep all communication in the <strong>group chat</strong> already started with us — that way we're both in the loop.
     Avoid direct messages so nothing slips through.
