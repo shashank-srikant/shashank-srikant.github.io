@@ -152,9 +152,8 @@ header { display: none !important; }
       <li>1 kitchen roll</li>
       <li>A few toilet rolls</li>
       <li>Box of tissues in each room</li>
-      <li>A new comb and toothbrushes</li>
+      <li>Toiletries bag — in the bathroom</li>
       <li>Small first-aid box — in the cabinet next to the WiFi router</li>
-      <li>Body wash, shampoo, and toothpaste — in the bathroom</li>
     </ol>
   </div>
   <p><small>For everything else — dish soap and other consumables — please purchase and replenish as needed.</small></p>
