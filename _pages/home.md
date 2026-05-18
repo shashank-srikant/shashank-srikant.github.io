@@ -151,7 +151,6 @@ header { display: none !important; }
       <li>Laundry detergent pods <small>(also in the laundry basket in the main bedroom)</small></li>
       <li>A few toilet and kitchen rolls</li>
       <li>Toiletries bag — in the bathroom</li>
-      <li>Small first-aid box — in the cabinet next to the WiFi router</li>
     </ol>
   </div>
   <p><small>For everything else — dish soap and other consumables — please purchase and replenish as needed.</small></p>
@@ -369,5 +368,8 @@ header { display: none !important; }
   </p>
   <p>
     <strong>Emergency?</strong> Call 911 first. Then let us know in the chat.
+  </p>
+  <p>
+    <strong>First aid:</strong> There's a small first-aid box in the cabinet next to the WiFi router — help yourself if you need it.
   </p>
 </div>
