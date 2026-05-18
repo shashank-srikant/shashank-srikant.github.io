@@ -134,8 +134,8 @@ header { display: none !important; }
   <h2>2. WiFi</h2>
   <div class="hg-infobox">
     <p><strong>Network:</strong> NM-Guest</p>
-    <p><strong>Password:</strong> <code>cambridgemaas</code> + the 5-letter word on the router label</p>
-    <p><small>The router is in the living room cabinet. The word is on the label on the side of the router.</small></p>
+    <p><strong>Password:</strong> <code>cambridgemaas</code> followed immediately by the 5-letter word on the router label — one continuous string, no spaces, no hyphens, no numbers.</p>
+    <p><small>The router is in the living room cabinet; the word is on the label on its side.</small></p>
   </div>
 </div>
 
