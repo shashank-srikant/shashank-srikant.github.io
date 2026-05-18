@@ -149,9 +149,7 @@ header { display: none !important; }
     <ol>
       <li>Quarters — $5 (enough for one wash + one dry cycle)</li>
       <li>Laundry detergent pods <small>(also in the laundry basket in the main bedroom)</small></li>
-      <li>1 kitchen roll</li>
-      <li>A few toilet rolls</li>
-      <li>Box of tissues in each room</li>
+      <li>A few toilet and kitchen rolls</li>
       <li>Toiletries bag — in the bathroom</li>
       <li>Small first-aid box — in the cabinet next to the WiFi router</li>
     </ol>
