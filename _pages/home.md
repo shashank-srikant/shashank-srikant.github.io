@@ -3,7 +3,10 @@ layout: default
 title: Home Guide
 permalink: /home
 nav: false
+sitemap: false
 ---
+
+<meta name="robots" content="noindex, nofollow">
 
 <style>
 .hg-hero { margin-bottom: 1.5rem; }
@@ -68,6 +71,8 @@ nav: false
 .hg-checklist input[type=checkbox] { margin-right: 0.5rem; accent-color: #555; vertical-align: middle; }
 
 .hg-divider { border: none; border-top: 1px solid #ececec; margin: 2rem 0; }
+
+header { display: none !important; }
 
 .hg-tag {
   display: inline-block;
