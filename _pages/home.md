@@ -260,6 +260,8 @@ header { display: none !important; }
   <h2>11. Keys</h2>
   <ol>
     <li>There's a spare set of keys in the bowl on the lampstand at the entrance — put them back after use.</li>
+    <li>The building entrance door is auto-locking — you'll need your key to get back in.</li>
+    <li>The apartment door does <strong>not</strong> auto-lock, so locking yourself out is unlikely. Just make sure to lock it manually when you leave.</li>
   </ol>
 </div>
 
@@ -327,8 +329,7 @@ header { display: none !important; }
   <ul class="hg-checklist">
     <li><label><input type="checkbox"> Shower rinsed; drain cleared of any hairballs — trashed in the bathroom bin</label></li>
     <li><label><input type="checkbox"> Bathroom bin bag cleared out and replaced with a fresh one</label></li>
-    <li><label><input type="checkbox"> Used towels, toothbrush, combs, and sanitary items — disposed of in a trash bag</label></li>
-    <li><label><input type="checkbox"> Partially used toothpaste, shampoo, and body wash — leave as-is</label></li>
+    <li><label><input type="checkbox"> Used towels, toothbrush, combs, sanitary items, and any partially used toiletries (toothpaste, shampoo, body wash) — all disposed of in a trash bag</label></li>
     <li><label><input type="checkbox"> Toilet bowl cleaned</label></li>
     <li><label><input type="checkbox"> Sink cleaned</label></li>
     <li><label><input type="checkbox"> Toilet lid closed</label></li>
