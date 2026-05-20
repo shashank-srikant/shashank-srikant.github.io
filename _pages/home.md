@@ -109,7 +109,7 @@ header { display: none !important; }
 <!-- Quick Navigation -->
 <div class="hg-quicknav">
   <a href="#wifi" class="hg-qlink"><span class="ql-icon">&#128246;</span>WiFi</a>
-  <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>First Use Box</a>
+  <a href="#firstuse" class="hg-qlink"><span class="ql-icon">&#127873;</span>On Arrival</a>
   <a href="#cleaning" class="hg-qlink"><span class="ql-icon">&#129529;</span>Cleaning</a>
   <a href="#trash" class="hg-qlink"><span class="ql-icon">&#128465;</span>Trash</a>
   <a href="#laundry" class="hg-qlink"><span class="ql-icon">&#128085;</span>Laundry</a>
@@ -139,17 +139,16 @@ header { display: none !important; }
   </div>
 </div>
 
-<!-- First Use Box -->
+<!-- On Arrival -->
 <div class="hg-section" id="firstuse">
-  <h2>3. First Use Box</h2>
-  <p>
-    On the main cabinet in the living room you'll find a box of first-use essentials — <strong>no need to replenish</strong> any of it.
-  </p>
+  <h2>3. On Arrival</h2>
+  <p>We've left a few things around the apartment to get you started — <strong>no need to replenish</strong> any of it.</p>
   <div class="hg-box">
     <ol>
-      <li>Quarters — $5 (enough for one wash + one dry cycle)</li>
-      <li>Laundry detergent pods <small>(also in the laundry basket in the main bedroom)</small></li>
-      <li>A few toilet and kitchen rolls</li>
+      <li>Quarters — $5 in the bowl on the lampstand at the entrance (enough for one wash + one dry cycle)</li>
+      <li>Laundry detergent pods — in the laundry basket in the main bedroom</li>
+      <li>A few toilet rolls — under the bathroom sink cabinet</li>
+      <li>1 kitchen roll — in the kitchen</li>
       <li>Toiletries bag — in the bathroom</li>
     </ol>
   </div>
@@ -366,9 +365,6 @@ header { display: none !important; }
     <strong>Locked out?</strong> Send a message in the group chat and we'll work it out.
   </p>
   <p>
-    <strong>Emergency?</strong> Call 911 first. Then let us know in the chat.
-  </p>
-  <p>
-    <strong>First aid:</strong> There's a small first-aid box in the cabinet next to the WiFi router — help yourself if you need it.
+    <strong>Emergency?</strong> Call 911 first. Then let us know in the chat. There's a small first-aid box in the cabinet next to the WiFi router.
   </p>
 </div>
