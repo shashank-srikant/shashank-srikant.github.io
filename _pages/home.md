@@ -342,7 +342,6 @@ header { display: none !important; }
     <li><label><input type="checkbox"> Free-standing closet in the main bedroom checked — no personal items left behind</label></li>
     <li><label><input type="checkbox"> Living room paper bin emptied</label></li>
     <li><label><input type="checkbox"> Guest room bin bag cleared out and replaced with a fresh one</label></li>
-    <li><label><input type="checkbox"> Cushions back in place on the couch</label></li>
     <li><label><input type="checkbox"> Any loose trash on tables and surfaces cleared</label></li>
     <li><label><input type="checkbox"> Electronics and lights off</label></li>
   </ul>
