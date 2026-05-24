@@ -235,8 +235,8 @@ header { display: none !important; }
   <h2>9. Trash</h2>
   <ol>
     <li>The large kitchen bin and the orange recyclables bag are to the left of the kitchen sink when facing it.</li>
-    <li>The garbage bag for the kitchen bin is under the kitchen sink cabinet — look for Simple Human bags.</li>
-    <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are also under the kitchen sink cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
+    <li>The garbage bag for the kitchen bin is under the kitchen sink cabinet — look for Hefty medium trash bags.</li>
+    <li>There are smaller bins in the guest room and bathroom. The garbage bags for these are under the bathroom sink cabinet — Simple Human size B bags. The blue trash bin in the living room is only for paper waste; please don't throw wet waste in it.</li>
     <li>The building's communal outdoor bins are cleared every Thursday by the city. Just drop your bags and recyclables into those bins — the ones closer to Broadway that you see when taking a left after exiting the building. You do <strong>not</strong> have to wheel them to the curbside — that's taken care of.</li>
   </ol>
 </div>
