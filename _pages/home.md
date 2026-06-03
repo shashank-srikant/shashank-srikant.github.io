@@ -123,7 +123,7 @@ header { display: none !important; }
 <div class="hg-section" id="checkin">
   <h2>1. Check-in</h2>
   <ol>
-    <li>Send us copies of your identity documents via email to confirm your booking.</li>
+    <li>Send us copies of your identity documents via email to confirm your stay.</li>
     <li>Pay the first month's rent to secure your stay — we'll share payment details on the group chat.</li>
     <li>Once confirmed, we'll coordinate with you directly to hand over the keys.</li>
   </ol>
