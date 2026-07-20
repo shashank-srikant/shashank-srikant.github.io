@@ -1,25 +1,256 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>{{ site.url }}/</loc>
-    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <loc>https://shashank-srikant.github.io/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
     <priority>1.0</priority>
   </url>
-  {% for page in site.pages %}{% if page.url != "/404.html" and page.url != "/robots.txt" and page.url != "/sitemap.xml" %}
+  
   <url>
-    <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-    <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+    <loc>https://shashank-srikant.github.io/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
     <priority>0.7</priority>
   </url>
-  {% endif %}{% endfor %}
-  {% for post in site.posts %}
+  
   <url>
-    <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
-    <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+    <loc>https://shashank-srikant.github.io/tag/adversarial-nlp/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/aspiring-academics/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/bio</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/cal</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/cognitive-neuroscience/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/collaborate</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/concurrency-bug-detection/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/constrained-decoding/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/fun/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/home</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/assets/css/main.css</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/minmax-optimization/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/ml-for-plse/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/papers/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/politics</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/program-representation/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/pronounce</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/psycholinguistics/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/relationships</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/sigtbd/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/tag/thesis/</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/index.html</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/assets/css/main.css.map</loc>
+    <lastmod>2026-07-20T15:21:46+00:00</lastmod>
+    <priority>0.7</priority>
+  </url>
+  
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/nature-24/</loc>
+    <lastmod>2024-01-20T00:00:00+00:00</lastmod>
     <priority>0.6</priority>
   </url>
-  {% endfor %}
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/thesis/</loc>
+    <lastmod>2023-04-20T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/sigtbd-2023/</loc>
+    <lastmod>2023-04-07T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/raceinjector-23/</loc>
+    <lastmod>2023-03-20T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/goli-23/</loc>
+    <lastmod>2023-01-30T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/neurips22-brain/</loc>
+    <lastmod>2022-10-01T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/saner23/</loc>
+    <lastmod>2022-01-10T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/ijcai21/</loc>
+    <lastmod>2021-07-20T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/iclr21/</loc>
+    <lastmod>2021-01-12T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/elife20/</loc>
+    <lastmod>2020-12-15T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/vulcan20/</loc>
+    <lastmod>2020-02-15T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/sigtbd-2019/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/aspiring-academics/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/danskin/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/aspiring-academics-old/</loc>
+    <lastmod>2018-07-15T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/ds-for-kids/</loc>
+    <lastmod>2017-07-07T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://shashank-srikant.github.io/notes/grading-programs/</loc>
+    <lastmod>2016-07-15T00:00:00+00:00</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
 </urlset>
