@@ -40,3 +40,6 @@ I also spent a year understanding how a state government delivers its <a href="h
 - <p><a href="https://shashank-srikant.github.io/notes/thesis/">My PhD thesis</a></p>
 
 - <p><a href="https://shashank-srikant.github.io/notes/aspiring-academics/">My short course</a> on getting started with research in CS (particularly applicable to undergraduates).</p>
+
+
+- <p><a href="https://shashank-srikant.github.io/interesting-reads">Interesting reads</a> - articles I enjoyed, with short summaries.</p>
