@@ -1,7 +1,7 @@
 ---
 layout: default
 title: interesting reads
-permalink: /interesting-reads
+permalink: /interesting-reads/
 ---
 
 - Oct 2026: [The Danger of Getting Too Close to a Source (The New Yorker)](/interesting-reads/The_Danger_of_Getting_Too_Close_to_a_Source.pdf)
