@@ -4,6 +4,8 @@ title: interesting reads
 permalink: /interesting-reads
 ---
 
+- Oct 2026: [The Danger of Getting Too Close to a Source (The New Yorker)](/interesting-reads/The_Danger_of_Getting_Too_Close_to_a_Source.pdf)
+  <br>Bob Woodward recounts his decades-long friendship with Richard Darman, a White House insider who was also his source. It ended when Woodward's 1992 articles on the Bush White House exposed what Darman had told him. A reflection on where friendship and reporting collide.
 - Oct 2026: [The First Social Network (The New Yorker)](/interesting-reads/The_First_Social_Network.pdf)
   <br>In rural Patagonia, isolated shepherds and gauchos still send each other personal messages over a daily AM radio program. A portrait of a community held together by a technology most of the world has abandoned.
 - Aug 2026: [The Children a Scientist Took Home (The New Yorker)](/interesting-reads/The_Children_a_Scientist_Took_Home.pdf)
