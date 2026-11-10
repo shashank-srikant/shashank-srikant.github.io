@@ -4,6 +4,12 @@ title: interesting reads
 permalink: /interesting-reads/
 ---
 
+- Nov 2026: [Computer Chips Are the Most Magnificent Things Humanity Has Ever Made (The New Yorker)](/interesting-reads/Computer_Chips_Are_the_Most_Magnificent_Things_Humanity_Has_Ever_Made.pdf)
+  <br>Gideon Lewis-Kraus argues that the semiconductor supply chain, not the moon landing, is modern civilization's great collective monument. A long look at how chips are made, how manufacturing left the United States, and why they now sit at the centre of geopolitical rivalry.
+- Nov 2026: [How the D.S.A. Learned to Love Elections (The New Yorker)](/interesting-reads/How_the_DSA_Learned_to_Love_Elections.pdf)
+  <br>Benjamin Wallace-Wells reports on the Democratic Socialists of America, a group of about 130,000 members that believes in class revolution and is nonetheless winning primaries. Follows the Los Angeles chapter's internal fight over endorsing a mayoral candidate.
+- Nov 2026: [Of Microchips and Men: A Conversation About Intel (The New Yorker)](/interesting-reads/Of_Microchips_and_Men_A_Conversation_About_Intel.pdf)
+  <br>A 2014 interview with Michael S. Malone, author of "The Intel Trinity," on Intel's origins under Robert Noyce and Gordon Moore, and how the integrated circuit and the microprocessor shaped science, finance and culture.
 - Oct 2026: [The Danger of Getting Too Close to a Source (The New Yorker)](/interesting-reads/The_Danger_of_Getting_Too_Close_to_a_Source.pdf)
   <br>Bob Woodward recounts his decades-long friendship with Richard Darman, a White House insider who was also his source. It ended when Woodward's 1992 articles on the Bush White House exposed what Darman had told him. A reflection on where friendship and reporting collide.
 - Oct 2026: [The First Social Network (The New Yorker)](/interesting-reads/The_First_Social_Network.pdf)
